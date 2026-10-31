@@ -1,0 +1,981 @@
+﻿"Alphabetical Listing of Variables in the Public-Use Data Files, National Immunization Survey - Teen, 2008-2023",,,,,,,,,,,,,,,,,,
+Variable Name,Variable Label,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,Notes
+AGE,AGE IN YEARS OF SELECTED TEEN,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+AGEGRP_M_I,MOTHER'S AGE CATEGORIES: IMPUTED (RECODE),Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+ASTHMA,HAS TEEN BEEN TOLD BY DOCTOR OR OTHER HEALTH PROFESSIONAL THAT HE/SHE HAS ASTHMA?,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+C1R,NUMBER OF PEOPLE IN HOUSEHOLD (RECODE),Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+C5R,RELATIONSHIP OF RESPONDENT TO TEEN (RECODE),Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+CEN_REG,CENSUS REGION BASED ON TRUE STATE OF RESIDENCE,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+CHILDNM,NUMBER OF CHILDREN UNDER 18 YEARS OF AGE IN HH (RECODE),Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+CKUP_11_12,DID TEEN HAVE AN 11-12 YEAR OLD WELL-CHILD EXAM OR CHECK-UP?,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+CKUP_AGE,AGE IN YEARS AT LAST CHECK-UP,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+CKUP_LAST,WAS TEEN'S LAST CHECK-UP MORE OR LESS THAN (AGE - 12) YEARS AGO?,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+CPOX_AGE,AGE IN YEARS WHEN HAD CHICKEN POX DISEASE,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+CPOX_AGER,AGE RANGE WHEN HAD CHICKEN POX DISEASE,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+CPOX_HAD,TEEN EVER HAD CHICKEN POX DISEASE?,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+D6R,NUMBER OF PROVIDERS IDENTIFIED BY RESPONDENT (NOT DE-DUPLICATED) (RECODE),Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+D7,CONSENT TO OBTAIN VACCINATION RECORDS FROM PROVIDERS,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+EDUC_TR,TEEN'S CURRENT GRADE IN SCHOOL (RECODE),Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+EDUC1,EDUCATION LEVEL OF MOTHER WITH 4 CATEGORIES: IMPUTED (RECODE),Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+EST_GRANT,AREA OF RESIDENCE PER THE 56 CORE NIS GRANTEE AREAS,-,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Added in 2012 to facilitate production of estimates for the 56 core areas.
+ESTIAPT08,ESTIMATION AREA OF RESIDENCE,Y,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Replaced by ESTIAPT09 in 2009.
+ESTIAPT09,ESTIMATION AREA OF RESIDENCE,-,Y,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Replaced ESTIAPT08 in 2009 because estimation areas were modified. Replaced by ESTIAPT10 in 2010.
+ESTIAPT10,ESTIMATION AREA OF RESIDENCE,-,-,Y,-,-,-,-,-,-,-,-,-,-,-,-,-,Replaced ESTIAPT09 in 2010 because estimation areas were modified. Replaced by ESTIAPT11 in 2011.
+ESTIAPT11,ESTIMATION AREA OF RESIDENCE,-,-,-,Y,-,-,-,-,-,-,-,-,-,-,-,-,Replaced ESTIAPT10 in 2011 because estimation areas were modified. Replaced by ESTIAPT12 in 2012.
+ESTIAPT12,ESTIMATION AREA OF RESIDENCE,-,-,-,-,Y,-,-,-,-,-,-,-,-,-,-,-,Replaced ESTIAPT11 in 2012 because estimation areas were modified. Replaced by ESTIAPT13 in 2013.
+ESTIAPT13,ESTIMATION AREA OF RESIDENCE,-,-,-,-,-,Y,-,-,-,-,-,-,-,-,-,-,Replaced ESTIAPT12 in 2013 because estimation areas were modified. Replaced by ESTIAPT14 in 2014.
+ESTIAPT14,ESTIMATION AREA OF RESIDENCE,-,-,-,-,-,-,Y,-,-,-,-,-,-,-,-,-,Replaced ESTIAPT13 in 2014 because estimation areas were modified. Replaced by ESTIAPT15 in 2015.
+ESTIAPT15,ESTIMATION AREA OF RESIDENCE,-,-,-,-,-,-,-,Y,-,-,-,-,-,-,-,-,Replaced ESTIAPT14 in 2015 because estimation areas were modified. Replaced by ESTIAPT16 in 2016.
+ESTIAPT16,ESTIMATION AREA OF RESIDENCE,-,-,-,-,-,-,-,-,Y,-,-,-,-,-,-,-,Replaced ESTIAPT15 in 2016 because estimation areas were modified. Replaced by ESTIAPT17 in 2017.
+ESTIAPT17,ESTIMATION AREA OF RESIDENCE,-,-,-,-,-,-,-,-,-,Y,-,-,-,-,-,-,Replaced ESTIAPT16 in 2017 because estimation areas were modified. Replaced by ESTIAPT18 in 2018.
+ESTIAPT18,ESTIMATION AREA OF RESIDENCE,-,-,-,-,-,-,-,-,-,-,Y,-,-,-,-,-,Replaced ESTIAPT17 in 2018 because estimation areas were modified. Replaced by ESTIAPT19 in 2019.
+ESTIAPT19,ESTIMATION AREA OF RESIDENCE,-,-,-,-,-,-,-,-,-,-,-,Y,,,,,Replaced ESTIAPT18 in 2019 because estimation areas were modified. Replaced by ESTIAPT20 in 2020.
+ESTIAPT20,ESTIMATION AREA OF RESIDENCE,,,,,,,,,,,,,Y,,,,Replaced ESTIAPT19 in 2020 because estimation areas were modified. Replaced by ESTIAPT21 in 2021.
+ESTIAPT21,ESTIMATION AREA OF RESIDENCE,,,,,,,,,,,,,,Y,,,Replaced ESTIAPT20 in 2021 because estimation areas were modified. Replaced by ESTIAPT23 in 2022.
+ESTIAPT22,ESTIMATION AREA OF RESIDENCE,,,,,,,,,,,,,,,Y,,Replaced ESTIAPT21 in 2022 because estimation areas were modified. Replaced by ESTIAPT23 in 2023.
+ESTIAPT23,ESTIMATION AREA OF RESIDENCE,,,,,,,,,,,,,,,,Y,Replaced ESTIAPT22 in 2023 because estimation areas were modified.
+FACILITY,FACILITY TYPES FOR TEEN'S PROVIDERS,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y, -
+FLU_AGE,AGE OF TEEN IN YEARS AT HH-REPORTED INFLUENZA VACCINATION RECEIVED MOST RECENTLY,Y,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Dropped in 2009 due to midYear questionnaire changes.
+FLU_AGE1,AGE IN YEARS OF PROV-REPORTED SEASONAL INFLUENZA VACCINATION IN PAST THREE YEARS #1,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+FLU_AGE2,AGE IN YEARS OF PROV-REPORTED SEASONAL INFLUENZA VACCINATION IN PAST THREE YEARS #2,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+FLU_AGE3,AGE IN YEARS OF PROV-REPORTED SEASONAL INFLUENZA VACCINATION IN PAST THREE YEARS #3,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+FLU_AGE4,AGE IN YEARS OF PROV-REPORTED SEASONAL INFLUENZA VACCINATION IN PAST THREE YEARS #4,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+FLU_AGE5,AGE IN YEARS OF PROV-REPORTED SEASONAL INFLUENZA VACCINATION IN PAST THREE YEARS #5,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+FLU_AGE6,AGE IN YEARS OF PROV-REPORTED SEASONAL INFLUENZA VACCINATION IN PAST THREE YEARS #6,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+FLU_AGE7,AGE IN YEARS OF PROV-REPORTED SEASONAL INFLUENZA VACCINATION IN PAST THREE YEARS #7,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+FLU_AGE8,AGE IN YEARS OF PROV-REPORTED SEASONAL INFLUENZA VACCINATION IN PAST THREE YEARS #8,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+FLU_AGE9,AGE IN YEARS OF PROV-REPORTED SEASONAL INFLUENZA VACCINATION IN PAST THREE YEARS #9,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+FLU_ANY_REC,HH-REPORT: HAS TEEN RECEIVED ANY INFLUENZA VACCINATIONS IN PAST 12 MONTHS? (RECALL),Y,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Dropped in 2009 due to midYear questionnaire changes.
+FLU_ANY_SC,HH-REPORT: HAS TEEN RECEIVED ANY INFLUENZA VACCINATIONS IN PAST 12 MONTHS? (SHOTCARD),Y,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Dropped in 2009 due to midYear questionnaire changes.
+FLU_DAGE1,AGE IN DAYS OF PROV-REPORTED SEASONAL INFLUENZA VACCINATION IN PAST THREE YEARS #1,-,-,-,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011. Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+FLU_DAGE2,AGE IN DAYS OF PROV-REPORTED SEASONAL INFLUENZA VACCINATION IN PAST THREE YEARS #2,-,-,-,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011. Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+FLU_DAGE3,AGE IN DAYS OF PROV-REPORTED SEASONAL INFLUENZA VACCINATION IN PAST THREE YEARS #3,-,-,-,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011. Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+FLU_DAGE4,AGE IN DAYS OF PROV-REPORTED SEASONAL INFLUENZA VACCINATION IN PAST THREE YEARS #4,-,-,-,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011. Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+FLU_DAGE5,AGE IN DAYS OF PROV-REPORTED SEASONAL INFLUENZA VACCINATION IN PAST THREE YEARS #5,-,-,-,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011. Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+FLU_DAGE6,AGE IN DAYS OF PROV-REPORTED SEASONAL INFLUENZA VACCINATION IN PAST THREE YEARS #6,-,-,-,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011. Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+FLU_DAGE7,AGE IN DAYS OF PROV-REPORTED SEASONAL INFLUENZA VACCINATION IN PAST THREE YEARS #7,-,-,-,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011. Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+FLU_DAGE8,AGE IN DAYS OF PROV-REPORTED SEASONAL INFLUENZA VACCINATION IN PAST THREE YEARS #8,-,-,-,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011. Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+FLU_DAGE9,AGE IN DAYS OF PROV-REPORTED SEASONAL INFLUENZA VACCINATION IN PAST THREE YEARS #9,-,-,-,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011. Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+FLU_MAGE1,AGE IN MONTHS OF PROV-REPORTED SEASONAL INFLUENZA VACCINATION IN PAST THREE YEARS #1,-,-,-,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011. Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+FLU_MAGE2,AGE IN MONTHS OF PROV-REPORTED SEASONAL INFLUENZA VACCINATION IN PAST THREE YEARS #2,-,-,-,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011. Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+FLU_MAGE3,AGE IN MONTHS OF PROV-REPORTED SEASONAL INFLUENZA VACCINATION IN PAST THREE YEARS #3,-,-,-,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011. Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+FLU_MAGE4,AGE IN MONTHS OF PROV-REPORTED SEASONAL INFLUENZA VACCINATION IN PAST THREE YEARS #4,-,-,-,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011. Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+FLU_MAGE5,AGE IN MONTHS OF PROV-REPORTED SEASONAL INFLUENZA VACCINATION IN PAST THREE YEARS #5,-,-,-,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011. Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+FLU_MAGE6,AGE IN MONTHS OF PROV-REPORTED SEASONAL INFLUENZA VACCINATION IN PAST THREE YEARS #6,-,-,-,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011. Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+FLU_MAGE7,AGE IN MONTHS OF PROV-REPORTED SEASONAL INFLUENZA VACCINATION IN PAST THREE YEARS #7,-,-,-,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011. Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+FLU_MAGE8,AGE IN MONTHS OF PROV-REPORTED SEASONAL INFLUENZA VACCINATION IN PAST THREE YEARS #8,-,-,-,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011. Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+FLU_MAGE9,AGE IN MONTHS OF PROV-REPORTED SEASONAL INFLUENZA VACCINATION IN PAST THREE YEARS #9,-,-,-,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011. Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+FLU_MONTH,MONTH OF HH-REPORTED INFLUENZA VACCINATION RECEIVED MOST RECENTLY,Y,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Dropped in 2009 due to midYear questionnaire changes.
+FLU_MONTH1,MONTH OF PROV-REPORTED SEASONAL INFLUENZA VACCINATION IN PAST THREE YEARS #1,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+FLU_MONTH2,MONTH OF PROV-REPORTED SEASONAL INFLUENZA VACCINATION IN PAST THREE YEARS #2,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+FLU_MONTH3,MONTH OF PROV-REPORTED SEASONAL INFLUENZA VACCINATION IN PAST THREE YEARS #3,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+FLU_MONTH4,MONTH OF PROV-REPORTED SEASONAL INFLUENZA VACCINATION IN PAST THREE YEARS #4,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+FLU_MONTH5,MONTH OF PROV-REPORTED SEASONAL INFLUENZA VACCINATION IN PAST THREE YEARS #5,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+FLU_MONTH6,MONTH OF PROV-REPORTED SEASONAL INFLUENZA VACCINATION IN PAST THREE YEARS #6,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+FLU_MONTH7,MONTH OF PROV-REPORTED SEASONAL INFLUENZA VACCINATION IN PAST THREE YEARS #7,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+FLU_MONTH8,MONTH OF PROV-REPORTED SEASONAL INFLUENZA VACCINATION IN PAST THREE YEARS #8,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+FLU_MONTH9,MONTH OF PROV-REPORTED SEASONAL INFLUENZA VACCINATION IN PAST THREE YEARS #9,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+FLU_PLACE,KIND OF PLACE TEEN RECEIVED MOST RECENT FLU SHOT OR SPRAY,Y,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Dropped in 2009 due to midYear questionnaire changes.
+FLU_TYPE,TYPE OF HH-REPORTED INFLUENZA VACCINATION RECEIVED MOST RECENTLY,Y,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Dropped in 2009 due to midYear questionnaire changes.
+FLU_YEAR,YEAR OF HH-REPORTED INFLUENZA VACCINATION RECEIVED MOST RECENTLY,Y,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Dropped in 2009 due to midYear questionnaire changes.
+FLU_YEAR1,YEAR OF PROV-REPORTED SEASONAL INFLUENZA VACCINATION IN PAST THREE YEARS #1,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+FLU_YEAR2,YEAR OF PROV-REPORTED SEASONAL INFLUENZA VACCINATION IN PAST THREE YEARS #2,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+FLU_YEAR3,YEAR OF PROV-REPORTED SEASONAL INFLUENZA VACCINATION IN PAST THREE YEARS #3,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+FLU_YEAR4,YEAR OF PROV-REPORTED SEASONAL INFLUENZA VACCINATION IN PAST THREE YEARS #4,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+FLU_YEAR5,YEAR OF PROV-REPORTED SEASONAL INFLUENZA VACCINATION IN PAST THREE YEARS #5,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+FLU_YEAR6,YEAR OF PROV-REPORTED SEASONAL INFLUENZA VACCINATION IN PAST THREE YEARS #6,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+FLU_YEAR7,YEAR OF PROV-REPORTED SEASONAL INFLUENZA VACCINATION IN PAST THREE YEARS #7,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+FLU_YEAR8,YEAR OF PROV-REPORTED SEASONAL INFLUENZA VACCINATION IN PAST THREE YEARS #8,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+FLU_YEAR9,YEAR OF PROV-REPORTED SEASONAL INFLUENZA VACCINATION IN PAST THREE YEARS #9,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+H1N_AGE1,AGE IN YEARS OF PROV-REPORTED MONOVALENT 2009 H1N1 INFLUENZA VACCINATION #1,-,-,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,-,"H1N1 influenza added to the IHQ shotgrid starting in late 2009, and introduced in the PUF in 2010. Removed from the IHQ and the PUF in 2013."
+H1N_AGE2,AGE IN YEARS OF PROV-REPORTED MONOVALENT 2009 H1N1 INFLUENZA VACCINATION #2,-,-,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,-,"H1N1 influenza added to the IHQ shotgrid starting in late 2009, and introduced in the PUF in 2010. Removed from the IHQ and the PUF in 2013."
+H1N_AGE3,AGE IN YEARS OF PROV-REPORTED MONOVALENT 2009 H1N1 INFLUENZA VACCINATION #3,-,-,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,-,"H1N1 influenza added to the IHQ shotgrid starting in late 2009, and introduced in the PUF in 2010. Removed from the IHQ and the PUF in 2013."
+H1N_AGE4,AGE IN YEARS OF PROV-REPORTED MONOVALENT 2009 H1N1 INFLUENZA VACCINATION #4,-,-,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,-,"H1N1 influenza added to the IHQ shotgrid starting in late 2009, and introduced in the PUF in 2010. Removed from the IHQ and the PUF in 2013."
+H1N_AGE5,AGE IN YEARS OF PROV-REPORTED MONOVALENT 2009 H1N1 INFLUENZA VACCINATION #5,-,-,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,-,"H1N1 influenza added to the IHQ shotgrid starting in late 2009, and introduced in the PUF in 2010. Removed from the IHQ and the PUF in 2013."
+H1N_AGE6,AGE IN YEARS OF PROV-REPORTED MONOVALENT 2009 H1N1 INFLUENZA VACCINATION #6,-,-,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,-,"H1N1 influenza added to the IHQ shotgrid starting in late 2009, and introduced in the PUF in 2010. Removed from the IHQ and the PUF in 2013."
+H1N_AGE7,AGE IN YEARS OF PROV-REPORTED MONOVALENT 2009 H1N1 INFLUENZA VACCINATION #7,-,-,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,-,"H1N1 influenza added to the IHQ shotgrid starting in late 2009, and introduced in the PUF in 2010. Removed from the IHQ and the PUF in 2013."
+H1N_AGE8,AGE IN YEARS OF PROV-REPORTED MONOVALENT 2009 H1N1 INFLUENZA VACCINATION #8,-,-,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,-,"H1N1 influenza added to the IHQ shotgrid starting in late 2009, and introduced in the PUF in 2010. Removed from the IHQ and the PUF in 2013."
+H1N_AGE9,AGE IN YEARS OF PROV-REPORTED MONOVALENT 2009 H1N1 INFLUENZA VACCINATION #9,-,-,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,-,"H1N1 influenza added to the IHQ shotgrid starting in late 2009, and introduced in the PUF in 2010. Removed from the IHQ and the PUF in 2013."
+H1N_DAGE1,AGE IN DAYS OF PROV-REPORTED MONOVALENT 2009 H1N1 INFLUENZA VACCINATION #1,-,-,-,Y,Y,-,-,-,-,-,-,-,-,-,-,-,Age-in-days and age-in-months variables were added to the PUF in 2011. H1N1 influenza was removed from the IHQ and the PUF in 2013.
+H1N_DAGE2,AGE IN DAYS OF PROV-REPORTED MONOVALENT 2009 H1N1 INFLUENZA VACCINATION #2,-,-,-,Y,Y,-,-,-,-,-,-,-,-,-,-,-,Age-in-days and age-in-months variables were added to the PUF in 2011. H1N1 influenza was removed from the IHQ and the PUF in 2013.
+H1N_DAGE3,AGE IN DAYS OF PROV-REPORTED MONOVALENT 2009 H1N1 INFLUENZA VACCINATION #3,-,-,-,Y,Y,-,-,-,-,-,-,-,-,-,-,-,Age-in-days and age-in-months variables were added to the PUF in 2011. H1N1 influenza was removed from the IHQ and the PUF in 2013.
+H1N_DAGE4,AGE IN DAYS OF PROV-REPORTED MONOVALENT 2009 H1N1 INFLUENZA VACCINATION #4,-,-,-,Y,Y,-,-,-,-,-,-,-,-,-,-,-,Age-in-days and age-in-months variables were added to the PUF in 2011. H1N1 influenza was removed from the IHQ and the PUF in 2013.
+H1N_DAGE5,AGE IN DAYS OF PROV-REPORTED MONOVALENT 2009 H1N1 INFLUENZA VACCINATION #5,-,-,-,Y,Y,-,-,-,-,-,-,-,-,-,-,-,Age-in-days and age-in-months variables were added to the PUF in 2011. H1N1 influenza was removed from the IHQ and the PUF in 2013.
+H1N_DAGE6,AGE IN DAYS OF PROV-REPORTED MONOVALENT 2009 H1N1 INFLUENZA VACCINATION #6,-,-,-,Y,Y,-,-,-,-,-,-,-,-,-,-,-,Age-in-days and age-in-months variables were added to the PUF in 2011. H1N1 influenza was removed from the IHQ and the PUF in 2013.
+H1N_DAGE7,AGE IN DAYS OF PROV-REPORTED MONOVALENT 2009 H1N1 INFLUENZA VACCINATION #7,-,-,-,Y,Y,-,-,-,-,-,-,-,-,-,-,-,Age-in-days and age-in-months variables were added to the PUF in 2011. H1N1 influenza was removed from the IHQ and the PUF in 2013.
+H1N_DAGE8,AGE IN DAYS OF PROV-REPORTED MONOVALENT 2009 H1N1 INFLUENZA VACCINATION #8,-,-,-,Y,Y,-,-,-,-,-,-,-,-,-,-,-,Age-in-days and age-in-months variables were added to the PUF in 2011. H1N1 influenza was removed from the IHQ and the PUF in 2013.
+H1N_DAGE9,AGE IN DAYS OF PROV-REPORTED MONOVALENT 2009 H1N1 INFLUENZA VACCINATION #9,-,-,-,Y,Y,-,-,-,-,-,-,-,-,-,-,-,Age-in-days and age-in-months variables were added to the PUF in 2011. H1N1 influenza was removed from the IHQ and the PUF in 2013.
+H1N_MAGE1,AGE IN MONTHS OF PROV-REPORTED MONOVALENT 2009 H1N1 INFLUENZA VACCINATION #1,-,-,-,Y,Y,-,-,-,-,-,-,-,-,-,-,-,Age-in-days and age-in-months variables were added to the PUF in 2011. H1N1 influenza was removed from the IHQ and the PUF in 2013.
+H1N_MAGE2,AGE IN MONTHS OF PROV-REPORTED MONOVALENT 2009 H1N1 INFLUENZA VACCINATION #2,-,-,-,Y,Y,-,-,-,-,-,-,-,-,-,-,-,Age-in-days and age-in-months variables were added to the PUF in 2011. H1N1 influenza was removed from the IHQ and the PUF in 2013.
+H1N_MAGE3,AGE IN MONTHS OF PROV-REPORTED MONOVALENT 2009 H1N1 INFLUENZA VACCINATION #3,-,-,-,Y,Y,-,-,-,-,-,-,-,-,-,-,-,Age-in-days and age-in-months variables were added to the PUF in 2011. H1N1 influenza was removed from the IHQ and the PUF in 2013.
+H1N_MAGE4,AGE IN MONTHS OF PROV-REPORTED MONOVALENT 2009 H1N1 INFLUENZA VACCINATION #4,-,-,-,Y,Y,-,-,-,-,-,-,-,-,-,-,-,Age-in-days and age-in-months variables were added to the PUF in 2011. H1N1 influenza was removed from the IHQ and the PUF in 2013.
+H1N_MAGE5,AGE IN MONTHS OF PROV-REPORTED MONOVALENT 2009 H1N1 INFLUENZA VACCINATION #5,-,-,-,Y,Y,-,-,-,-,-,-,-,-,-,-,-,Age-in-days and age-in-months variables were added to the PUF in 2011. H1N1 influenza was removed from the IHQ and the PUF in 2013.
+H1N_MAGE6,AGE IN MONTHS OF PROV-REPORTED MONOVALENT 2009 H1N1 INFLUENZA VACCINATION #6,-,-,-,Y,Y,-,-,-,-,-,-,-,-,-,-,-,Age-in-days and age-in-months variables were added to the PUF in 2011. H1N1 influenza was removed from the IHQ and the PUF in 2013.
+H1N_MAGE7,AGE IN MONTHS OF PROV-REPORTED MONOVALENT 2009 H1N1 INFLUENZA VACCINATION #7,-,-,-,Y,Y,-,-,-,-,-,-,-,-,-,-,-,Age-in-days and age-in-months variables were added to the PUF in 2011. H1N1 influenza was removed from the IHQ and the PUF in 2013.
+H1N_MAGE8,AGE IN MONTHS OF PROV-REPORTED MONOVALENT 2009 H1N1 INFLUENZA VACCINATION #8,-,-,-,Y,Y,-,-,-,-,-,-,-,-,-,-,-,Age-in-days and age-in-months variables were added to the PUF in 2011. H1N1 influenza was removed from the IHQ and the PUF in 2013.
+H1N_MAGE9,AGE IN MONTHS OF PROV-REPORTED MONOVALENT 2009 H1N1 INFLUENZA VACCINATION #9,-,-,-,Y,Y,-,-,-,-,-,-,-,-,-,-,-,Age-in-days and age-in-months variables were added to the PUF in 2011. H1N1 influenza was removed from the IHQ and the PUF in 2013.
+H1N_MONTH1,MONTH OF PROV-REPORTED MONOVALENT 2009 H1N1 INFLUENZA VACCINATION #1,-,-,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,-,"H1N1 influenza added to the IHQ shotgrid starting in late 2009, and introduced in the PUF in 2010. Removed from the IHQ and the PUF in 2013."
+H1N_MONTH2,MONTH OF PROV-REPORTED MONOVALENT 2009 H1N1 INFLUENZA VACCINATION #2,-,-,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,-,"H1N1 influenza added to the IHQ shotgrid starting in late 2009, and introduced in the PUF in 2010. Removed from the IHQ and the PUF in 2013."
+H1N_MONTH3,MONTH OF PROV-REPORTED MONOVALENT 2009 H1N1 INFLUENZA VACCINATION #3,-,-,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,-,"H1N1 influenza added to the IHQ shotgrid starting in late 2009, and introduced in the PUF in 2010. Removed from the IHQ and the PUF in 2013."
+H1N_MONTH4,MONTH OF PROV-REPORTED MONOVALENT 2009 H1N1 INFLUENZA VACCINATION #4,-,-,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,-,"H1N1 influenza added to the IHQ shotgrid starting in late 2009, and introduced in the PUF in 2010. Removed from the IHQ and the PUF in 2013."
+H1N_MONTH5,MONTH OF PROV-REPORTED MONOVALENT 2009 H1N1 INFLUENZA VACCINATION #5,-,-,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,-,"H1N1 influenza added to the IHQ shotgrid starting in late 2009, and introduced in the PUF in 2010. Removed from the IHQ and the PUF in 2013."
+H1N_MONTH6,MONTH OF PROV-REPORTED MONOVALENT 2009 H1N1 INFLUENZA VACCINATION #6,-,-,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,-,"H1N1 influenza added to the IHQ shotgrid starting in late 2009, and introduced in the PUF in 2010. Removed from the IHQ and the PUF in 2013."
+H1N_MONTH7,MONTH OF PROV-REPORTED MONOVALENT 2009 H1N1 INFLUENZA VACCINATION #7,-,-,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,-,"H1N1 influenza added to the IHQ shotgrid starting in late 2009, and introduced in the PUF in 2010. Removed from the IHQ and the PUF in 2013."
+H1N_MONTH8,MONTH OF PROV-REPORTED MONOVALENT 2009 H1N1 INFLUENZA VACCINATION #8,-,-,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,-,"H1N1 influenza added to the IHQ shotgrid starting in late 2009, and introduced in the PUF in 2010. Removed from the IHQ and the PUF in 2013."
+H1N_MONTH9,MONTH OF PROV-REPORTED MONOVALENT 2009 H1N1 INFLUENZA VACCINATION #9,-,-,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,-,"H1N1 influenza added to the IHQ shotgrid starting in late 2009, and introduced in the PUF in 2010. Removed from the IHQ and the PUF in 2013."
+H1N_YEAR1,YEAR OF PROV-REPORTED MONOVALENT 2009 H1N1 INFLUENZA VACCINATION #1,-,-,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,-,"H1N1 influenza added to the IHQ shotgrid starting in late 2009, and introduced in the PUF in 2010. Removed from the IHQ and the PUF in 2013."
+H1N_YEAR2,YEAR OF PROV-REPORTED MONOVALENT 2009 H1N1 INFLUENZA VACCINATION #2,-,-,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,-,"H1N1 influenza added to the IHQ shotgrid starting in late 2009, and introduced in the PUF in 2010. Removed from the IHQ and the PUF in 2013."
+H1N_YEAR3,YEAR OF PROV-REPORTED MONOVALENT 2009 H1N1 INFLUENZA VACCINATION #3,-,-,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,-,"H1N1 influenza added to the IHQ shotgrid starting in late 2009, and introduced in the PUF in 2010. Removed from the IHQ and the PUF in 2013."
+H1N_YEAR4,YEAR OF PROV-REPORTED MONOVALENT 2009 H1N1 INFLUENZA VACCINATION #4,-,-,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,-,"H1N1 influenza added to the IHQ shotgrid starting in late 2009, and introduced in the PUF in 2010. Removed from the IHQ and the PUF in 2013."
+H1N_YEAR5,YEAR OF PROV-REPORTED MONOVALENT 2009 H1N1 INFLUENZA VACCINATION #5,-,-,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,-,"H1N1 influenza added to the IHQ shotgrid starting in late 2009, and introduced in the PUF in 2010. Removed from the IHQ and the PUF in 2013."
+H1N_YEAR6,YEAR OF PROV-REPORTED MONOVALENT 2009 H1N1 INFLUENZA VACCINATION #6,-,-,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,-,"H1N1 influenza added to the IHQ shotgrid starting in late 2009, and introduced in the PUF in 2010. Removed from the IHQ and the PUF in 2013."
+H1N_YEAR7,YEAR OF PROV-REPORTED MONOVALENT 2009 H1N1 INFLUENZA VACCINATION #7,-,-,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,-,"H1N1 influenza added to the IHQ shotgrid starting in late 2009, and introduced in the PUF in 2010. Removed from the IHQ and the PUF in 2013."
+H1N_YEAR8,YEAR OF PROV-REPORTED MONOVALENT 2009 H1N1 INFLUENZA VACCINATION #8,-,-,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,-,"H1N1 influenza added to the IHQ shotgrid starting in late 2009, and introduced in the PUF in 2010. Removed from the IHQ and the PUF in 2013."
+H1N_YEAR9,YEAR OF PROV-REPORTED MONOVALENT 2009 H1N1 INFLUENZA VACCINATION #9,-,-,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,-,"H1N1 influenza added to the IHQ shotgrid starting in late 2009, and introduced in the PUF in 2010. Removed from the IHQ and the PUF in 2013."
+HEPA_AGE_SC1,AGE OF TEEN IN YEARS AT HH-REPORTED HEPATITIS A SHOT #1 (SHOTCARD),Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,Dropped in 2014 due to shortened questionnaire.
+HEPA_AGE_SC2,AGE OF TEEN IN YEARS AT HH-REPORTED HEPATITIS A SHOT #2 (SHOTCARD),Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,Dropped in 2014 due to shortened questionnaire.
+HEPA_AGE_SC3,AGE OF TEEN IN YEARS AT HH-REPORTED HEPATITIS A SHOT #3 (SHOTCARD),Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,Dropped in 2014 due to shortened questionnaire.
+HEPA_AGE_SC4,AGE OF TEEN IN YEARS AT HH-REPORTED HEPATITIS A SHOT #4 (SHOTCARD),Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,Dropped in 2014 due to shortened questionnaire.
+HEPA_AGE_SC5,AGE OF TEEN IN YEARS AT HH-REPORTED HEPATITIS A SHOT #5 (SHOTCARD),Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,Dropped in 2014 due to shortened questionnaire.
+HEPA_AGE_SC6,AGE OF TEEN IN YEARS AT HH-REPORTED HEPATITIS A SHOT #6 (SHOTCARD),Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,Dropped in 2014 due to shortened questionnaire.
+HEPA_AGE_SC7,AGE OF TEEN IN YEARS AT HH-REPORTED HEPATITIS A SHOT #7 (SHOTCARD),Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,Dropped in 2014 due to shortened questionnaire.
+HEPA_AGE_SC8,AGE OF TEEN IN YEARS AT HH-REPORTED HEPATITIS A SHOT #8 (SHOTCARD),Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,Dropped in 2014 due to shortened questionnaire.
+HEPA_AGE1,AGE IN YEARS OF PROV-REPORTED HEPATITIS A-CONTAINING SHOT #1,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+HEPA_AGE2,AGE IN YEARS OF PROV-REPORTED HEPATITIS A-CONTAINING SHOT #2,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+HEPA_AGE3,AGE IN YEARS OF PROV-REPORTED HEPATITIS A-CONTAINING SHOT #3,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+HEPA_AGE4,AGE IN YEARS OF PROV-REPORTED HEPATITIS A-CONTAINING SHOT #4,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+HEPA_AGE5,AGE IN YEARS OF PROV-REPORTED HEPATITIS A-CONTAINING SHOT #5,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+HEPA_AGE6,AGE IN YEARS OF PROV-REPORTED HEPATITIS A-CONTAINING SHOT #6,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+HEPA_AGE7,AGE IN YEARS OF PROV-REPORTED HEPATITIS A-CONTAINING SHOT #7,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+HEPA_AGE8,AGE IN YEARS OF PROV-REPORTED HEPATITIS A-CONTAINING SHOT #8,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+HEPA_AGE9,AGE IN YEARS OF PROV-REPORTED HEPATITIS A-CONTAINING SHOT #9,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+HEPA_ANY_REC,HH-REPORT: HAS TEEN EVER RECEIVED ANY HEPATITIS A SHOTS? (RECALL),Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,Dropped in 2014 due to shortened questionnaire.
+HEPA_ANY_SC,HH-REPORT: HAS TEEN EVER RECEIVED ANY HEPATITIS A SHOTS? (SHOTCARD),Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,Dropped in 2014 due to shortened questionnaire.
+HEPA_DAGE1,AGE IN DAYS OF PROV-REPORTED HEPATITIS A-CONTAINING SHOT #1,-,-,-,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011. Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+HEPA_DAGE2,AGE IN DAYS OF PROV-REPORTED HEPATITIS A-CONTAINING SHOT #2,-,-,-,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011. Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+HEPA_DAGE3,AGE IN DAYS OF PROV-REPORTED HEPATITIS A-CONTAINING SHOT #3,-,-,-,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011. Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+HEPA_DAGE4,AGE IN DAYS OF PROV-REPORTED HEPATITIS A-CONTAINING SHOT #4,-,-,-,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011. Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+HEPA_DAGE5,AGE IN DAYS OF PROV-REPORTED HEPATITIS A-CONTAINING SHOT #5,-,-,-,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011. Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+HEPA_DAGE6,AGE IN DAYS OF PROV-REPORTED HEPATITIS A-CONTAINING SHOT #6,-,-,-,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011. Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+HEPA_DAGE7,AGE IN DAYS OF PROV-REPORTED HEPATITIS A-CONTAINING SHOT #7,-,-,-,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011. Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+HEPA_DAGE8,AGE IN DAYS OF PROV-REPORTED HEPATITIS A-CONTAINING SHOT #8,-,-,-,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011. Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+HEPA_DAGE9,AGE IN DAYS OF PROV-REPORTED HEPATITIS A-CONTAINING SHOT #9,-,-,-,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011. Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+HEPA_MAGE1,AGE IN MONTHS OF PROV-REPORTED HEPATITIS A-CONTAINING SHOT #1,-,-,-,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011. Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+HEPA_MAGE2,AGE IN MONTHS OF PROV-REPORTED HEPATITIS A-CONTAINING SHOT #2,-,-,-,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011. Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+HEPA_MAGE3,AGE IN MONTHS OF PROV-REPORTED HEPATITIS A-CONTAINING SHOT #3,-,-,-,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011. Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+HEPA_MAGE4,AGE IN MONTHS OF PROV-REPORTED HEPATITIS A-CONTAINING SHOT #4,-,-,-,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011. Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+HEPA_MAGE5,AGE IN MONTHS OF PROV-REPORTED HEPATITIS A-CONTAINING SHOT #5,-,-,-,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011. Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+HEPA_MAGE6,AGE IN MONTHS OF PROV-REPORTED HEPATITIS A-CONTAINING SHOT #6,-,-,-,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011. Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+HEPA_MAGE7,AGE IN MONTHS OF PROV-REPORTED HEPATITIS A-CONTAINING SHOT #7,-,-,-,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011. Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+HEPA_MAGE8,AGE IN MONTHS OF PROV-REPORTED HEPATITIS A-CONTAINING SHOT #8,-,-,-,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011. Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+HEPA_MAGE9,AGE IN MONTHS OF PROV-REPORTED HEPATITIS A-CONTAINING SHOT #9,-,-,-,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011. Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+HEPA_NUM_REC,NUMBER OF HH-REPORTED HEPATITIS A SHOTS RECEIVED (RECALL),Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,Dropped in 2014 due to shortened questionnaire. 
+HEPA_NUM_SC,NUMBER OF HH-REPORTED HEPATITIS A SHOTS RECEIVED (SHOTCARD),Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,Dropped in 2014 due to shortened questionnaire.
+HEPA_NUM_TOT,NUMBER OF HH-REPORTED HEPATITIS A SHOTS RECEIVED (TOTAL),Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,Dropped in 2014 due to shortened questionnaire.
+HEPA_RECOM,HAD OR HAS DOCTOR OR OTHER HEALTH CARE PROFESSIONAL EVER RECOMMENDED HEPATITIS A SHOTS?,Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,Dropped in 2014 due to shortened questionnaire.
+HEPB_AGE_SC1,AGE OF TEEN IN YEARS AT HH-REPORTED HEPATITIS B SHOT #1 (SHOTCARD),Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,Dropped in 2014 due to shortened questionnaire.
+HEPB_AGE_SC2,AGE OF TEEN IN YEARS AT HH-REPORTED HEPATITIS B SHOT #2 (SHOTCARD),Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,Dropped in 2014 due to shortened questionnaire.
+HEPB_AGE_SC3,AGE OF TEEN IN YEARS AT HH-REPORTED HEPATITIS B SHOT #3 (SHOTCARD),Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,Dropped in 2014 due to shortened questionnaire.
+HEPB_AGE_SC4,AGE OF TEEN IN YEARS AT HH-REPORTED HEPATITIS B SHOT #4 (SHOTCARD),Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,Dropped in 2014 due to shortened questionnaire.
+HEPB_AGE_SC5,AGE OF TEEN IN YEARS AT HH-REPORTED HEPATITIS B SHOT #5 (SHOTCARD),Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,Dropped in 2014 due to shortened questionnaire.
+HEPB_AGE_SC6,AGE OF TEEN IN YEARS AT HH-REPORTED HEPATITIS B SHOT #6 (SHOTCARD),Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,Dropped in 2014 due to shortened questionnaire.
+HEPB_AGE_SC7,AGE OF TEEN IN YEARS AT HH-REPORTED HEPATITIS B SHOT #7 (SHOTCARD),Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,Dropped in 2014 due to shortened questionnaire.
+HEPB_AGE_SC8,AGE OF TEEN IN YEARS AT HH-REPORTED HEPATITIS B SHOT #8 (SHOTCARD),Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,Dropped in 2014 due to shortened questionnaire.
+HEPB_AGE1,AGE IN YEARS OF PROV-REPORTED HEPATITIS B-CONTAINING SHOT #1,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+HEPB_AGE2,AGE IN YEARS OF PROV-REPORTED HEPATITIS B-CONTAINING SHOT #2,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+HEPB_AGE3,AGE IN YEARS OF PROV-REPORTED HEPATITIS B-CONTAINING SHOT #3,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+HEPB_AGE4,AGE IN YEARS OF PROV-REPORTED HEPATITIS B-CONTAINING SHOT #4,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+HEPB_AGE5,AGE IN YEARS OF PROV-REPORTED HEPATITIS B-CONTAINING SHOT #5,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+HEPB_AGE6,AGE IN YEARS OF PROV-REPORTED HEPATITIS B-CONTAINING SHOT #6,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+HEPB_AGE7,AGE IN YEARS OF PROV-REPORTED HEPATITIS B-CONTAINING SHOT #7,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+HEPB_AGE8,AGE IN YEARS OF PROV-REPORTED HEPATITIS B-CONTAINING SHOT #8,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+HEPB_AGE9,AGE IN YEARS OF PROV-REPORTED HEPATITIS B-CONTAINING SHOT #9,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+HEPB_ANY_REC,HH-REPORT: HAS TEEN EVER RECEIVED ANY HEPATITIS B SHOTS? (RECALL),Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,Dropped in 2014 due to shortened questionnaire.
+HEPB_ANY_SC,HH-REPORT: HAS TEEN EVER RECEIVED ANY HEPATITIS B SHOTS? (SHOTCARD),Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,Dropped in 2014 due to shortened questionnaire.
+HEPB_DAGE1,AGE IN DAYS OF PROV-REPORTED HEPATITIS B-CONTAINING SHOT #1,-,-,-,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011. Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+HEPB_DAGE2,AGE IN DAYS OF PROV-REPORTED HEPATITIS B-CONTAINING SHOT #2,-,-,-,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011. Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+HEPB_DAGE3,AGE IN DAYS OF PROV-REPORTED HEPATITIS B-CONTAINING SHOT #3,-,-,-,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011. Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+HEPB_DAGE4,AGE IN DAYS OF PROV-REPORTED HEPATITIS B-CONTAINING SHOT #4,-,-,-,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011. Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+HEPB_DAGE5,AGE IN DAYS OF PROV-REPORTED HEPATITIS B-CONTAINING SHOT #5,-,-,-,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011. Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+HEPB_DAGE6,AGE IN DAYS OF PROV-REPORTED HEPATITIS B-CONTAINING SHOT #6,-,-,-,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011. Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+HEPB_DAGE7,AGE IN DAYS OF PROV-REPORTED HEPATITIS B-CONTAINING SHOT #7,-,-,-,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011. Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+HEPB_DAGE8,AGE IN DAYS OF PROV-REPORTED HEPATITIS B-CONTAINING SHOT #8,-,-,-,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011. Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+HEPB_DAGE9,AGE IN DAYS OF PROV-REPORTED HEPATITIS B-CONTAINING SHOT #9,-,-,-,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011. Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+HEPB_MAGE1,AGE IN MONTHS OF PROV-REPORTED HEPATITIS B-CONTAINING SHOT #1,-,-,-,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011. Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+HEPB_MAGE2,AGE IN MONTHS OF PROV-REPORTED HEPATITIS B-CONTAINING SHOT #2,-,-,-,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011. Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+HEPB_MAGE3,AGE IN MONTHS OF PROV-REPORTED HEPATITIS B-CONTAINING SHOT #3,-,-,-,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011. Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+HEPB_MAGE4,AGE IN MONTHS OF PROV-REPORTED HEPATITIS B-CONTAINING SHOT #4,-,-,-,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011. Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+HEPB_MAGE5,AGE IN MONTHS OF PROV-REPORTED HEPATITIS B-CONTAINING SHOT #5,-,-,-,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011. Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+HEPB_MAGE6,AGE IN MONTHS OF PROV-REPORTED HEPATITIS B-CONTAINING SHOT #6,-,-,-,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011. Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+HEPB_MAGE7,AGE IN MONTHS OF PROV-REPORTED HEPATITIS B-CONTAINING SHOT #7,-,-,-,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011. Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+HEPB_MAGE8,AGE IN MONTHS OF PROV-REPORTED HEPATITIS B-CONTAINING SHOT #8,-,-,-,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011. Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+HEPB_MAGE9,AGE IN MONTHS OF PROV-REPORTED HEPATITIS B-CONTAINING SHOT #9,-,-,-,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011. Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+HEPB_NUM_REC,NUMBER OF HH-REPORTED HEPATITIS B SHOTS RECEIVED (RECALL),Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,Dropped in 2014 due to shortened questionnaire.
+HEPB_NUM_SC,NUMBER OF HH-REPORTED HEPATITIS B SHOTS RECEIVED (SHOTCARD),Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,Dropped in 2014 due to shortened questionnaire.
+HEPB_NUM_TOT,NUMBER OF HH-REPORTED HEPATITIS B SHOTS RECEIVED (TOTAL),Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,Dropped in 2014 due to shortened questionnaire.
+HEPB_SCH,DID TEEN RECEIVE HEPATITIS B SHOTS BECAUSE OF SCHOOL REQUIREMENT?,Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,Dropped in 2014 due to shortened questionnaire.
+HH_FLU,HH REPORT OF NUMBER OF SEASONAL INFLUENZA-CONTAINING VACCINATIONS RECEIVED IN THE 12 MONTHS PRIOR TO INTERVIEW,-,-,Y,-,-,-,-,-,-,-,-,-,-,-,-,-,Added in 2010 to replace previous influenza variables dropped in 2009. Dropped in 2011 due to midYear questionnaire changes.
+HH_H1N,HH REPORT OF NUMBER OF MONOVALENT 2009 H1N1 INFLUENZA VACCINATIONS RECEIVED IN THE TWELVE MONTHS PRIOR TO INTERVIEW,-,-,Y,-,-,-,-,-,-,-,-,-,-,-,-,-,"H1N1 influenza added to the IHQ shotgrid starting in late 2009, and introduced in the PUF in 2010. Dropped in 2011 due to midYear questionnaire changes."
+HPV_AGE1,AGE IN YEARS OF PROV-REPORTED HUMAN PAPILLOMAVIRUS SHOT #1,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+HPV_AGE2,AGE IN YEARS OF PROV-REPORTED HUMAN PAPILLOMAVIRUS SHOT #2,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+HPV_AGE3,AGE IN YEARS OF PROV-REPORTED HUMAN PAPILLOMAVIRUS SHOT #3,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+HPV_AGE4,AGE IN YEARS OF PROV-REPORTED HUMAN PAPILLOMAVIRUS SHOT #4,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+HPV_AGE5,AGE IN YEARS OF PROV-REPORTED HUMAN PAPILLOMAVIRUS SHOT #5,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+HPV_AGE6,AGE IN YEARS OF PROV-REPORTED HUMAN PAPILLOMAVIRUS SHOT #6,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+HPV_AGE7,AGE IN YEARS OF PROV-REPORTED HUMAN PAPILLOMAVIRUS SHOT #7,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+HPV_AGE8,AGE IN YEARS OF PROV-REPORTED HUMAN PAPILLOMAVIRUS SHOT #8,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+HPV_AGE9,AGE IN YEARS OF PROV-REPORTED HUMAN PAPILLOMAVIRUS SHOT #9,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+HPV_DAGE1,AGE IN DAYS OF PROV-REPORTED HUMAN PAPILLOMAVIRUS SHOT #1,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011.
+HPV_DAGE2,AGE IN DAYS OF PROV-REPORTED HUMAN PAPILLOMAVIRUS SHOT #2,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011.
+HPV_DAGE3,AGE IN DAYS OF PROV-REPORTED HUMAN PAPILLOMAVIRUS SHOT #3,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011.
+HPV_DAGE4,AGE IN DAYS OF PROV-REPORTED HUMAN PAPILLOMAVIRUS SHOT #4,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011.
+HPV_DAGE5,AGE IN DAYS OF PROV-REPORTED HUMAN PAPILLOMAVIRUS SHOT #5,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011.
+HPV_DAGE6,AGE IN DAYS OF PROV-REPORTED HUMAN PAPILLOMAVIRUS SHOT #6,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011.
+HPV_DAGE7,AGE IN DAYS OF PROV-REPORTED HUMAN PAPILLOMAVIRUS SHOT #7,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011.
+HPV_DAGE8,AGE IN DAYS OF PROV-REPORTED HUMAN PAPILLOMAVIRUS SHOT #8,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011.
+HPV_DAGE9,AGE IN DAYS OF PROV-REPORTED HUMAN PAPILLOMAVIRUS SHOT #9,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011.
+HPV_MAGE1,AGE IN MONTHS OF PROV-REPORTED HUMAN PAPILLOMAVIRUS SHOT #1,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011.
+HPV_MAGE2,AGE IN MONTHS OF PROV-REPORTED HUMAN PAPILLOMAVIRUS SHOT #2,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011.
+HPV_MAGE3,AGE IN MONTHS OF PROV-REPORTED HUMAN PAPILLOMAVIRUS SHOT #3,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011.
+HPV_MAGE4,AGE IN MONTHS OF PROV-REPORTED HUMAN PAPILLOMAVIRUS SHOT #4,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011.
+HPV_MAGE5,AGE IN MONTHS OF PROV-REPORTED HUMAN PAPILLOMAVIRUS SHOT #5,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011.
+HPV_MAGE6,AGE IN MONTHS OF PROV-REPORTED HUMAN PAPILLOMAVIRUS SHOT #6,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011.
+HPV_MAGE7,AGE IN MONTHS OF PROV-REPORTED HUMAN PAPILLOMAVIRUS SHOT #7,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011.
+HPV_MAGE8,AGE IN MONTHS OF PROV-REPORTED HUMAN PAPILLOMAVIRUS SHOT #8,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011.
+HPV_MAGE9,AGE IN MONTHS OF PROV-REPORTED HUMAN PAPILLOMAVIRUS SHOT #9,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011.
+HPVI_AGE_SC1,AGE OF TEEN IN YEARS AT HH-REPORTED HUMAN PAPILLOMAVIRUS SHOT #1 (SHOTCARD),Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,Dropped in 2014 due to shortened questionnaire.
+HPVI_AGE_SC2,AGE OF TEEN IN YEARS AT HH-REPORTED HUMAN PAPILLOMAVIRUS SHOT #2 (SHOTCARD),Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,Dropped in 2014 due to shortened questionnaire.
+HPVI_AGE_SC3,AGE OF TEEN IN YEARS AT HH-REPORTED HUMAN PAPILLOMAVIRUS SHOT #3 (SHOTCARD),Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,Dropped in 2014 due to shortened questionnaire.
+HPVI_AGE_SC4,AGE OF TEEN IN YEARS AT HH-REPORTED HUMAN PAPILLOMAVIRUS SHOT #4 (SHOTCARD),Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,Dropped in 2014 due to shortened questionnaire.
+HPVI_AGE_SC5,AGE OF TEEN IN YEARS AT HH-REPORTED HUMAN PAPILLOMAVIRUS SHOT #5 (SHOTCARD),Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,Dropped in 2014 due to shortened questionnaire.
+HPVI_AGE_SC6,AGE OF TEEN IN YEARS AT HH-REPORTED HUMAN PAPILLOMAVIRUS SHOT #6 (SHOTCARD),Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,Dropped in 2014 due to shortened questionnaire.
+HPVI_AGE_SC7,AGE OF TEEN IN YEARS AT HH-REPORTED HUMAN PAPILLOMAVIRUS SHOT #7 (SHOTCARD),Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,Dropped in 2014 due to shortened questionnaire.
+HPVI_AGE_SC8,AGE OF TEEN IN YEARS AT HH-REPORTED HUMAN PAPILLOMAVIRUS SHOT #8 (SHOTCARD),Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,Dropped in 2014 due to shortened questionnaire.
+HPVI_ANY,HH-REPORT: HAS TEEN EVER RECEIVED ANY HUMAN PAPILLOMAVIRUS SHOTS?,-,-,-,-,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Y,Replaced HPVI_ANY_REC in 2015.
+HPVI_ANY_REC,HH-REPORT: HAS TEEN EVER RECEIVED ANY HUMAN PAPILLOMAVIRUS SHOTS? (RECALL),Y,Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,-,-,-,Replaced by HPVI_ANY in 2015.
+HPVI_ANY_SC,HH-REPORT: HAS TEEN EVER RECEIVED ANY HUMAN PAPILLOMAVIRUS SHOTS? (SHOTCARD),Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,Dropped in 2014 due to shortened questionnaire.
+HPVI_HEARD,HAVE YOU EVER HEARD OF HUMAN PAPILLOMAVIRUS?,Y,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,-,-,Dropped in 2012 due to questionnaire changes.
+HPVI_INTENTR,HOW LIKELY IS IT TEEN WILL RECEIVE HPV SHOTS IN NEXT 12 MONTHS?,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Added to the PUF in 2010.
+HPVI_KNOW,"HAVE YOU EVER HEARD OF THE CERVICAL CANCER VACCINE, HPV SHOT, OR GARDASIL?",Y,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,-,-,Dropped in 2012 due to questionnaire changes.
+HPVI_NUM_REC,NUMBER OF HH-REPORTED HUMAN PAPILLOMAVIRUS SHOTS RECEIVED (RECALL),Y,Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,-,-,-,Replaced by HPVI_NUM_TOT in 2015.
+HPVI_NUM_SC,NUMBER OF HH-REPORTED HUMAN PAPILLOMAVIRUS SHOTS RECEIVED (SHOTCARD),Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,Dropped in 2014 due to shortened questionnaire.
+HPVI_NUM_TOT,NUMBER OF HH-REPORTED HUMAN PAPILLOMAVIRUS SHOTS RECEIVED (TOTAL),Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Y,Y,Y,Y,Dropped in 2014 due to shortened questionnaire; added back in 2015.
+HPVI_REAS_1,MAIN REASON TEEN WILL NOT RECEIVE HUMAN PAPILLOMAVIRUS SHOTS IN THE NEXT 12 MONTHS: NOT RECOMMENDED,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y, -
+HPVI_REAS_10,MAIN REASON TEEN WILL NOT RECEIVE HUMAN PAPILLOMAVIRUS SHOTS IN THE NEXT 12 MONTHS: COSTS,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+HPVI_REAS_11,MAIN REASON TEEN WILL NOT RECEIVE HUMAN PAPILLOMAVIRUS SHOTS IN THE NEXT 12 MONTHS: SAFETY CONCERN/SIDE EFFECTS,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+HPVI_REAS_12,MAIN REASON TEEN WILL NOT RECEIVE HUMAN PAPILLOMAVIRUS SHOTS IN THE NEXT 12 MONTHS: EFFECTIVENESS CONCERN,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+HPVI_REAS_13,MAIN REASON TEEN WILL NOT RECEIVE HUMAN PAPILLOMAVIRUS SHOTS IN THE NEXT 12 MONTHS: TEEN FEARFUL,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+HPVI_REAS_14,MAIN REASON TEEN WILL NOT RECEIVE HUMAN PAPILLOMAVIRUS SHOTS IN THE NEXT 12 MONTHS: TEEN SHOULD MAKE DECISION,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+HPVI_REAS_15,MAIN REASON TEEN WILL NOT RECEIVE HUMAN PAPILLOMAVIRUS SHOTS IN THE NEXT 12 MONTHS: COLLEGE SHOT,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+HPVI_REAS_16,MAIN REASON TEEN WILL NOT RECEIVE HUMAN PAPILLOMAVIRUS SHOTS IN THE NEXT 12 MONTHS: DON'T BELIEVE IN IMMUNIZATIONS,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+HPVI_REAS_17,MAIN REASON TEEN WILL NOT RECEIVE HUMAN PAPILLOMAVIRUS SHOTS IN THE NEXT 12 MONTHS: FAMILY/PARENTAL DECISION,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+HPVI_REAS_18,MAIN REASON TEEN WILL NOT RECEIVE HUMAN PAPILLOMAVIRUS SHOTS IN THE NEXT 12 MONTHS: HANDICAPPED/SPECIAL NEEDS/ILLNESS,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+HPVI_REAS_19,MAIN REASON TEEN WILL NOT RECEIVE HUMAN PAPILLOMAVIRUS SHOTS IN THE NEXT 12 MONTHS: RELIGION/ORTHODOX,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+HPVI_REAS_2,MAIN REASON TEEN WILL NOT RECEIVE HUMAN PAPILLOMAVIRUS SHOTS IN THE NEXT 12 MONTHS: NOT NEEDED OR NOT NECESSARY,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+HPVI_REAS_20,MAIN REASON TEEN WILL NOT RECEIVE HUMAN PAPILLOMAVIRUS SHOTS IN THE NEXT 12 MONTHS: TIME,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+HPVI_REAS_21,MAIN REASON TEEN WILL NOT RECEIVE HUMAN PAPILLOMAVIRUS SHOTS IN THE NEXT 12 MONTHS: MORE INFO/NEW VACCINE,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+HPVI_REAS_22,MAIN REASON TEEN WILL NOT RECEIVE HUMAN PAPILLOMAVIRUS SHOTS IN THE NEXT 12 MONTHS: ALREADY UP-TO-DATE,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+HPVI_REAS_23,MAIN REASON TEEN WILL NOT RECEIVE HUMAN PAPILLOMAVIRUS SHOTS IN THE NEXT 12 MONTHS: NOT AVAILABLE,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+HPVI_REAS_24,MAIN REASON TEEN WILL NOT RECEIVE HUMAN PAPILLOMAVIRUS SHOTS IN THE NEXT 12 MONTHS: NOT A SCHOOL REQUIREMENT,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+HPVI_REAS_25,MAIN REASON TEEN WILL NOT RECEIVE HUMAN PAPILLOMAVIRUS SHOTS IN THE NEXT 12 MONTHS: INCREASED SEXUAL ACTIVITY CONCERN,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+HPVI_REAS_26,MAIN REASON TEEN WILL NOT RECEIVE HUMAN PAPILLOMAVIRUS SHOTS IN THE NEXT 12 MONTHS: NO OB/GYN,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+HPVI_REAS_27,MAIN REASON TEEN WILL NOT RECEIVE HUMAN PAPILLOMAVIRUS SHOTS IN THE NEXT 12 MONTHS: ALREADY SEXUALLY ACTIVE,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+HPVI_REAS_28,MAIN REASON TEEN WILL NOT RECEIVE HUMAN PAPILLOMAVIRUS SHOTS IN THE NEXT 12 MONTHS: NO DOCTOR OR DOCTOR'S VISIT NOT SCHEDULED,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+HPVI_REAS_29,MAIN REASON TEEN WILL NOT RECEIVE HUMAN PAPILLOMAVIRUS SHOTS IN THE NEXT 12 MONTHS: TEEN IS MALE,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Additional reason flag added in 2010.
+HPVI_REAS_3,MAIN REASON TEEN WILL NOT RECEIVE HUMAN PAPILLOMAVIRUS SHOTS IN THE NEXT 12 MONTHS: LACK OF KNOWLEDGE,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y, -
+HPVI_REAS_30,MAIN REASON TEEN WILL NOT RECEIVE HUMAN PAPILLOMAVIRUS SHOTS IN THE NEXT 12 MONTHS: INTEND TO COMPLETE BUT HAVE NOT YET/ALREADY PLANNED,-,-,-,-,-,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Additional reason flag added in 2016.
+HPVI_REAS_31,MAIN REASON TEEN WILL NOT RECEIVE HUMAN PAPILLOMAVIRUS SHOTS IN THE NEXT 12 MONTHS: DIFFICULTY MAKING OR GETTING TO APPOINTMENT/TRANSPORTATION PROBLEMS,-,-,-,-,-,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Additional reason flag added in 2016.
+HPVI_REAS_32,MAIN REASON TEEN WILL NOT RECEIVE HUMAN PAPILLOMAVIRUS SHOTS IN THE NEXT 12 MONTHS: COVID-19 PANDEMIC,,,,,,,,,,,,,Y,Y,Y,Y,Additional reason flag added in 2020.
+HPVI_REAS_33,MAIN REASON TEEN WILL NOT RECEIVE HUMAN PAPILLOMAVIRUS SHOTS IN THE NEXT 12 MONTHS: DISTRUST OF GOVT/CDC,,,,,,,,,,,,,,,,Y,Additional reason flag added in 2023.
+HPVI_REAS_5,MAIN REASON TEEN WILL NOT RECEIVE HUMAN PAPILLOMAVIRUS SHOTS IN THE NEXT 12 MONTHS: NOT SEXUALLY ACTIVE,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+HPVI_REAS_6,MAIN REASON TEEN WILL NOT RECEIVE HUMAN PAPILLOMAVIRUS SHOTS IN THE NEXT 12 MONTHS: NOT APPROPRIATE AGE,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+HPVI_REAS_9,MAIN REASON TEEN WILL NOT RECEIVE HUMAN PAPILLOMAVIRUS SHOTS IN THE NEXT 12 MONTHS: OTHER REASON,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+HPVI_RECOM,HAD OR HAS DOCTOR OR OTHER HEALTH CARE PROFESSIONAL EVER RECOMMENDED THAT TEEN RECEIVE HPV SHOTS?,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+I_HISP_K,IS TEEN HISPANIC OR LATINO?: IMPUTED,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+IMM_ANY,HH-REPORT: HAS TEEN EVER RECEIVED ANY VACCINATIONS?,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+INCPORAR,INCOME TO POVERTY RATIO (RECODE),Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+INCPORAR_I,INCOME TO POVERTY RATIO: IMPUTED (RECODE),-,-,-,-,-,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Imputed version of INCPORAR added in 2016.
+INCPOV1,POVERTY STATUS,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+INCQ298A,FAMILY INCOME CATEGORIES (RECODE),Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+INS_BREAK_I,CONTINUITY OF INSURANCE COVERAGE SINCE AGE 11: IMPUTED,-,-,-,-,-,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Replaced TIS_INS_1-TIS_INS_11 starting in 2016.
+INS_STAT_I,INSURANCE STATUS (ANY PRIVATE/ANY MEDICAID/OTHER INSURANCE/UNINSURED): IMPUTED,-,-,-,-,-,-,-,-,Y,-,-,-,-,-,-,-,Replaced TIS_INS_1-TIS_INS_11 starting in 2016. Replaced by INS_STAT2_I in 2017.
+INS_STAT2_I,INSURANCE STATUS (PRIVATE ONLY/ANY MEDICAID/OTHER INSURANCE/UNINSURED): IMPUTED,-,-,-,-,-,-,-,-,-,Y,Y,Y,Y,Y,Y,Y,Replaced INS_STAT_I starting in 2017.
+LANGUAGE,LANGUAGE IN WHICH INTERVIEW WAS CONDUCTED,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y, -
+MARITAL,MARITAL STATUS OF MOTHER: IMPUTED (COLLAPSED),Y,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Replaced by MARITAL2 starting in 2009.
+MARITAL2,MARITAL STATUS OF MOTHER: IMPUTED (RECODE),,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Replaced MARITAL starting in 2009.
+MCV_AGE_SC1,AGE OF TEEN IN YEARS AT HH-REPORTED MEASLES OR MMR SHOT #1 (SHOTCARD),Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,Dropped in 2014 due to shortened questionnaire.
+MCV_AGE_SC2,AGE OF TEEN IN YEARS AT HH-REPORTED MEASLES OR MMR SHOT #2 (SHOTCARD),Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,Dropped in 2014 due to shortened questionnaire.
+MCV_AGE_SC3,AGE OF TEEN IN YEARS AT HH-REPORTED MEASLES OR MMR SHOT #3 (SHOTCARD),Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,Dropped in 2014 due to shortened questionnaire.
+MCV_AGE_SC4,AGE OF TEEN IN YEARS AT HH-REPORTED MEASLES OR MMR SHOT #4 (SHOTCARD),Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,Dropped in 2014 due to shortened questionnaire.
+MCV_AGE_SC5,AGE OF TEEN IN YEARS AT HH-REPORTED MEASLES OR MMR SHOT #5 (SHOTCARD),Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,Dropped in 2014 due to shortened questionnaire.
+MCV_AGE_SC6,AGE OF TEEN IN YEARS AT HH-REPORTED MEASLES OR MMR SHOT #6 (SHOTCARD),Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,Dropped in 2014 due to shortened questionnaire.
+MCV_AGE_SC7,AGE OF TEEN IN YEARS AT HH-REPORTED MEASLES OR MMR SHOT #7 (SHOTCARD),Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,Dropped in 2014 due to shortened questionnaire.
+MCV_AGE_SC8,AGE OF TEEN IN YEARS AT HH-REPORTED MEASLES OR MMR SHOT #8 (SHOTCARD),Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,Dropped in 2014 due to shortened questionnaire.
+MCV_AGE1,AGE IN YEARS OF PROV-REPORTED MEASLES-CONTAINING SHOT #1,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+MCV_AGE2,AGE IN YEARS OF PROV-REPORTED MEASLES-CONTAINING SHOT #2,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+MCV_AGE3,AGE IN YEARS OF PROV-REPORTED MEASLES-CONTAINING SHOT #3,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+MCV_AGE4,AGE IN YEARS OF PROV-REPORTED MEASLES-CONTAINING SHOT #4,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+MCV_AGE5,AGE IN YEARS OF PROV-REPORTED MEASLES-CONTAINING SHOT #5,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+MCV_AGE6,AGE IN YEARS OF PROV-REPORTED MEASLES-CONTAINING SHOT #6,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+MCV_AGE7,AGE IN YEARS OF PROV-REPORTED MEASLES-CONTAINING SHOT #7,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+MCV_AGE8,AGE IN YEARS OF PROV-REPORTED MEASLES-CONTAINING SHOT #8,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+MCV_AGE9,AGE IN YEARS OF PROV-REPORTED MEASLES-CONTAINING SHOT #9,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+MCV_ANY_REC,HH-REPORT: HAS TEEN EVER RECEIVED ANY MMR/MEASLES SHOTS? (RECALL),Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,Dropped in 2014 due to shortened questionnaire.
+MCV_ANY_SC,HH-REPORT: HAS TEEN EVER RECEIVED ANY MMR/MEASLES SHOTS? (SHOTCARD),Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,Dropped in 2014 due to shortened questionnaire.
+MCV_DAGE1,AGE IN DAYS OF PROV-REPORTED MEASLES-CONTAINING SHOT #1,-,-,-,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011. Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+MCV_DAGE2,AGE IN DAYS OF PROV-REPORTED MEASLES-CONTAINING SHOT #2,-,-,-,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011. Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+MCV_DAGE3,AGE IN DAYS OF PROV-REPORTED MEASLES-CONTAINING SHOT #3,-,-,-,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011. Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+MCV_DAGE4,AGE IN DAYS OF PROV-REPORTED MEASLES-CONTAINING SHOT #4,-,-,-,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011. Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+MCV_DAGE5,AGE IN DAYS OF PROV-REPORTED MEASLES-CONTAINING SHOT #5,-,-,-,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011. Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+MCV_DAGE6,AGE IN DAYS OF PROV-REPORTED MEASLES-CONTAINING SHOT #6,-,-,-,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011. Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+MCV_DAGE7,AGE IN DAYS OF PROV-REPORTED MEASLES-CONTAINING SHOT #7,-,-,-,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011. Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+MCV_DAGE8,AGE IN DAYS OF PROV-REPORTED MEASLES-CONTAINING SHOT #8,-,-,-,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011. Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+MCV_DAGE9,AGE IN DAYS OF PROV-REPORTED MEASLES-CONTAINING SHOT #9,-,-,-,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011. Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+MCV_MAGE1,AGE IN MONTHS OF PROV-REPORTED MEASLES-CONTAINING SHOT #1,-,-,-,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011. Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+MCV_MAGE2,AGE IN MONTHS OF PROV-REPORTED MEASLES-CONTAINING SHOT #2,-,-,-,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011. Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+MCV_MAGE3,AGE IN MONTHS OF PROV-REPORTED MEASLES-CONTAINING SHOT #3,-,-,-,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011. Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+MCV_MAGE4,AGE IN MONTHS OF PROV-REPORTED MEASLES-CONTAINING SHOT #4,-,-,-,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011. Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+MCV_MAGE5,AGE IN MONTHS OF PROV-REPORTED MEASLES-CONTAINING SHOT #5,-,-,-,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011. Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+MCV_MAGE6,AGE IN MONTHS OF PROV-REPORTED MEASLES-CONTAINING SHOT #6,-,-,-,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011. Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+MCV_MAGE7,AGE IN MONTHS OF PROV-REPORTED MEASLES-CONTAINING SHOT #7,-,-,-,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011. Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+MCV_MAGE8,AGE IN MONTHS OF PROV-REPORTED MEASLES-CONTAINING SHOT #8,-,-,-,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011. Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+MCV_MAGE9,AGE IN MONTHS OF PROV-REPORTED MEASLES-CONTAINING SHOT #9,-,-,-,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011. Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+MCV_NUM_REC,NUMBER OF HH-REPORTED MMR/MEASLES SHOTS RECEIVED (RECALL),Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,Dropped in 2014 due to shortened questionnaire.
+MCV_NUM_SC,NUMBER OF HH-REPORTED MMR/MEASLES SHOTS RECEIVED (SHOTCARD),Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,Dropped in 2014 due to shortened questionnaire.
+MCV_NUM_TOT,NUMBER OF HH-REPORTED MMR/MEASLES SHOTS RECEIVED (TOTAL),Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,Dropped in 2014 due to shortened questionnaire.
+MEN_AGE_SC1,AGE OF TEEN IN YEARS AT HH-REPORTED MENINGOCOCCAL SHOT #1 (SHOTCARD),Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,Dropped in 2014 due to shortened questionnaire.
+MEN_AGE_SC2,AGE OF TEEN IN YEARS AT HH-REPORTED MENINGOCOCCAL SHOT #2 (SHOTCARD),Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,Dropped in 2014 due to shortened questionnaire.
+MEN_AGE_SC3,AGE OF TEEN IN YEARS AT HH-REPORTED MENINGOCOCCAL SHOT #3 (SHOTCARD),Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,Dropped in 2014 due to shortened questionnaire.
+MEN_AGE_SC4,AGE OF TEEN IN YEARS AT HH-REPORTED MENINGOCOCCAL SHOT #4 (SHOTCARD),Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,Dropped in 2014 due to shortened questionnaire.
+MEN_AGE_SC5,AGE OF TEEN IN YEARS AT HH-REPORTED MENINGOCOCCAL SHOT #5 (SHOTCARD),Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,Dropped in 2014 due to shortened questionnaire.
+MEN_AGE_SC6,AGE OF TEEN IN YEARS AT HH-REPORTED MENINGOCOCCAL SHOT #6 (SHOTCARD),Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,Dropped in 2014 due to shortened questionnaire.
+MEN_AGE_SC7,AGE OF TEEN IN YEARS AT HH-REPORTED MENINGOCOCCAL SHOT #7 (SHOTCARD),Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,Dropped in 2014 due to shortened questionnaire.
+MEN_AGE_SC8,AGE OF TEEN IN YEARS AT HH-REPORTED MENINGOCOCCAL SHOT #8 (SHOTCARD),Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,Dropped in 2014 due to shortened questionnaire.
+MEN_AGE1,AGE IN YEARS OF PROV-REPORTED MENINGOCOCCAL SEROGROUP ACWY SHOT #1,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+MEN_AGE2,AGE IN YEARS OF PROV-REPORTED MENINGOCOCCAL SEROGROUP ACWY SHOT #2,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+MEN_AGE3,AGE IN YEARS OF PROV-REPORTED MENINGOCOCCAL SEROGROUP ACWY SHOT #3,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+MEN_AGE4,AGE IN YEARS OF PROV-REPORTED MENINGOCOCCAL SEROGROUP ACWY SHOT #4,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+MEN_AGE5,AGE IN YEARS OF PROV-REPORTED MENINGOCOCCAL SEROGROUP ACWY SHOT #5,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+MEN_AGE6,AGE IN YEARS OF PROV-REPORTED MENINGOCOCCAL SEROGROUP ACWY SHOT #6,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+MEN_AGE7,AGE IN YEARS OF PROV-REPORTED MENINGOCOCCAL SEROGROUP ACWY SHOT #7,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+MEN_AGE8,AGE IN YEARS OF PROV-REPORTED MENINGOCOCCAL SEROGROUP ACWY SHOT #8,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+MEN_AGE9,AGE IN YEARS OF PROV-REPORTED MENINGOCOCCAL SEROGROUP ACWY SHOT #9,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+MEN_ANY,HH-REPORT: HAS TEEN EVER RECEIVED ANY MENINGITIS SHOTS?,-,-,-,-,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Y,Replaced MEN_ANY_REC in 2015.
+MEN_ANY_REC,HH-REPORT: HAS TEEN EVER RECEIVED ANY MENINGITIS SHOTS? (RECALL),Y,Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,-,-,-,Replaced by MEN_ANY in 2015.
+MEN_ANY_SC,HH-REPORT: HAS TEEN EVER RECEIVED ANY MENINGITIS SHOTS? (SHOTCARD),Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,Dropped in 2014 due to shortened questionnaire.
+MEN_DAGE1,AGE IN DAYS OF PROV-REPORTED MENINGOCOCCAL SEROGROUP ACWY SHOT #1,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011.
+MEN_DAGE2,AGE IN DAYS OF PROV-REPORTED MENINGOCOCCAL SEROGROUP ACWY SHOT #2,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011.
+MEN_DAGE3,AGE IN DAYS OF PROV-REPORTED MENINGOCOCCAL SEROGROUP ACWY SHOT #3,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011.
+MEN_DAGE4,AGE IN DAYS OF PROV-REPORTED MENINGOCOCCAL SEROGROUP ACWY SHOT #4,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011.
+MEN_DAGE5,AGE IN DAYS OF PROV-REPORTED MENINGOCOCCAL SEROGROUP ACWY SHOT #5,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011.
+MEN_DAGE6,AGE IN DAYS OF PROV-REPORTED MENINGOCOCCAL SEROGROUP ACWY SHOT #6,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011.
+MEN_DAGE7,AGE IN DAYS OF PROV-REPORTED MENINGOCOCCAL SEROGROUP ACWY SHOT #7,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011.
+MEN_DAGE8,AGE IN DAYS OF PROV-REPORTED MENINGOCOCCAL SEROGROUP ACWY SHOT #8,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011.
+MEN_DAGE9,AGE IN DAYS OF PROV-REPORTED MENINGOCOCCAL SEROGROUP ACWY SHOT #9,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011.
+MEN_MAGE1,AGE IN MONTHS OF PROV-REPORTED MENINGOCOCCAL SEROGROUP ACWY SHOT #1,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011.
+MEN_MAGE2,AGE IN MONTHS OF PROV-REPORTED MENINGOCOCCAL SEROGROUP ACWY SHOT #2,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011.
+MEN_MAGE3,AGE IN MONTHS OF PROV-REPORTED MENINGOCOCCAL SEROGROUP ACWY SHOT #3,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011.
+MEN_MAGE4,AGE IN MONTHS OF PROV-REPORTED MENINGOCOCCAL SEROGROUP ACWY SHOT #4,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011.
+MEN_MAGE5,AGE IN MONTHS OF PROV-REPORTED MENINGOCOCCAL SEROGROUP ACWY SHOT #5,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011.
+MEN_MAGE6,AGE IN MONTHS OF PROV-REPORTED MENINGOCOCCAL SEROGROUP ACWY SHOT #6,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011.
+MEN_MAGE7,AGE IN MONTHS OF PROV-REPORTED MENINGOCOCCAL SEROGROUP ACWY SHOT #7,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011.
+MEN_MAGE8,AGE IN MONTHS OF PROV-REPORTED MENINGOCOCCAL SEROGROUP ACWY SHOT #8,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011.
+MEN_MAGE9,AGE IN MONTHS OF PROV-REPORTED MENINGOCOCCAL SEROGROUP ACWY SHOT #9,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011.
+MEN_NUM_REC,NUMBER OF HH-REPORTED MENINGITIS SHOTS RECEIVED (RECALL),Y,Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,-,-,-,Replaced with MEN_NUM_TOT in 2015. 
+MEN_NUM_SC,NUMBER OF HH-REPORTED MENINGITIS SHOTS RECEIVED (SHOTCARD),Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,Dropped in 2014 due to shortened questionnaire.
+MEN_NUM_TOT,NUMBER OF HH-REPORTED MENINGITIS SHOTS RECEIVED (TOTAL),Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Y,Y,Y,Y,Dropped in 2014 due to shortened questionnaire; added back in 2015.
+MEN_REAS_1,MAIN REASON TEEN DID NOT RECEIVE MENINGITIS SHOTS: NOT RECOMMENDED,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y, -
+MEN_REAS_10,MAIN REASON TEEN DID NOT RECEIVE MENINGITIS SHOTS: COSTS,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+MEN_REAS_11,MAIN REASON TEEN DID NOT RECEIVE MENINGITIS SHOTS: SAFETY CONCERN/SIDE EFFECTS,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+MEN_REAS_12,MAIN REASON TEEN DID NOT RECEIVE MENINGITIS SHOTS: EFFECTIVENESS CONCERN,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+MEN_REAS_13,MAIN REASON TEEN DID NOT RECEIVE MENINGITIS SHOTS: TEEN FEARFUL,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+MEN_REAS_14,MAIN REASON TEEN DID NOT RECEIVE MENINGITIS SHOTS: TEEN SHOULD MAKE DECISION,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+MEN_REAS_15,MAIN REASON TEEN DID NOT RECEIVE MENINGITIS SHOTS: COLLEGE SHOT,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+MEN_REAS_16,MAIN REASON TEEN DID NOT RECEIVE MENINGITIS SHOTS: DON'T BELIEVE IN VACCINATIONS,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+MEN_REAS_17,MAIN REASON TEEN DID NOT RECEIVE MENINGITIS SHOTS: FAMILY/PARENTAL DECISION,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+MEN_REAS_18,MAIN REASON TEEN DID NOT RECEIVE MENINGITIS SHOTS: HANDICAPPED/SPECIAL NEEDS/ILLNESS,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+MEN_REAS_19,MAIN REASON TEEN DID NOT RECEIVE MENINGITIS SHOTS: RELIGION/ORTHODOX,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+MEN_REAS_2,MAIN REASON TEEN DID NOT RECEIVE MENINGITIS SHOTS: LACK OF KNOWLEDGE,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+MEN_REAS_20,MAIN REASON TEEN DID NOT RECEIVE MENINGITIS SHOTS: TIME,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+MEN_REAS_21,MAIN REASON TEEN DID NOT RECEIVE MENINGITIS SHOTS: MORE INFO/NEW VACCINE,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+MEN_REAS_22,MAIN REASON TEEN DID NOT RECEIVE MENINGITIS SHOTS: ALREADY UP-TO-DATE,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+MEN_REAS_23,MAIN REASON TEEN DID NOT RECEIVE MENINGITIS SHOTS: NO DOCTOR OR DOCTOR'S VISIT NOT SCHEDULED,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y, -
+MEN_REAS_24,MAIN REASON TEEN DID NOT RECEIVE MENINGITIS SHOTS: INTEND TO COMPLETE BUT HAVE NOT YET/ALREADY PLANNED,-,-,-,-,-,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Additional reason flag added in 2016.
+MEN_REAS_25,MAIN REASON TEEN DID NOT RECEIVE MENINGITIS SHOTS: DIFFICULTY MAKING OR GETTING TO APPOINTMENT/TRANSPORTATION PROBLEMS,-,-,-,-,-,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Additional reason flag added in 2016.
+MEN_REAS_26,MAIN REASON TEEN DID NOT RECEIVE MENINGITIS SHOTS: COVID-19 PANDEMIC,,,,,,,,,,,,,Y,Y,Y,Y,Additional reason flag added in 2020.
+MEN_REAS_27,MAIN REASON TEEN DID NOT RECEIVE MENINGITIS SHOTS: DISTRUST OF GOVT/CDC,,,,,,,,,,,,,,,,Y,Additional reason flag added in 2023.
+MEN_REAS_3,MAIN REASON TEEN DID NOT RECEIVE MENINGITIS SHOTS: NOT NEEDED OR NOT NECESSARY,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+MEN_REAS_4,MAIN REASON TEEN DID NOT RECEIVE MENINGITIS SHOTS: NOT SCHOOL REQUIREMENT,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+MEN_REAS_5,MAIN REASON TEEN DID NOT RECEIVE MENINGITIS SHOTS: NOT AVAILABLE,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+MEN_REAS_6,MAIN REASON TEEN DID NOT RECEIVE MENINGITIS SHOTS: NOT APPROPRIATE AGE,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+MEN_REAS_7,MAIN REASON TEEN DID NOT RECEIVE MENINGITIS SHOTS: OTHER REASON,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+MEN_RECOM,HAD OR HAS DOCTOR OR OTHER HEALTH CARE PROFESSIONAL EVER RECOMMENDED THAT TEEN RECEIVE MENINGITIS SHOTS?,Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,Dropped in 2014 due to shortened questionnaire.
+MENB_AGE1,AGE IN YEARS OF PROV-REPORTED MENINGOCOCCAL SEROGROUP B SHOT #1,-,-,-,-,-,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Meningococcal Serogroup B added to the IHQ shotgrid starting in 2016. 
+MENB_AGE2,AGE IN YEARS OF PROV-REPORTED MENINGOCOCCAL SEROGROUP B SHOT #2,-,-,-,-,-,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Meningococcal Serogroup B added to the IHQ shotgrid starting in 2016. 
+MENB_AGE3,AGE IN YEARS OF PROV-REPORTED MENINGOCOCCAL SEROGROUP B SHOT #3,-,-,-,-,-,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Meningococcal Serogroup B added to the IHQ shotgrid starting in 2016. 
+MENB_AGE4,AGE IN YEARS OF PROV-REPORTED MENINGOCOCCAL SEROGROUP B SHOT #4,-,-,-,-,-,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Meningococcal Serogroup B added to the IHQ shotgrid starting in 2016. 
+MENB_AGE5,AGE IN YEARS OF PROV-REPORTED MENINGOCOCCAL SEROGROUP B SHOT #5,-,-,-,-,-,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Meningococcal Serogroup B added to the IHQ shotgrid starting in 2016. 
+MENB_AGE6,AGE IN YEARS OF PROV-REPORTED MENINGOCOCCAL SEROGROUP B SHOT #6,-,-,-,-,-,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Meningococcal Serogroup B added to the IHQ shotgrid starting in 2016. 
+MENB_AGE7,AGE IN YEARS OF PROV-REPORTED MENINGOCOCCAL SEROGROUP B SHOT #7,-,-,-,-,-,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Meningococcal Serogroup B added to the IHQ shotgrid starting in 2016. 
+MENB_AGE8,AGE IN YEARS OF PROV-REPORTED MENINGOCOCCAL SEROGROUP B SHOT #8,-,-,-,-,-,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Meningococcal Serogroup B added to the IHQ shotgrid starting in 2016. 
+MENB_AGE9,AGE IN YEARS OF PROV-REPORTED MENINGOCOCCAL SEROGROUP B SHOT #9,-,-,-,-,-,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Meningococcal Serogroup B added to the IHQ shotgrid starting in 2016. 
+MENB_DAGE1,AGE IN DAYS OF PROV-REPORTED MENINGOCOCCAL SEROGROUP B SHOT #1,-,-,-,-,-,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Meningococcal Serogroup B added to the IHQ shotgrid starting in 2016. 
+MENB_DAGE2,AGE IN DAYS OF PROV-REPORTED MENINGOCOCCAL SEROGROUP B SHOT #2,-,-,-,-,-,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Meningococcal Serogroup B added to the IHQ shotgrid starting in 2016. 
+MENB_DAGE3,AGE IN DAYS OF PROV-REPORTED MENINGOCOCCAL SEROGROUP B SHOT #3,-,-,-,-,-,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Meningococcal Serogroup B added to the IHQ shotgrid starting in 2016. 
+MENB_DAGE4,AGE IN DAYS OF PROV-REPORTED MENINGOCOCCAL SEROGROUP B SHOT #4,-,-,-,-,-,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Meningococcal Serogroup B added to the IHQ shotgrid starting in 2016. 
+MENB_DAGE5,AGE IN DAYS OF PROV-REPORTED MENINGOCOCCAL SEROGROUP B SHOT #5,-,-,-,-,-,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Meningococcal Serogroup B added to the IHQ shotgrid starting in 2016. 
+MENB_DAGE6,AGE IN DAYS OF PROV-REPORTED MENINGOCOCCAL SEROGROUP B SHOT #6,-,-,-,-,-,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Meningococcal Serogroup B added to the IHQ shotgrid starting in 2016. 
+MENB_DAGE7,AGE IN DAYS OF PROV-REPORTED MENINGOCOCCAL SEROGROUP B SHOT #7,-,-,-,-,-,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Meningococcal Serogroup B added to the IHQ shotgrid starting in 2016. 
+MENB_DAGE8,AGE IN DAYS OF PROV-REPORTED MENINGOCOCCAL SEROGROUP B SHOT #8,-,-,-,-,-,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Meningococcal Serogroup B added to the IHQ shotgrid starting in 2016. 
+MENB_DAGE9,AGE IN DAYS OF PROV-REPORTED MENINGOCOCCAL SEROGROUP B SHOT #9,-,-,-,-,-,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Meningococcal Serogroup B added to the IHQ shotgrid starting in 2016. 
+MENB_MAGE1,AGE IN MONTHS OF PROV-REPORTED MENINGOCOCCAL SEROGROUP B SHOT #1,-,-,-,-,-,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Meningococcal Serogroup B added to the IHQ shotgrid starting in 2016. 
+MENB_MAGE2,AGE IN MONTHS OF PROV-REPORTED MENINGOCOCCAL SEROGROUP B SHOT #2,-,-,-,-,-,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Meningococcal Serogroup B added to the IHQ shotgrid starting in 2016. 
+MENB_MAGE3,AGE IN MONTHS OF PROV-REPORTED MENINGOCOCCAL SEROGROUP B SHOT #3,-,-,-,-,-,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Meningococcal Serogroup B added to the IHQ shotgrid starting in 2016. 
+MENB_MAGE4,AGE IN MONTHS OF PROV-REPORTED MENINGOCOCCAL SEROGROUP B SHOT #4,-,-,-,-,-,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Meningococcal Serogroup B added to the IHQ shotgrid starting in 2016. 
+MENB_MAGE5,AGE IN MONTHS OF PROV-REPORTED MENINGOCOCCAL SEROGROUP B SHOT #5,-,-,-,-,-,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Meningococcal Serogroup B added to the IHQ shotgrid starting in 2016. 
+MENB_MAGE6,AGE IN MONTHS OF PROV-REPORTED MENINGOCOCCAL SEROGROUP B SHOT #6,-,-,-,-,-,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Meningococcal Serogroup B added to the IHQ shotgrid starting in 2016. 
+MENB_MAGE7,AGE IN MONTHS OF PROV-REPORTED MENINGOCOCCAL SEROGROUP B SHOT #7,-,-,-,-,-,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Meningococcal Serogroup B added to the IHQ shotgrid starting in 2016. 
+MENB_MAGE8,AGE IN MONTHS OF PROV-REPORTED MENINGOCOCCAL SEROGROUP B SHOT #8,-,-,-,-,-,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Meningococcal Serogroup B added to the IHQ shotgrid starting in 2016. 
+MENB_MAGE9,AGE IN MONTHS OF PROV-REPORTED MENINGOCOCCAL SEROGROUP B SHOT #9,-,-,-,-,-,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Meningococcal Serogroup B added to the IHQ shotgrid starting in 2016. 
+MENU_AGE1,AGE IN YEARS OF PROV-REPORTED MENINGOCOCCAL-UNKNOWN SEROGROUP SHOT #1,-,-,-,-,-,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Meningococcal - unknown serogroup added to the IHQ shotgrid starting in 2016.
+MENU_AGE2,AGE IN YEARS OF PROV-REPORTED MENINGOCOCCAL-UNKNOWN SEROGROUP SHOT #2,-,-,-,-,-,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Meningococcal - unknown serogroup added to the IHQ shotgrid starting in 2016.
+MENU_AGE3,AGE IN YEARS OF PROV-REPORTED MENINGOCOCCAL-UNKNOWN SEROGROUP SHOT #3,-,-,-,-,-,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Meningococcal - unknown serogroup added to the IHQ shotgrid starting in 2016.
+MENU_AGE4,AGE IN YEARS OF PROV-REPORTED MENINGOCOCCAL-UNKNOWN SEROGROUP SHOT #4,-,-,-,-,-,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Meningococcal - unknown serogroup added to the IHQ shotgrid starting in 2016.
+MENU_AGE5,AGE IN YEARS OF PROV-REPORTED MENINGOCOCCAL-UNKNOWN SEROGROUP SHOT #5,-,-,-,-,-,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Meningococcal - unknown serogroup added to the IHQ shotgrid starting in 2016.
+MENU_AGE6,AGE IN YEARS OF PROV-REPORTED MENINGOCOCCAL-UNKNOWN SEROGROUP SHOT #6,-,-,-,-,-,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Meningococcal - unknown serogroup added to the IHQ shotgrid starting in 2016.
+MENU_AGE7,AGE IN YEARS OF PROV-REPORTED MENINGOCOCCAL-UNKNOWN SEROGROUP SHOT #7,-,-,-,-,-,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Meningococcal - unknown serogroup added to the IHQ shotgrid starting in 2016.
+MENU_AGE8,AGE IN YEARS OF PROV-REPORTED MENINGOCOCCAL-UNKNOWN SEROGROUP SHOT #8,-,-,-,-,-,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Meningococcal - unknown serogroup added to the IHQ shotgrid starting in 2016.
+MENU_AGE9,AGE IN YEARS OF PROV-REPORTED MENINGOCOCCAL-UNKNOWN SEROGROUP SHOT #9,-,-,-,-,-,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Meningococcal - unknown serogroup added to the IHQ shotgrid starting in 2016.
+MENU_DAGE1,AGE IN DAYS OF PROV-REPORTED MENINGOCOCCAL-UNKNOWN SEROGROUP SHOT #1,-,-,-,-,-,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Meningococcal - unknown serogroup added to the IHQ shotgrid starting in 2016.
+MENU_DAGE2,AGE IN DAYS OF PROV-REPORTED MENINGOCOCCAL-UNKNOWN SEROGROUP SHOT #2,-,-,-,-,-,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Meningococcal - unknown serogroup added to the IHQ shotgrid starting in 2016.
+MENU_DAGE3,AGE IN DAYS OF PROV-REPORTED MENINGOCOCCAL-UNKNOWN SEROGROUP SHOT #3,-,-,-,-,-,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Meningococcal - unknown serogroup added to the IHQ shotgrid starting in 2016.
+MENU_DAGE4,AGE IN DAYS OF PROV-REPORTED MENINGOCOCCAL-UNKNOWN SEROGROUP SHOT #4,-,-,-,-,-,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Meningococcal - unknown serogroup added to the IHQ shotgrid starting in 2016.
+MENU_DAGE5,AGE IN DAYS OF PROV-REPORTED MENINGOCOCCAL-UNKNOWN SEROGROUP SHOT #5,-,-,-,-,-,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Meningococcal - unknown serogroup added to the IHQ shotgrid starting in 2016.
+MENU_DAGE6,AGE IN DAYS OF PROV-REPORTED MENINGOCOCCAL-UNKNOWN SEROGROUP SHOT #6,-,-,-,-,-,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Meningococcal - unknown serogroup added to the IHQ shotgrid starting in 2016.
+MENU_DAGE7,AGE IN DAYS OF PROV-REPORTED MENINGOCOCCAL-UNKNOWN SEROGROUP SHOT #7,-,-,-,-,-,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Meningococcal - unknown serogroup added to the IHQ shotgrid starting in 2016.
+MENU_DAGE8,AGE IN DAYS OF PROV-REPORTED MENINGOCOCCAL-UNKNOWN SEROGROUP SHOT #8,-,-,-,-,-,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Meningococcal - unknown serogroup added to the IHQ shotgrid starting in 2016.
+MENU_DAGE9,AGE IN DAYS OF PROV-REPORTED MENINGOCOCCAL-UNKNOWN SEROGROUP SHOT #9,-,-,-,-,-,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Meningococcal - unknown serogroup added to the IHQ shotgrid starting in 2016.
+MENU_MAGE1,AGE IN MONTHS OF PROV-REPORTED MENINGOCOCCAL-UNKNOWN SEROGROUP SHOT #1,-,-,-,-,-,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Meningococcal - unknown serogroup added to the IHQ shotgrid starting in 2016.
+MENU_MAGE2,AGE IN MONTHS OF PROV-REPORTED MENINGOCOCCAL-UNKNOWN SEROGROUP SHOT #2,-,-,-,-,-,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Meningococcal - unknown serogroup added to the IHQ shotgrid starting in 2016.
+MENU_MAGE3,AGE IN MONTHS OF PROV-REPORTED MENINGOCOCCAL-UNKNOWN SEROGROUP SHOT #3,-,-,-,-,-,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Meningococcal - unknown serogroup added to the IHQ shotgrid starting in 2016.
+MENU_MAGE4,AGE IN MONTHS OF PROV-REPORTED MENINGOCOCCAL-UNKNOWN SEROGROUP SHOT #4,-,-,-,-,-,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Meningococcal - unknown serogroup added to the IHQ shotgrid starting in 2016.
+MENU_MAGE5,AGE IN MONTHS OF PROV-REPORTED MENINGOCOCCAL-UNKNOWN SEROGROUP SHOT #5,-,-,-,-,-,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Meningococcal - unknown serogroup added to the IHQ shotgrid starting in 2016.
+MENU_MAGE6,AGE IN MONTHS OF PROV-REPORTED MENINGOCOCCAL-UNKNOWN SEROGROUP SHOT #6,-,-,-,-,-,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Meningococcal - unknown serogroup added to the IHQ shotgrid starting in 2016.
+MENU_MAGE7,AGE IN MONTHS OF PROV-REPORTED MENINGOCOCCAL-UNKNOWN SEROGROUP SHOT #7,-,-,-,-,-,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Meningococcal - unknown serogroup added to the IHQ shotgrid starting in 2016.
+MENU_MAGE8,AGE IN MONTHS OF PROV-REPORTED MENINGOCOCCAL-UNKNOWN SEROGROUP SHOT #8,-,-,-,-,-,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Meningococcal - unknown serogroup added to the IHQ shotgrid starting in 2016.
+MENU_MAGE9,AGE IN MONTHS OF PROV-REPORTED MENINGOCOCCAL-UNKNOWN SEROGROUP SHOT #9,-,-,-,-,-,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Meningococcal - unknown serogroup added to the IHQ shotgrid starting in 2016.
+MOBIL_I,GEOGRAPHIC MOBILITY STATUS: STATE OF RESIDENCE AT BIRTH VERSUS CURRENT STATE: IMPUTED,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+N_PRVR,NUMBER OF IHQS WITH VACCINATION INFORMATION FOR THE TEEN (RECODE),Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+NOSCHOOLR,"DURING PAST 12 MONTHS, ABOUT HOW MANY DAYS DID TEEN MISS SCHOOL BECAUSE OF ILLNESS OR INJURY? (RECODE)",Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+NUM_CELLS_HH,NUMBER OF WORKING CELL PHONES HOUSEHOLD MEMBERS HAVE AVAILABLE FOR PERSONAL USE,-,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Question added to household questionnaire in 2009.
+NUM_CELLS_PARENTS,NUMBER OF WORKING CELL PHONES USUALLY USED BY PARENTS OR GUARDIANS,-,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Question added to household questionnaire in 2009.
+NUM_PHONE,NUMBER OF RESIDENTIAL LANDLINE TELEPHONE NUMBERS IN HOUSEHOLD,-,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Question added to household questionnaire in 2009.
+NUM_PROVR,"NUMBER OF VALID, UNIQUE PROVIDERS IDENTIFIED BY RESPONDENT (FOR TEENS WITH CONSENT) (RECODE)",Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y, -
+P_N13FLU,"NUMBER OF SEASONAL INFLUENZA VACCINATIONS IN THE PAST THREE YEARS BY AGE 13 YEARS DETERMINED FROM PROVIDER INFO, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+P_N13FLU_FL,"NUMBER OF SEASONAL INFLUENZA VACCINATIONS OF UNKNOWN TYPE IN PAST THREE YEARS BY AGE 13 YEARS DETERMINED FROM PROVIDER INFO, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+P_N13FLU_FM,"NUMBER OF SEASONAL FLUMIST VACCINATIONS IN PAST THREE YEARS BY AGE 13 YEARS DETERMINED FROM PROVIDER INFO, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+P_N13FLU_FN,"NUMBER OF INJECTED SEASONAL INFLUENZA SHOTS OF OTHER/UNKNOWN TYPE IN PAST THREE YEARS BY AGE 13 YEARS DETERMINED FROM PROVIDER INFO, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+P_N13FLU_FV,"NUMBER OF SEASONAL FLUVIRIN SHOTS IN PAST THREE YEARS BY AGE 13 YEARS DETERMINED FROM PROVIDER INFO, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+P_N13FLU_FZ,"NUMBER OF SEASONAL FLUZONE SHOTS IN PAST THREE YEARS BY AGE 13 YEARS DETERMINED FROM PROVIDER INFO, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+P_N13H1N,"NUMBER OF MONOVALENT 2009 H1N1 INFLUENZA VACCINATIONS BY AGE 13 YEARS DETERMINED FROM PROVIDER INFO, EXCLUDING VACCINATIONS AFTER THE HOUSEHOLD INTERVIEW DATE AND EXCLUDING VACCINATIONS GIVEN PRIOR TO 10/5/2009.",-,-,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,-,"H1N1 influenza added to the IHQ shotgrid starting in late 2009, and introduced in the PUF in 2010. Removed from the IHQ and the PUF in 2013."
+P_N13H1N_1L,"NUMBER OF MONOVALENT 2009 H1N1 INFLUENZA VACCINATIONS OF UNKNOWN TYPE BY AGE 13 YEARS DETERMINED FROM PROVIDER INFO, EXCLUDING VACCINATIONS AFTER THE HOUSEHOLD INTERVIEW DATE AND EXCLUDING VACCINATIONS GIVEN PRIOR TO 10/5/2009.",-,-,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,-,"H1N1 influenza added to the IHQ shotgrid starting in late 2009, and introduced in the PUF in 2010. Removed from the IHQ and the PUF in 2013."
+P_N13H1N_1M,"NUMBER OF INHALED NASAL MONOVALENT 2009 H1N1 INFLUENZA SPRAY VACCINATIONS BY AGE 13 YEARS DETERMINED FROM PROVIDER INFO, EXCLUDING VACCINATIONS AFTER THE HOUSEHOLD INTERVIEW DATE AND EXCLUDING VACCINATIONS GIVEN PRIOR TO 10/5/2009.",-,-,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,-,"H1N1 influenza added to the IHQ shotgrid starting in late 2009, and introduced in the PUF in 2010. Removed from the IHQ and the PUF in 2013."
+P_N13H1N_1N,"NUMBER OF INJECTED MONOVALENT 2009 H1N1 INFLUENZA VACCINATIONS BY AGE 13 YEARS DETERMINED FROM PROVIDER INFO, EXCLUDING VACCINATIONS AFTER THE HOUSEHOLD INTERVIEW DATE AND EXCLUDING VACCINATIONS GIVEN PRIOR TO 10/5/2009.",-,-,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,-,"H1N1 influenza added to the IHQ shotgrid starting in late 2009, and introduced in the PUF in 2010. Removed from the IHQ and the PUF in 2013."
+P_N13HEPA,"NUMBER OF HEPATITIS A-CONTAINING SHOTS BY AGE 13 YEARS DETERMINED FROM PROVIDER INFO, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+P_N13HEPA_HA,"NUMBER OF HEPATITIS A-CONTAINING SHOTS OF UNKNOWN TYPE BY AGE 13 YEARS DETERMINED FROM PROVIDER INFO, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+P_N13HEPA_HO,"NUMBER OF HEPATITIS A-ONLY SHOTS BY AGE 13 YEARS DETERMINED FROM PROVIDER INFO, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+P_N13HEPB,"NUMBER OF HEPATITIS B-CONTAINING SHOTS BY AGE 13 YEARS DETERMINED FROM PROVIDER INFO, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+P_N13HEPB_43,"NUMBER OF HEPB/HIB COMBO SHOTS BY AGE 13 YEARS DETERMINED FROM PROVIDER INFO, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+P_N13HEPB_61,"NUMBER OF HEPATITIS B 0.5 ML RECOMBIVAX SHOTS BY AGE 13 YEARS DETERMINED FROM PROVIDER INFO, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+P_N13HEPB_62,"NUMBER OF HEPATITIS B 1.0 ML RECOMBIVAX SHOTS BY AGE 13 YEARS DETERMINED FROM PROVIDER INFO, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+P_N13HEPB_63,"NUMBER OF HEPATITIS B ENGERIX SHOTS BY AGE 13 YEARS DETERMINED FROM PROVIDER INFO, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+P_N13HEPB_64,"NUMBER OF HEPATITIS B-ONLY SHOTS OF UNKNOWN TYPE BY AGE 13 YEARS DETERMINED FROM PROVIDER INFO, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+P_N13HEPB_HB,"NUMBER OF HEPATITIS B-CONTAINING SHOTS OF UNKNOWN TYPE BY AGE 13 YEARS DETERMINED FROM PROVIDER INFO, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+P_N13HPV,"NUMBER OF HUMAN PAPILLOMAVIRUS SHOTS BY AGE 13 YEARS DETERMINED FROM PROVIDER INFO, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y, -
+P_N13HPV_4V,"NUMBER OF HPV-GARDASIL (4vHPV) SHOTS BY AGE 13 YEARS DETERMINED FROM PROVIDER INFO, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",-,-,-,-,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Y,Renamed from P_N13HPV_ GD in 2015.
+P_N13HPV_9V,"NUMBER OF HPV-GARDASIL 9 (9vHPV) SHOTS BY AGE 13 YEARS DETERMINED FROM PROVIDER INFO, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",-,-,-,-,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Y,HPV Gardasil 9-valent shot type added to the IHQ shotgrid in 2015.
+P_N13HPV_CV,"NUMBER OF HPV-CERVARIX SHOTS BY AGE 13 YEARS DETERMINED FROM PROVIDER INFO, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",-,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,HPV shot type variables added to the PUF in 2012.
+P_N13HPV_GD,"NUMBER OF HPV-GARDASIL SHOTS BY AGE 13 YEARS DETERMINED FROM PROVIDER INFO, EXCLUDING VACCINATIONS AFTER THE HOUSEHOLD INTERVIEW DATE.",-,-,-,-,Y,Y,Y,-,-,-,-,-,-,-,-,-,HPV shot type variables added to the PUF in 2012. Replaced with P_N13HPV_4V in 2015.
+P_N13HPV_HP,"NUMBER OF HPV SHOTS OF UNKNOWN TYPE BY AGE 13 YEARS DETERMINED FROM PROVIDER INFO, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",-,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,HPV shot type variables added to the PUF in 2012.
+P_N13HPV_UV,"NUMBER OF HPV-GARDASIL, UNKNOWN VALENCY SHOTS BY AGE 13 YEARS DETERMINED FROM PROVIDER INFO, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",-,-,-,-,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Y,Added in 2015 to account for reported HPV Gardasil shots with unknown valence.
+P_N13MCV,"NUMBER OF MEASLES-CONTAINING SHOTS BY AGE 13 YEARS DETERMINED FROM PROVIDER INFO, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+P_N13MCV_30,"NUMBER OF MMR-ONLY SHOTS BY AGE 13 YEARS DETERMINED FROM PROVIDER INFO, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+P_N13MCV_31,"NUMBER OF MEASLES-ONLY SHOTS BY AGE 13 YEARS DETERMINED FROM PROVIDER INFO, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+P_N13MCV_32,"NUMBER OF MEASLES-MUMPS SHOTS BY AGE 13 YEARS DETERMINED FROM PROVIDER INFO, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+P_N13MCV_33,"NUMBER OF MEASLES-RUBELLA SHOTS BY AGE 13 YEARS DETERMINED FROM PROVIDER INFO, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+P_N13MCV_MM,"NUMBER OF MEASLES-CONTAINING SHOTS OF UNKNOWN TYPE BY AGE 13 YEARS DETERMINED FROM PROVIDER INFO, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+P_N13MCV_VM,"NUMBER OF MMR/VARICELLA SHOTS BY AGE 13 YEARS DETERMINED FROM PROVIDER INFO, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+P_N13MEN,"NUMBER OF MENINGOCOCCAL SEROGROUP ACWY-CONTAINING SHOTS BY AGE 13 YEARS DETERMINED FROM PROVIDER INFO, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+P_N13MEN_80,"NUMBER OF MENINGOCOCCAL MCV4 SHOTS BY AGE 13 YEARS DETERMINED FROM PROVIDER INFO, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+P_N13MEN_81,"NUMBER OF MENINGOCOCCAL MPSV4 SHOTS BY AGE 13 YEARS DETERMINED FROM PROVIDER INFO, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+P_N13MEN_82,"NUMBER OF MENINGOCOCCAL SEROGROUP ACWY SHOTS OF UNKNOWN TYPE BY AGE 13 YEARS DETERMINED FROM PROVIDER INFO, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+P_N13MENB,"NUMBER OF MENINGOCOCCAL SEROGROUP B SHOTS BY AGE 13 YEARS DETERMINED FROM PROVIDER INFO, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",-,-,-,-,-,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Meningococcal Serogroup B added to the IHQ shotgrid starting in 2016.
+P_N13MENB_BB,"NUMBER OF MENINGOCOCCAL MENB-4C SHOTS BY AGE 13 YEARS DETERMINED FROM PROVIDER INFO, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",-,-,-,-,-,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Meningococcal Serogroup B added to the IHQ shotgrid starting in 2016.
+P_N13MENB_BT,"NUMBER OF MENINGOCOCCAL MENB-FHPB SHOTS BY AGE 13 YEARS DETERMINED FROM PROVIDER INFO, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",-,-,-,-,-,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Meningococcal Serogroup B added to the IHQ shotgrid starting in 2016.
+P_N13MENB_BU,"NUMBER OF MENINGOCOCCAL SEROGROUP B SHOTS OF UNKNOWN TYPE BY AGE 13 YEARS DETERMINED FROM PROVIDER INFO, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",-,-,-,-,-,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Meningococcal Serogroup B added to the IHQ shotgrid starting in 2016.
+P_N13MENU,"NUMBER OF MENINGOCOCCAL-UNKNOWN SEROGROUP SHOTS BY AGE 13 YEARS DETERMINED FROM PROVIDER INFO, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",-,-,-,-,-,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Meningococcal - unknown serogroup added to the IHQ shotgrid starting in 2016.
+P_N13MMR,"NUMBER OF MMR-CONTAINING SHOTS BY AGE 13 YEARS DETERMINED FROM PROVIDER INFO, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+P_N13PPS,"NUMBER OF PNEUMOCOCCAL POLYSACCHARIDE SHOTS BY AGE 13 YEARS DETERMINED FROM PROVIDER INFO, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,,,,,Dropped in 2018 due to a provider reporting issue. Added back in 2019. Dropped in 2020 due to shot category being removed from the NIS-Teen IHQ.
+P_N13TDAP_POST10,"NUMBER OF TDAP SHOTS SINCE AGE 10 YEARS AND BY AGE 13 YEARS DETERMINED FROM PROVIDER INFO, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y, -
+P_N13TDAP_POST7,"NUMBER OF TDAP SHOTS SINCE AGE 7 YEARS AND BY AGE 13 YEARS DETERMINED FROM PROVIDER INFO, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",-,-,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Up-to-date variable added to the PUF in 2010.
+P_N13TDP,"NUMBER OF TD/TDAP-CONTAINING SHOTS BY AGE 13 YEARS DETERMINED FROM PROVIDER INFO, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+P_N13TDP_11,"NUMBER OF TD-ONLY SHOTS BY AGE 13 YEARS DETERMINED FROM PROVIDER INFO, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+P_N13TDP_14,"NUMBER OF TDAP-ONLY SHOTS BY AGE 13 YEARS DETERMINED FROM PROVIDER INFO, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+P_N13TDP_15,"NUMBER OF TD/TDAP-CONTAINING SHOTS OF UNKNOWN TYPE BY AGE 13 YEARS DETERMINED FROM PROVIDER INFO, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+P_N13TDP_POST10,"NUMBER OF TD/TDAP-CONTAINING SHOTS SINCE AGE 10 YEARS AND BY AGE 13 YEARS DETERMINED FROM PROVIDER INFO, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+P_N13VRC,"NUMBER OF VARICELLA-CONTAINING SHOTS BY AGE 13 YEARS DETERMINED FROM PROVIDER INFO, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+P_N13VRC_POST1,"NUMBER OF VARICELLA-CONTAINING SHOTS AT 12+ MONTHS OF AGE AND BY AGE 13 YEARS DETERMINED FROM PROVIDER INFO, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+P_N13VRC_VA,"NUMBER OF VARICELLA-CONTAINING SHOTS OF UNKNOWN TYPE BY AGE 13 YEARS DETERMINED FROM PROVIDER INFO, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+P_N13VRC_VM,"NUMBER OF MMR/VARICELLA SHOTS BY AGE 13 YEARS DETERMINED FROM PROVIDER INFO, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+P_N13VRC_VO,"NUMBER OF VARICELLA-ONLY SHOTS BY AGE 13 YEARS DETERMINED FROM PROVIDER INFO, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+P_NUMFLU,"NUMBER OF SEASONAL INFLUENZA VACCINATIONS IN THE PAST THREE YEARS DETERMINED FROM PROVIDER INFO, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+P_NUMFLU_FL,"NUMBER OF SEASONAL INFLUENZA VACCINATIONS OF UNKNOWN TYPE IN PAST THREE YEARS DETERMINED FROM PROVIDER INFO, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+P_NUMFLU_FM,"NUMBER OF SEASONAL FLUMIST VACCINATIONS IN PAST THREE YEARS DETERMINED FROM PROVIDER INFO, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+P_NUMFLU_FN,"NUMBER OF INJECTED SEASONAL INFLUENZA SHOTS OF OTHER/UNKNOWN TYPE IN PAST THREE YEARS DETERMINED FROM PROVIDER INFO, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+P_NUMFLU_FV,"NUMBER OF SEASONAL FLUVIRIN SHOTS IN PAST THREE YEARS DETERMINED FROM PROVIDER INFO, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+P_NUMFLU_FZ,"NUMBER OF SEASONAL FLUZONE SHOTS IN PAST THREE YEARS DETERMINED FROM PROVIDER INFO, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+P_NUMH1N,"NUMBER OF MONOVALENT 2009 H1N1 INFLUENZA VACCINATIONS DETERMINED FROM PROVIDER INFO, EXCLUDING VACCINATIONS AFTER THE HOUSEHOLD INTERVIEW DATE AND EXCLUDING VACCINATIONS GIVEN PRIOR TO 10/5/2009.",-,-,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,-,"H1N1 influenza added to the IHQ shotgrid starting in late 2009, and introduced in the PUF in 2010. Removed from the IHQ and the PUF in 2013."
+P_NUMH1N_1L,"NUMBER OF MONOVALENT 2009 H1N1 INFLUENZA VACCINATIONS OF UNKNOWN TYPE DETERMINED FROM PROVIDER INFO, EXCLUDING VACCINATIONS AFTER THE HOUSEHOLD INTERVIEW DATE AND EXCLUDING VACCINATIONS GIVEN PRIOR TO 10/5/2009.",-,-,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,-,"H1N1 influenza added to the IHQ shotgrid starting in late 2009, and introduced in the PUF in 2010. Removed from the IHQ and the PUF in 2013."
+P_NUMH1N_1M,"NUMBER OF INHALED NASAL MONOVALENT 2009 H1N1 INFLUENZA SPRAY VACCINATIONS DETERMINED FROM PROVIDER INFO, EXCLUDING VACCINATIONS AFTER THE HOUSEHOLD INTERVIEW DATE AND EXCLUDING VACCINATIONS GIVEN PRIOR TO 10/5/2009.",-,-,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,-,"H1N1 influenza added to the IHQ shotgrid starting in late 2009, and introduced in the PUF in 2010. Removed from the IHQ and the PUF in 2013."
+P_NUMH1N_1N,"NUMBER OF INJECTED MONOVALENT 2009 H1N1 INFLUENZA VACCINATIONS DETERMINED FROM PROVIDER INFO, EXCLUDING VACCINATIONS AFTER THE HOUSEHOLD INTERVIEW DATE AND EXCLUDING VACCINATIONS GIVEN PRIOR TO 10/5/2009.",-,-,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,-,"H1N1 influenza added to the IHQ shotgrid starting in late 2009, and introduced in the PUF in 2010. Removed from the IHQ and the PUF in 2013."
+P_NUMHEPA,"NUMBER OF HEPATITIS A-CONTAINING SHOTS DETERMINED FROM PROVIDER INFO, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+P_NUMHEPA_HA,"NUMBER OF HEPATITIS A-CONTAINING SHOTS OF UNKNOWN TYPE DETERMINED FROM PROVIDER INFO, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+P_NUMHEPA_HO,"NUMBER OF HEPATITIS A-ONLY SHOTS DETERMINED FROM PROVIDER INFO, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+P_NUMHEPB,"NUMBER OF HEPATITIS B-CONTAINING SHOTS DETERMINED FROM PROVIDER INFO, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+P_NUMHEPB_43,"NUMBER OF HEPB/HIB COMBO SHOTS DETERMINED FROM PROVIDER INFO, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+P_NUMHEPB_61,"NUMBER OF HEPATITIS B 0.5 ML RECOMBIVAX SHOTS DETERMINED FROM PROVIDER INFO, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+P_NUMHEPB_62,"NUMBER OF HEPATITIS B 1.0 ML RECOMBIVAX SHOTS DETERMINED FROM PROVIDER INFO, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+P_NUMHEPB_63,"NUMBER OF HEPATITIS B ENGERIX SHOTS DETERMINED FROM PROVIDER INFO, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+P_NUMHEPB_64,"NUMBER OF HEPATITIS B-ONLY SHOTS OF UNKNOWN TYPE DETERMINED FROM PROVIDER INFO, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+P_NUMHEPB_HB,"NUMBER OF HEPATITIS B-CONTAINING SHOTS OF UNKNOWN TYPE DETERMINED FROM PROVIDER INFO, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+P_NUMHPV,"NUMBER OF HUMAN PAPILLOMAVIRUS SHOTS DETERMINED FROM PROVIDER INFO, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y, -
+P_NUMHPV_4V,"NUMBER OF HPV-GARDASIL (4vHPV) SHOTS DETERMINED FROM PROVIDER INFO, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",-,-,-,-,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Y,Renamed from P_NUMHPV_GD in 2015.
+P_NUMHPV_9V,"NUMBER OF HPV-GARDASIL 9 (9vHPV) SHOTS DETERMINED FROM PROVIDER INFO, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",-,-,-,-,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Y,HPV Gardasil 9-valent shot type added to the IHQ shotgrid in 2015.
+P_NUMHPV_CV,"NUMBER OF HPV-CERVARIX SHOTS DETERMINED FROM PROVIDER INFO, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",-,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,HPV shot type variables added to the PUF in 2012.
+P_NUMHPV_GD,"NUMBER OF HPV-GARDASIL SHOTS DETERMINED FROM PROVIDER INFO, EXCLUDING VACCINATIONS AFTER THE HOUSEHOLD INTERVIEW DATE.",-,-,-,-,Y,Y,Y,-,-,-,-,-,-,-,-,-,HPV shot type variables added to the PUF in 2012. Replaced with P_N13HPV_4V in 2015.
+P_NUMHPV_HP,"NUMBER OF HPV SHOTS OF UNKNOWN TYPE DETERMINED FROM PROVIDER INFO, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",-,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,HPV shot type variables added to the PUF in 2012.
+P_NUMHPV_UV,"NUMBER OF HPV-GARDASIL, UNKNOWN VALENCY SHOTS DETERMINED FROM PROVIDER INFO, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",-,-,-,-,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Y,Added in 2015 to account for reported HPV Gardasil shots with unknown valence.
+P_NUMMCV,"NUMBER OF MEASLES-CONTAINING SHOTS DETERMINED FROM PROVIDER INFO, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+P_NUMMCV_30,"NUMBER OF MMR-ONLY SHOTS DETERMINED FROM PROVIDER INFO, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+P_NUMMCV_31,"NUMBER OF MEASLES-ONLY SHOTS DETERMINED FROM PROVIDER INFO, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+P_NUMMCV_32,"NUMBER OF MEASLES-MUMPS SHOTS DETERMINED FROM PROVIDER INFO, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+P_NUMMCV_33,"NUMBER OF MEASLES-RUBELLA SHOTS DETERMINED FROM PROVIDER INFO, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+P_NUMMCV_MM,"NUMBER OF MEASLES-CONTAINING SHOTS OF UNKNOWN TYPE DETERMINED FROM PROVIDER INFO, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+P_NUMMCV_VM,"NUMBER OF MMR/VARICELLA SHOTS DETERMINED FROM PROVIDER INFO, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+P_NUMMEN,"NUMBER OF MENINGOCOCCAL SEROGROUP ACWY SHOTS DETERMINED FROM PROVIDER INFO, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y, -
+P_NUMMEN_80,"NUMBER OF MENINGOCOCCAL MCV4 SHOTS DETERMINED FROM PROVIDER INFO, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+P_NUMMEN_81,"NUMBER OF MENINGOCOCCAL MPSV4 SHOTS DETERMINED FROM PROVIDER INFO, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+P_NUMMEN_82,"NUMBER OF MENINGOCOCCAL SEROGROUP ACWY SHOTS OF UNKNOWN TYPE DETERMINED FROM PROVIDER INFO, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+P_NUMMENB,"NUMBER OF MENINGOCOCCAL SEROGROUP B SHOTS DETERMINED FROM PROVIDER INFO, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",-,-,-,-,-,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Meningococcal Serogroup B added to the IHQ shotgrid starting in 2016.
+P_NUMMENB_BB,"NUMBER OF MENINGOCOCCAL MENB-4C SHOTS DETERMINED FROM PROVIDER INFO, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",-,-,-,-,-,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Meningococcal Serogroup B added to the IHQ shotgrid starting in 2016.
+P_NUMMENB_BT,"NUMBER OF MENINGOCOCCAL MENB-FHPB SHOTS DETERMINED FROM PROVIDER INFO, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",-,-,-,-,-,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Meningococcal Serogroup B added to the IHQ shotgrid starting in 2016.
+P_NUMMENB_BU,"NUMBER OF MENINGOCOCCAL SEROGROUP B SHOTS OF UNKNOWN TYPE DETERMINED FROM PROVIDER INFO, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",-,-,-,-,-,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Meningococcal Serogroup B added to the IHQ shotgrid starting in 2016.
+P_NUMMENU,"NUMBER OF MENINGOCOCCAL-UNKNOWN SEROGROUP SHOTS DETERMINED FROM PROVIDER INFO, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",-,-,-,-,-,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Meningococcal - unknown serogroup added to the IHQ shotgrid starting in 2016.
+P_NUMMMR,"NUMBER OF MMR-CONTAINING SHOTS DETERMINED FROM PROVIDER INFO, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+P_NUMPPS,"NUMBER OF PNEUMOCOCCAL POLYSACCHARIDE SHOTS DETERMINED FROM PROVIDER INFO, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,,,,,Dropped in 2018 due to a provider reporting issue. Added back in 2019. Dropped in 2020 due to shot category being removed from the NIS-Teen IHQ.
+P_NUMTDAP_POST10,"NUMBER OF TDAP SHOTS SINCE AGE 10 YEARS DETERMINED FROM PROVIDER INFO, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y, -
+P_NUMTDAP_POST7,"NUMBER OF TDAP SHOTS SINCE AGE 7 YEARS DETERMINED FROM PROVIDER INFO, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",-,-,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Up-to-date variable added to the PUF in 2010.
+P_NUMTDP,"NUMBER OF TD/TDAP-CONTAINING SHOTS DETERMINED FROM PROVIDER INFO, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+P_NUMTDP_11,"NUMBER OF TD-ONLY SHOTS DETERMINED FROM PROVIDER INFO, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+P_NUMTDP_14,"NUMBER OF TDAP-ONLY SHOTS DETERMINED FROM PROVIDER INFO, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+P_NUMTDP_15,"NUMBER OF TD/TDAP-CONTAINING SHOTS OF UNKNOWN TYPE DETERMINED FROM PROVIDER INFO, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+P_NUMTDP_POST10,"NUMBER OF TD/TDAP-CONTAINING SHOTS SINCE AGE 10 YEARS DETERMINED FROM PROVIDER INFO, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+P_NUMVRC,"NUMBER OF VARICELLA-CONTAINING SHOTS DETERMINED FROM PROVIDER INFO, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+P_NUMVRC_POST1,"NUMBER OF VARICELLA-CONTAINING SHOTS AT 12+ MONTHS OF AGE DETERMINED FROM PROVIDER INFO, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+P_NUMVRC_VA,"NUMBER OF VARICELLA-CONTAINING SHOTS OF UNKNOWN TYPE DETERMINED FROM PROVIDER INFO, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+P_NUMVRC_VM,"NUMBER OF MMR/VARICELLA SHOTS DETERMINED FROM PROVIDER INFO, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+P_NUMVRC_VO,"NUMBER OF VARICELLA-ONLY SHOTS DETERMINED FROM PROVIDER INFO, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+P_U13113,"UP-TO-DATE FLAG (PROV INFO): 1:1:3 SERIES BEFORE AGE 13 YEARS, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",-,-,-,-,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Y,Up-to-date variable added to the PUF in 2015. 
+P_U131132,"UP-TO-DATE FLAG (PROV INFO): 1+ TDAP SINCE AGE 10, 1+ MENACWY, AND UTD FOR HPV, ALL BEFORE AGE 13 YEARS, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",,,,,,,,,,,,,,,Y,Y,Up-to-date variable added to the PUF in 2022. 
+P_U131321,"UP-TO-DATE FLAG (PROV INFO): 1:3:2:1 SERIES BEFORE AGE 13 YEARS, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+P_U1313212,"UP-TO-DATE FLAG (PROV INFO): 1:3:2:1:2 SERIES BEFORE AGE 13 YEARS, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+P_U13FLU0607,"UP-TO-DATE FLAG (PROV INFO): 1+ INFLUENZA VACCINATION BETWEEN SEPT 1, 2006 AND JAN 31, 2007, BEFORE AGE 13 YEARS, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",Y,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Dropped in 2009 to reflect provider-reported flu vaccinations from previous 3 flu seasons.
+P_U13FLU0708,"UP-TO-DATE FLAG (PROV INFO): 1+ SEASONAL INFLUENZA VACCINATION BETWEEN SEPT 1, 2007 AND JAN 31, 2008, BEFORE AGE 13 YEARS, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",Y,Y,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Dropped in 2010 to reflect provider-reported flu vaccinations from previous 3 flu seasons.
+P_U13FLU0809,"UP-TO-DATE FLAG (PROV INFO): 1+ SEASONAL INFLUENZA VACCINATION BETWEEN SEPT 1, 2008 AND JAN 31, 2009, BEFORE AGE 13 YEARS, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",Y,Y,Y,-,-,-,-,-,-,-,-,-,-,-,-,-,Dropped in 2011 to reflect provider-reported flu vaccinations from previous 3 flu seasons.
+P_U13FLU0910,"UP-TO-DATE FLAG (PROV INFO): 1+ SEASONAL INFLUENZA VACCINATION BETWEEN SEPT 1, 2009 AND JAN 31, 2010, BEFORE AGE 13 YEARS, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",-,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,-,-,Added in 2009 and dropped in 2012 to reflect provider-reported flu vaccinations from previous 3 flu seasons.
+P_U13FLU1011,"UP-TO-DATE FLAG (PROV INFO): 1+ SEASONAL INFLUENZA VACCINATION BETWEEN SEPT 1, 2010 AND JAN 31, 2011, BEFORE AGE 13 YEARS, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",-,-,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,-,Added in 2010 and dropped in 2013 to reflect provider-reported flu vaccinations from previous 3 flu seasons.
+P_U13FLU1112,"UP-TO-DATE FLAG (PROV INFO): 1+ SEASONAL INFLUENZA VACCINATION BETWEEN SEPT 1, 2011 AND JAN 31, 2012, BEFORE AGE 13 YEARS, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",-,-,-,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,Added in 2011 and dropped in 2014 to reflect provider-reported flu vaccinations from previous 3 flu seasons.
+P_U13FLU1213,"UP-TO-DATE FLAG (PROV INFO): 1+ SEASONAL INFLUENZA VACCINATION BETWEEN SEPT 1, 2012 AND JAN 31, 2013, BEFORE AGE 13 YEARS, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",-,-,-,-,Y,Y,Y,-,-,-,-,-,-,-,-,-,Added in 2012 and dropped in 2015 to reflect provider-reported flu vaccinations from previous 3 flu seasons.
+P_U13FLU1314,"UP-TO-DATE FLAG (PROV INFO): 1+ SEASONAL INFLUENZA VACCINATION BETWEEN SEPT 1, 2013 AND JAN 31, 2014, BEFORE AGE 13 YEARS, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",-,-,-,-,-,Y,Y,Y,-,-,-,-,-,-,-,-,Added in 2013 and dropped in 2016 to reflect provider-reported flu vaccinations from previous 3 flu seasons.
+P_U13FLU1415,"UP-TO-DATE FLAG (PROV INFO): 1+ SEASONAL INFLUENZA VACCINATION BETWEEN SEPT 1, 2014 AND JAN 31, 2015, BEFORE AGE 13 YEARS, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",-,-,-,-,-,-,Y,Y,Y,-,-,-,-,-,-,-,Added in 2014 and dropped in 2017 to reflect provider-reported flu vaccinations from previous 3 flu seasons.
+P_U13FLU1516,"UP-TO-DATE FLAG (PROV INFO): 1+ SEASONAL INFLUENZA VACCINATION BETWEEN SEPT 1, 2015 AND JAN 31, 2016, BEFORE AGE 13 YEARS, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",-,-,-,-,-,-,-,Y,Y,Y,-,-,-,-,-,-,Added in 2015 and dropped in 2018 to reflect provider-reported flu vaccinations from previous 3 flu seasons.
+P_U13FLU1617,"UP-TO-DATE FLAG (PROV INFO): 1+ SEASONAL INFLUENZA VACCINATION BETWEEN SEPT 1, 2016 AND JAN 31, 2017, BEFORE AGE 13 YEARS, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",-,-,-,-,-,-,-,-,Y,Y,-,-,-,-,-,-,Added in 2016 to reflect provider-reported flu vaccinations from previous 3 flu seasons. Dropped in 2018 due to a provider reporting issue. 
+P_U13FLU1718,"UP-TO-DATE FLAG (PROV INFO): 1+ SEASONAL INFLUENZA VACCINATION BETWEEN SEPT 1, 2017 AND JAN 31, 2018, BEFORE AGE 13 YEARS, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",-,-,-,-,-,-,-,-,-,Y,-,Y,,,,,Added in 2017 and dropped in 2020 to reflect provider-reported flu vaccinations from previous 3 flu seasons. Not available in 2018 due to a provider reporting issue.
+P_U13FLU1819,"UP-TO-DATE FLAG (PROV INFO): 1+ SEASONAL INFLUENZA VACCINATION BETWEEN SEPT 1, 2018 AND JAN 31, 2019, BEFORE AGE 13 YEARS, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",-,-,-,-,-,-,-,-,-,-,-,Y,Y,,,,Added in 2019 and dropped in 2021 to reflect provider-reported flu vaccinations from previous 3 flu seasons. 
+P_U13FLU1920,"UP-TO-DATE FLAG (PROV INFO): 1+ SEASONAL INFLUENZA VACCINATION BETWEEN SEPT 1, 2019 AND JAN 31, 2020, BEFORE AGE 13 YEARS, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",-,-,-,-,-,-,-,-,-,-,-,Y,Y,Y,,,Added in 2019 and dropped in 2022 to reflect provider-reported flu vaccinations from previous 3 flu seasons. 
+P_U13FLU2021,"UP-TO-DATE FLAG (PROV INFO): 1+ SEASONAL INFLUENZA VACCINATION BETWEEN SEPT 1, 2020 AND JAN 31, 2021, BEFORE AGE 13 YEARS, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",-,-,-,-,-,-,-,-,-,-,-,,Y,Y,Y,,Added in 2020 and dropped in 2023 to reflect provider-reported flu vaccinations from previous 3 flu seasons. 
+P_U13FLU2122,"UP-TO-DATE FLAG (PROV INFO): 1+ SEASONAL INFLUENZA VACCINATION BETWEEN SEPT 1, 2021 AND JAN 31, 2022, BEFORE AGE 13 YEARS, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",-,-,-,-,-,-,-,-,-,-,-,,,Y,Y,Y,Added in 2021 to reflect provider-reported flu vaccinations from previous 3 flu seasons. 
+P_U13FLU2223,"UP-TO-DATE FLAG (PROV INFO): 1+ SEASONAL INFLUENZA VACCINATION BETWEEN SEPT 1, 2022 AND JAN 31, 2023, BEFORE AGE 13 YEARS, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",-,-,-,-,-,-,-,-,-,-,-,,,,Y,Y,Added in 2022 to reflect provider-reported flu vaccinations from previous 3 flu seasons. 
+P_U13FLU2324,"UP-TO-DATE FLAG (PROV INFO): 1+ SEASONAL INFLUENZA VACCINATION BETWEEN SEPT 1, 2023 AND JAN 31, 2024, BEFORE AGE 13 YEARS, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",-,-,-,-,-,-,-,-,-,-,-,,,,,Y,Added in 2023 to reflect provider-reported flu vaccinations from previous 3 flu seasons. 
+P_U13H1N_1,"UP-TO-DATE FLAG (PROV INFO): 1+ MONOVALENT 2009 H1N1 FLU VACCINATION BEFORE AGE 13 YEARS, EXCLUDING VACCINATIONS AFTER THE HOUSEHOLD INTERVIEW DATE AND EXCLUDING VACCINATIONS GIVEN PRIOR TO 10/5/2009.",-,-,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,-,"H1N1 influenza added to the IHQ shotgrid starting in late 2009, and introduced in the PUF in 2010. Removed from the IHQ and the PUF in 2013."
+P_U13H1N_2,"UP-TO-DATE FLAG (PROV INFO): 2+ MONOVALENT 2009 H1N1 FLU VACCINATIONS BEFORE AGE 13 YEARS, EXCLUDING VACCINATIONS AFTER THE HOUSEHOLD INTERVIEW DATE AND EXCLUDING VACCINATIONS GIVEN PRIOR TO 10/5/2009.",-,-,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,-,"H1N1 influenza added to the IHQ shotgrid starting in late 2009, and introduced in the PUF in 2010. Removed from the IHQ and the PUF in 2013."
+P_U13HEPA,"UP-TO-DATE FLAG (PROV INFO): 2+ HEPATITIS A-CONTAINING SHOTS BEFORE AGE 13 YEARS, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+P_U13HEPB,"UP-TO-DATE FLAG (PROV INFO): 2+ HEPB 1.0 ML RECOMBIVAX SHOTS BEFORE AGE 13 YEARS, OR 3+ ANY COMBINATION OF HEPATITIS B-CONTAINING SHOTS BEFORE AGE 13 YEARS, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+P_U13HPV,"UP-TO-DATE FLAG (PROV INFO): 1+ HUMAN PAPILLOMAVIRUS SHOT BEFORE AGE 13 YEARS, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y, -
+P_U13HPV_15INT,"UP-TO-DATE FLAG (PROV INFO): 3+ HPV, OR 2+ HPV WITH FIRST SHOT RECEIVED BEFORE AGE 15 AND INTERVAL BETWEEN 1ST AND 2ND SHOTS AT LEAST 5 MONTHS-4 DAYS, ALL BEFORE AGE 13 YEARS, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",,,,,,,,,,,,,,,,Y,Up-to-date variable added to PUF in 2023.
+P_U13HPV3,"UP-TO-DATE FLAG (PROV INFO): 3+ HUMAN PAPILLOMAVIRUS SHOTS BEFORE AGE 13 YEARS, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",-,-,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Up-to-date variable added to PUF in 2010.
+P_U13MCV,"UP-TO-DATE FLAG (PROV INFO): 2+ MEASLES-CONTAINING SHOTS BEFORE AGE 13 YEARS, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+P_U13MEN,"UP-TO-DATE FLAG (PROV INFO): 1+ MENINGOCOCCAL SEROGROUP ACWY SHOT BEFORE AGE 13 YEARS, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y, -
+P_U13MMR,"UP-TO-DATE FLAG (PROV INFO): 2+ MMR-CONTAINING SHOTS BEFORE AGE 13 YEARS, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+P_U13PPS,"UP-TO-DATE FLAG (PROV INFO): 1+ PNEUMOCOCCAL POLYSACCHARIDE SHOT BEFORE AGE 13 YEARS, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,,,,,Dropped in 2018 due to a provider reporting issue. Added back in 2019. Dropped in 2020 due to shot category being removed from the NIS-Teen IHQ.
+P_U13TD,"UP-TO-DATE FLAG (PROV INFO): 1+ TD/TDAP-CONTAINING SHOT BEFORE AGE 13 YEARS, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y, -
+P_U13TDAP,"UP-TO-DATE FLAG (PROV INFO): 1+ TDAP-ONLY SHOT SINCE AGE 10 YEARS AND BEFORE AGE 13 YEARS, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y, -
+P_U13TDAP7,"UP-TO-DATE FLAG (PROV INFO): 1+ TDAP-ONLY SHOT SINCE AGE 7 YEARS AND BEFORE AGE 13 YEARS, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",-,-,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Up-to-date variable added to PUF in 2010.
+P_U13VRC,"UP-TO-DATE FLAG (PROV INFO): 1+ VARICELLA-CONTAINING SHOT AT 12+ MONTHS OF AGE AND BEFORE AGE 13 YEARS, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+P_U13VRC2,"UP-TO-DATE FLAG (PROV INFO): 2+ VARICELLA-CONTAINING SHOTS AT 12+ MONTHS OF AGE AND BEFORE AGE 13 YEARS, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+P_UTD1321,"UP-TO-DATE FLAG (PROV INFO): 1:3:2:1 SERIES, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+P_UTD13212,"UP-TO-DATE FLAG (PROV INFO): 1:3:2:1:2 SERIES, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+P_UTDCOV_BOOST,"UP-TO-DATE FLAG (PROV INFO): FULLY VACCINATED AND BOOSTED WITH 2+ COVID-19 SHOTS, OR 1+ J&J/JANSSEN SHOT, PLUS 1+ ADDITIONAL COVID-19 SHOT OF ANY TYPE, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",,,,,,,,,,,,,,,Y,Y,Up-to-date variable added to PUF in 2022.
+P_UTDCOV_FULL,"UP-TO-DATE FLAG (PROV INFO): FULLY VACCINATED WITH 2+ COVID-19 SHOTS, OR 1+ J&J/JANSSEN SHOT, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",,,,,,,,,,,,,,,Y,Y,Up-to-date variable added to PUF in 2022.
+,,,,,,,,,,,,,,,,,,
+P_UTDCOV1,"UP-TO-DATE FLAG (PROV INFO): 1+ COVID-19 VACCINATION, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",,,,,,,,,,,,,,,Y,Y,Up-to-date variable added to PUF in 2022.
+,,,,,,,,,,,,,,,,,,
+P_UTDFLU0607,"UP-TO-DATE FLAG (PROV INFO): 1+ INFLUENZA VACCINATION BETWEEN SEPT 1, 2006 AND JAN 31, 2007, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",Y,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Dropped in 2009 to reflect provider-reported flu vaccinations from previous 3 flu seasons.
+P_UTDFLU0708,"UP-TO-DATE FLAG (PROV INFO): 1+ SEASONAL INFLUENZA VACCINATION BETWEEN SEPT 1, 2007 AND JAN 31, 2008, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",Y,Y,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Dropped in 2010 to reflect provider-reported flu vaccinations from previous 3 flu seasons.
+P_UTDFLU0809,"UP-TO-DATE FLAG (PROV INFO): 1+ SEASONAL INFLUENZA VACCINATION BETWEEN SEPT 1, 2008 AND JAN 31, 2009, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",Y,Y,Y,-,-,-,-,-,-,-,-,-,-,-,-,-,Dropped in 2011 to reflect provider-reported flu vaccinations from previous 3 flu seasons.
+P_UTDFLU0910,"UP-TO-DATE FLAG (PROV INFO): 1+ SEASONAL INFLUENZA VACCINATION BETWEEN SEPT 1, 2009 AND JAN 31, 2010, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",-,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,-,-,Added in 2009 and dropped in 2012 to reflect provider-reported flu vaccinations from previous 3 flu seasons.
+P_UTDFLU1011,"UP-TO-DATE FLAG (PROV INFO): 1+ SEASONAL INFLUENZA VACCINATION BETWEEN SEPT 1, 2010 AND JAN 31, 2011, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",-,-,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,-,Added in 2010 and dropped in 2013 to reflect provider-reported flu vaccinations from previous 3 flu seasons.
+P_UTDFLU1112,"UP-TO-DATE FLAG (PROV INFO): 1+ SEASONAL INFLUENZA VACCINATION BETWEEN SEPT 1, 2011 AND JAN 31, 2012, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",-,-,-,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,Added in 2011 and dropped in 2014 to reflect provider-reported flu vaccinations from previous 3 flu seasons.
+P_UTDFLU1213,"UP-TO-DATE FLAG (PROV INFO): 1+ SEASONAL INFLUENZA VACCINATION BETWEEN SEPT 1, 2012 AND JAN 31, 2013, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",-,-,-,-,Y,Y,Y,-,-,-,-,-,-,-,-,-,Added in 2012 and dropped in 2015 to reflect provider-reported flu vaccinations from previous 3 flu seasons.
+P_UTDFLU1314,"UP-TO-DATE FLAG (PROV INFO): 1+ SEASONAL INFLUENZA VACCINATION BETWEEN SEPT 1, 2013 AND JAN 31, 2014, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",-,-,-,-,-,Y,Y,Y,-,-,-,-,-,-,-,-,Added in 2013 and dropped in 2016 to reflect provider-reported flu vaccinations from previous 3 flu seasons.
+P_UTDFLU1415,"UP-TO-DATE FLAG (PROV INFO): 1+ SEASONAL INFLUENZA VACCINATION BETWEEN SEPT 1, 2014 AND JAN 31, 2015, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",-,-,-,-,-,-,Y,Y,Y,-,-,-,-,-,-,-,Added in 2014 and dropped in 2017 to reflect provider-reported flu vaccinations from previous 3 flu seasons.
+P_UTDFLU1516,"UP-TO-DATE FLAG (PROV INFO): 1+ SEASONAL INFLUENZA VACCINATION BETWEEN SEPT 1, 2015 AND JAN 31, 2016, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",-,-,-,-,-,-,-,Y,Y,Y,-,-,-,-,-,-,Added in 2015 and dropped in 2018 to reflect provider-reported flu vaccinations from previous 3 flu seasons.
+P_UTDFLU1617,"UP-TO-DATE FLAG (PROV INFO): 1+ SEASONAL INFLUENZA VACCINATION BETWEEN SEPT 1, 2016 AND JAN 31, 2017, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",-,-,-,-,-,-,-,-,Y,Y,-,-,-,-,-,-,Added in 2016 to reflect provider-reported flu vaccinations from previous 3 flu seasons. Dropped in 2018 due to a provider reporting issue.
+P_UTDFLU1718,"UP-TO-DATE FLAG (PROV INFO): 1+ SEASONAL INFLUENZA VACCINATION BETWEEN SEPT 1, 2017 AND JAN 31, 2018, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",-,-,-,-,-,-,-,-,-,Y,-,Y,,,,,Added in 2017 and dropped in 2020 to reflect provider-reported flu vaccinations from previous 3 flu seasons. Not available in 2018 due to a provider reporting issue.
+P_UTDFLU1819,"UP-TO-DATE FLAG (PROV INFO): 1+ SEASONAL INFLUENZA VACCINATION BETWEEN SEPT 1, 2018 AND JAN 31, 2019, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",-,-,-,-,-,-,-,-,-,-,-,Y,Y,,,,Added in 2019 and dropped in 2021 to reflect provider-reported flu vaccinations from previous 3 flu seasons. 
+P_UTDFLU1920,"UP-TO-DATE FLAG (PROV INFO): 1+ SEASONAL INFLUENZA VACCINATION BETWEEN SEPT 1, 2019 AND JAN 31, 2020, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",-,-,-,-,-,-,-,-,-,-,-,Y,Y,Y,,,Added in 2019 and dropped in 2022 to reflect provider-reported flu vaccinations from previous 3 flu seasons.
+P_UTDFLU2021,"UP-TO-DATE FLAG (PROV INFO): 1+ SEASONAL INFLUENZA VACCINATION BETWEEN SEPT 1, 2020 AND JAN 31, 2021, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",-,-,-,-,-,-,-,-,-,-,-,-,Y,Y,Y,,Added in 2020 and dropped in 2023 to reflect provider-reported flu vaccinations from the previous 3 flu seasons.
+P_UTDFLU2122,"UP-TO-DATE FLAG (PROV INFO): 1+ SEASONAL INFLUENZA VACCINATION BETWEEN SEPT 1, 2021 AND JAN 31, 2022, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",-,-,-,-,-,-,-,-,-,-,-,-,,Y,Y,Y,Added in 2021 to reflect provider-reported flu vaccinations from the previous 3 flu seasons.
+P_UTDFLU2223,"UP-TO-DATE FLAG (PROV INFO): 1+ SEASONAL INFLUENZA VACCINATION BETWEEN SEPT 1, 2022 AND JAN 31, 2023, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",-,-,-,-,-,-,-,-,-,-,-,-,,,Y,Y,Added in 2022 to reflect provider-reported flu vaccinations from the previous 3 flu seasons.
+P_UTDFLU2324,"UP-TO-DATE FLAG (PROV INFO): 1+ SEASONAL INFLUENZA VACCINATION BETWEEN SEPT 1, 2023 AND JAN 31, 2024, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",-,-,-,-,-,-,-,-,-,-,-,-,,,,Y,Added in 2023 to reflect provider-reported flu vaccinations from the previous 3 flu seasons.
+P_UTDH1N_1,"UP-TO-DATE FLAG (PROV INFO): 1+ MONOVALENT 2009 H1N1 FLU VACCINATION, EXCLUDING VACCINATIONS AFTER THE HOUSEHOLD INTERVIEW DATE AND EXCLUDING VACCINATIONS GIVEN PRIOR TO 10/5/2009.",-,-,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,-,"H1N1 influenza added to the IHQ shotgrid starting in late 2009, and introduced in the PUF in 2010. Removed from the IHQ and the PUF in 2013."
+P_UTDH1N_2,"UP-TO-DATE FLAG (PROV INFO): 2+ MONOVALENT 2009 H1N1 FLU VACCINATIONS, EXCLUDING VACCINATIONS AFTER THE HOUSEHOLD INTERVIEW DATE AND EXCLUDING VACCINATIONS GIVEN PRIOR TO 10/5/2009.",-,-,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,-,"H1N1 influenza added to the IHQ shotgrid starting in late 2009, and introduced in the PUF in 2010. Removed from the IHQ and the PUF in 2013."
+P_UTDHEPA,"UP-TO-DATE FLAG (PROV INFO): 2+ HEPATITIS A-CONTAINING SHOTS, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+P_UTDHEPA1,"UP-TO-DATE FLAG (PROV INFO): 1+ HEPATITIS A-CONTAINING SHOT, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",-,-,-,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Up-to-date variable added to the PUF in 2011. Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+P_UTDHEPB,"UP-TO-DATE FLAG (PROV INFO): 2+ HEPB 1.0 ML RECOMBIVAX SHOTS, OR 3+ ANY COMBINATION OF HEPATITIS B-CONTAINING SHOTS, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+P_UTDHPV,"UP-TO-DATE FLAG (PROV INFO): 1+ HUMAN PAPILLOMAVIRUS SHOT, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y, -
+P_UTDHPV_15,"UP-TO-DATE FLAG (PROV INFO): 3+ HUMAN PAPILLOMAVIRUS SHOTS, OR 2+ HUMAN PAPILLOMAVIRUS SHOTS WITH FIRST SHOT RECEIVED BEFORE AGE 15, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",-,-,-,-,-,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Up-to-date variable added to the PUF in 2016.
+P_UTDHPV_15INT,"UP-TO-DATE FLAG (PROV INFO): 3+ HUMAN PAPILLOMAVIRUS SHOTS, OR 2+ HUMAN PAPILLOMAVIRUS SHOTS WITH FIRST SHOT RECEIVED BEFORE AGE 15 AND INTERVAL BETWEEN 1ST AND 2ND SHOTS AT LEAST 5 MONTHS-4 DAYS, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",-,-,-,-,-,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Up-to-date variable added to the PUF in 2016.
+P_UTDHPV_9V,"UP-TO-DATE FLAG (PROV INFO): 1+ HUMAN PAPILLOMAVIRUS SHOT OF TYPE GARDASIL 9 (9vHPV), EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",-,-,-,-,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Y,Up-to-date variable added to the PUF in 2015.
+P_UTDHPV11,"UP-TO-DATE FLAG (PROV INFO): 1 HUMAN PAPILLOMAVIRUS SHOT GIVEN 1+ SHOT, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Up-to-date variable added to the PUF in 2011.
+P_UTDHPV12,"UP-TO-DATE FLAG (PROV INFO): 2 HUMAN PAPILLOMAVIRUS SHOTS GIVEN 1+ SHOT, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Up-to-date variable added to the PUF in 2011.
+P_UTDHPV13,"UP-TO-DATE FLAG (PROV INFO): 3+ HUMAN PAPILLOMAVIRUS SHOTS GIVEN 1+ SHOT, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Up-to-date variable added to the PUF in 2011.
+P_UTDHPV2,"UP-TO-DATE FLAG (PROV INFO): 2+ HUMAN PAPILLOMAVIRUS SHOTS, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Up-to-date variable added to the PUF in 2011.
+P_UTDHPV2_9V,"UP-TO-DATE FLAG (PROV INFO): 2+ HUMAN PAPILLOMAVIRUS SHOTS OF TYPE GARDASIL 9 (9vHPV), EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",-,-,-,-,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Y,Up-to-date variable added to the PUF in 2015.
+P_UTDHPV3,"UP-TO-DATE FLAG (PROV INFO): 3+ HUMAN PAPILLOMAVIRUS SHOTS, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",-,-,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Up-to-date variable added to the PUF in 2010.
+P_UTDHPV3_9V,"UP-TO-DATE FLAG (PROV INFO): 3+ HUMAN PAPILLOMAVIRUS SHOTS OF TYPE GARDASIL 9 (9vHPV), EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",-,-,-,-,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Y,Up-to-date variable added to the PUF in 2015.
+P_UTDHPV3C,"UP-TO-DATE FLAG (PROV INFO): HPV CONDITIONAL COMPLETION RATE, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Up-to-date variable added to the PUF in 2011.
+P_UTDHPV3C_15INT,"UP-TO-DATE FLAG (PROV INFO): HPV CONDITIONAL COMPLETION RATE, INCLUDING COMPLETION VIA 3-SHOT OR 2-SHOT SERIES, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",-,-,-,-,-,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Up-to-date variable added to the PUF in 2016.
+P_UTDHPV3C_9V,"UP-TO-DATE FLAG (PROV INFO): HPV CONDITIONAL COMPLETION RATE, COUNTING ONLY SHOTS OF TYPE GARDASIL 9 (9vHPV), EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",-,-,-,-,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Y,Up-to-date variable added to the PUF in 2015.
+P_UTDMCV,"UP-TO-DATE FLAG (PROV INFO): 2+ MEASLES-CONTAINING SHOTS, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+P_UTDMEN,"UP-TO-DATE FLAG (PROV INFO): 1+ MENINGOCOCCAL SEROGROUP ACWY SHOT, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y, -
+P_UTDMENACWY,"UP-TO-DATE FLAG (PROV INFO): 1+ MENINGOCOCCAL SEROGROUP ACWY-CONJUGATE SHOT OR MENINGOCOCCAL SEROGROUP ACWY-UNKNOWN TYPE SHOT, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Up-to-date variable added to the PUF in 2011.
+P_UTDMENB_L,"UP-TO-DATE FLAG (PROV INFO): 2+ MENINGOCOCCAL SEROGROUP B SHOTS WITH AGE AND INTERVAL RESTRICTIONS, LENIENT TREATMENT OF MENINGOCOCCAL SHOTS OF UNKNOWN TYPE, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",,,,,,,,,,,,,,,Y,Y,Up-to-date variable added to the PUF in 2022.
+P_UTDMENB_S,"UP-TO-DATE FLAG (PROV INFO): 2+ MENINGOCOCCAL SEROGROUP B SHOTS WITH AGE AND INTERVAL RESTRICTIONS, STRICT TREATMENT OF MENINGOCOCCAL SHOTS OF UNKNOWN TYPE, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",,,,,,,,,,,,,,,Y,Y,Up-to-date variable added to the PUF in 2022.
+P_UTDMMR,"UP-TO-DATE FLAG (PROV INFO): 2+ MMR-CONTAINING SHOTS, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+P_UTDPPS,"UP-TO-DATE FLAG (PROV INFO): 1+ PNEUMOCOCCAL POLYSACCHARIDE SHOT, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,,,,,Dropped in 2018 due to a provider reporting issue. Added back in 2019. Dropped in 2020 due to shot category being removed from the NIS-Teen IHQ.
+P_UTDTD,"UP-TO-DATE FLAG (PROV INFO): 1+ TD/TDAP-CONTAINING SHOT, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y, -
+P_UTDTD_POST10,"UP-TO-DATE FLAG (PROV INFO): 1+ TD-ONLY SHOT SINCE AGE 10 YEARS, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Up-to-date variable added to the PUF in 2011.
+P_UTDTDAP,"UP-TO-DATE FLAG (PROV INFO): 1+ TDAP-ONLY SHOT SINCE AGE 10 YEARS, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y, -
+P_UTDTDAP7,"UP-TO-DATE FLAG (PROV INFO): 1+ TDAP-ONLY SHOT SINCE AGE 7 YEARS, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",-,-,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Up-to-date variable added to the PUF in 2010.
+P_UTDTDP_POST10,"UP-TO-DATE FLAG (PROV INFO): 1+ TD/TDAP-CONTAINING SHOT SINCE AGE 10 YEARS, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Up-to-date variable added to the PUF in 2011.
+P_UTDVRC,"UP-TO-DATE FLAG (PROV INFO): 1+ VARICELLA-CONTAINING SHOT AT 12+ MONTHS OF AGE, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+P_UTDVRC_NOHIST4,"UP-TO-DATE FLAG (PROV INFO): 1+ VARICELLA-CONTAINING SHOT AT 4+ YEARS OF AGE, NO HISTORY OF CHICKEN POX DISEASE, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",-,-,-,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Up-to-date variable added to the PUF in 2011. Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+P_UTDVRC2,"UP-TO-DATE FLAG (PROV INFO): 2+ VARICELLA-CONTAINING SHOTS AT 12+ MONTHS OF AGE, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+P_UTDVRC2_NOHIST4,"UP-TO-DATE FLAG (PROV INFO): 2+ VARICELLA-CONTAINING SHOTS AT 4+ YEARS OF AGE, NO HISTORY OF CHICKEN POX DISEASE, EXCLUDING ANY VACCINATIONS AFTER THE RDD INTERVIEW DATE.",-,-,-,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Up-to-date variable added to the PUF in 2011. Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+PDAT,ADEQUATE PROVIDER DATA FLAG,Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,Dropped in 2014 due to change in adequate provider data definition.
+PDAT2,ADEQUATE PROVIDER DATA FLAG,-,-,-,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Added in 2014 due to change in adequate provider data definition.
+PPS_AGE1,AGE IN YEARS OF PROV-REPORTED PNEUMOCOCCAL POLYSACCHARIDE SHOT #1,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,-,-,-,-,Dropped in 2018 due to a provider reporting issue. Added back in 2019. Dropped in 2020 due to shot category being removed from the NIS-Teen IHQ.
+PPS_AGE2,AGE IN YEARS OF PROV-REPORTED PNEUMOCOCCAL POLYSACCHARIDE SHOT #2,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,-,-,-,-,Dropped in 2018 due to a provider reporting issue. Added back in 2019. Dropped in 2020 due to shot category being removed from the NIS-Teen IHQ.
+PPS_AGE3,AGE IN YEARS OF PROV-REPORTED PNEUMOCOCCAL POLYSACCHARIDE SHOT #3,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,-,-,-,-,Dropped in 2018 due to a provider reporting issue. Added back in 2019. Dropped in 2020 due to shot category being removed from the NIS-Teen IHQ.
+PPS_AGE4,AGE IN YEARS OF PROV-REPORTED PNEUMOCOCCAL POLYSACCHARIDE SHOT #4,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,-,-,-,-,Dropped in 2018 due to a provider reporting issue. Added back in 2019. Dropped in 2020 due to shot category being removed from the NIS-Teen IHQ.
+PPS_AGE5,AGE IN YEARS OF PROV-REPORTED PNEUMOCOCCAL POLYSACCHARIDE SHOT #5,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,-,-,-,-,Dropped in 2018 due to a provider reporting issue. Added back in 2019. Dropped in 2020 due to shot category being removed from the NIS-Teen IHQ.
+PPS_AGE6,AGE IN YEARS OF PROV-REPORTED PNEUMOCOCCAL POLYSACCHARIDE SHOT #6,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,-,-,-,-,Dropped in 2018 due to a provider reporting issue. Added back in 2019. Dropped in 2020 due to shot category being removed from the NIS-Teen IHQ.
+PPS_AGE7,AGE IN YEARS OF PROV-REPORTED PNEUMOCOCCAL POLYSACCHARIDE SHOT #7,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,-,-,-,-,Dropped in 2018 due to a provider reporting issue. Added back in 2019. Dropped in 2020 due to shot category being removed from the NIS-Teen IHQ.
+PPS_AGE8,AGE IN YEARS OF PROV-REPORTED PNEUMOCOCCAL POLYSACCHARIDE SHOT #8,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,-,-,-,-,Dropped in 2018 due to a provider reporting issue. Added back in 2019. Dropped in 2020 due to shot category being removed from the NIS-Teen IHQ.
+PPS_AGE9,AGE IN YEARS OF PROV-REPORTED PNEUMOCOCCAL POLYSACCHARIDE SHOT #9,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,-,-,-,-,Dropped in 2018 due to a provider reporting issue. Added back in 2019. Dropped in 2020 due to shot category being removed from the NIS-Teen IHQ.
+PPS_DAGE1,AGE IN DAYS OF PROV-REPORTED PNEUMOCOCCAL POLYSACCHARIDE SHOT #1,-,-,-,Y,Y,Y,Y,Y,Y,Y,-,Y,-,-,-,-,Age-in-days and age-in-months variables were added to the PUF in 2011. Dropped in 2018 due to a provider reporting issue. Added back in 2019. Dropped in 2020 due to shot category being removed from the NIS-Teen IHQ.
+PPS_DAGE2,AGE IN DAYS OF PROV-REPORTED PNEUMOCOCCAL POLYSACCHARIDE SHOT #2,-,-,-,Y,Y,Y,Y,Y,Y,Y,-,Y,-,-,-,-,Age-in-days and age-in-months variables were added to the PUF in 2011. Dropped in 2018 due to a provider reporting issue. Added back in 2019. Dropped in 2020 due to shot category being removed from the NIS-Teen IHQ.
+PPS_DAGE3,AGE IN DAYS OF PROV-REPORTED PNEUMOCOCCAL POLYSACCHARIDE SHOT #3,-,-,-,Y,Y,Y,Y,Y,Y,Y,-,Y,-,-,-,-,Age-in-days and age-in-months variables were added to the PUF in 2011. Dropped in 2018 due to a provider reporting issue. Added back in 2019. Dropped in 2020 due to shot category being removed from the NIS-Teen IHQ.
+PPS_DAGE4,AGE IN DAYS OF PROV-REPORTED PNEUMOCOCCAL POLYSACCHARIDE SHOT #4,-,-,-,Y,Y,Y,Y,Y,Y,Y,-,Y,-,-,-,-,Age-in-days and age-in-months variables were added to the PUF in 2011. Dropped in 2018 due to a provider reporting issue. Added back in 2019. Dropped in 2020 due to shot category being removed from the NIS-Teen IHQ.
+PPS_DAGE5,AGE IN DAYS OF PROV-REPORTED PNEUMOCOCCAL POLYSACCHARIDE SHOT #5,-,-,-,Y,Y,Y,Y,Y,Y,Y,-,Y,-,-,-,-,Age-in-days and age-in-months variables were added to the PUF in 2011. Dropped in 2018 due to a provider reporting issue. Added back in 2019. Dropped in 2020 due to shot category being removed from the NIS-Teen IHQ.
+PPS_DAGE6,AGE IN DAYS OF PROV-REPORTED PNEUMOCOCCAL POLYSACCHARIDE SHOT #6,-,-,-,Y,Y,Y,Y,Y,Y,Y,-,Y,-,-,-,-,Age-in-days and age-in-months variables were added to the PUF in 2011. Dropped in 2018 due to a provider reporting issue. Added back in 2019. Dropped in 2020 due to shot category being removed from the NIS-Teen IHQ.
+PPS_DAGE7,AGE IN DAYS OF PROV-REPORTED PNEUMOCOCCAL POLYSACCHARIDE SHOT #7,-,-,-,Y,Y,Y,Y,Y,Y,Y,-,Y,-,-,-,-,Age-in-days and age-in-months variables were added to the PUF in 2011. Dropped in 2018 due to a provider reporting issue. Added back in 2019. Dropped in 2020 due to shot category being removed from the NIS-Teen IHQ.
+PPS_DAGE8,AGE IN DAYS OF PROV-REPORTED PNEUMOCOCCAL POLYSACCHARIDE SHOT #8,-,-,-,Y,Y,Y,Y,Y,Y,Y,-,Y,-,-,-,-,Age-in-days and age-in-months variables were added to the PUF in 2011. Dropped in 2018 due to a provider reporting issue. Added back in 2019. Dropped in 2020 due to shot category being removed from the NIS-Teen IHQ.
+PPS_DAGE9,AGE IN DAYS OF PROV-REPORTED PNEUMOCOCCAL POLYSACCHARIDE SHOT #9,-,-,-,Y,Y,Y,Y,Y,Y,Y,-,Y,-,-,-,-,Age-in-days and age-in-months variables were added to the PUF in 2011. Dropped in 2018 due to a provider reporting issue. Added back in 2019. Dropped in 2020 due to shot category being removed from the NIS-Teen IHQ.
+PPS_MAGE1,AGE IN MONTHS OF PROV-REPORTED PNEUMOCOCCAL POLYSACCHARIDE SHOT #1,-,-,-,Y,Y,Y,Y,Y,Y,Y,-,Y,-,-,-,-,Age-in-days and age-in-months variables were added to the PUF in 2011. Dropped in 2018 due to a provider reporting issue. Added back in 2019. Dropped in 2020 due to shot category being removed from the NIS-Teen IHQ.
+PPS_MAGE2,AGE IN MONTHS OF PROV-REPORTED PNEUMOCOCCAL POLYSACCHARIDE SHOT #2,-,-,-,Y,Y,Y,Y,Y,Y,Y,-,Y,-,-,-,-,Age-in-days and age-in-months variables were added to the PUF in 2011. Dropped in 2018 due to a provider reporting issue. Added back in 2019. Dropped in 2020 due to shot category being removed from the NIS-Teen IHQ.
+PPS_MAGE3,AGE IN MONTHS OF PROV-REPORTED PNEUMOCOCCAL POLYSACCHARIDE SHOT #3,-,-,-,Y,Y,Y,Y,Y,Y,Y,-,Y,-,-,-,-,Age-in-days and age-in-months variables were added to the PUF in 2011. Dropped in 2018 due to a provider reporting issue. Added back in 2019. Dropped in 2020 due to shot category being removed from the NIS-Teen IHQ.
+PPS_MAGE4,AGE IN MONTHS OF PROV-REPORTED PNEUMOCOCCAL POLYSACCHARIDE SHOT #4,-,-,-,Y,Y,Y,Y,Y,Y,Y,-,Y,-,-,-,-,Age-in-days and age-in-months variables were added to the PUF in 2011. Dropped in 2018 due to a provider reporting issue. Added back in 2019. Dropped in 2020 due to shot category being removed from the NIS-Teen IHQ.
+PPS_MAGE5,AGE IN MONTHS OF PROV-REPORTED PNEUMOCOCCAL POLYSACCHARIDE SHOT #5,-,-,-,Y,Y,Y,Y,Y,Y,Y,-,Y,-,-,-,-,Age-in-days and age-in-months variables were added to the PUF in 2011. Dropped in 2018 due to a provider reporting issue. Added back in 2019. Dropped in 2020 due to shot category being removed from the NIS-Teen IHQ.
+PPS_MAGE6,AGE IN MONTHS OF PROV-REPORTED PNEUMOCOCCAL POLYSACCHARIDE SHOT #6,-,-,-,Y,Y,Y,Y,Y,Y,Y,-,Y,-,-,-,-,Age-in-days and age-in-months variables were added to the PUF in 2011. Dropped in 2018 due to a provider reporting issue. Added back in 2019. Dropped in 2020 due to shot category being removed from the NIS-Teen IHQ.
+PPS_MAGE7,AGE IN MONTHS OF PROV-REPORTED PNEUMOCOCCAL POLYSACCHARIDE SHOT #7,-,-,-,Y,Y,Y,Y,Y,Y,Y,-,Y,-,-,-,-,Age-in-days and age-in-months variables were added to the PUF in 2011. Dropped in 2018 due to a provider reporting issue. Added back in 2019. Dropped in 2020 due to shot category being removed from the NIS-Teen IHQ.
+PPS_MAGE8,AGE IN MONTHS OF PROV-REPORTED PNEUMOCOCCAL POLYSACCHARIDE SHOT #8,-,-,-,Y,Y,Y,Y,Y,Y,Y,-,Y,-,-,-,-,Age-in-days and age-in-months variables were added to the PUF in 2011. Dropped in 2018 due to a provider reporting issue. Added back in 2019. Dropped in 2020 due to shot category being removed from the NIS-Teen IHQ.
+PPS_MAGE9,AGE IN MONTHS OF PROV-REPORTED PNEUMOCOCCAL POLYSACCHARIDE SHOT #9,-,-,-,Y,Y,Y,Y,Y,Y,Y,-,Y,-,-,-,-,Age-in-days and age-in-months variables were added to the PUF in 2011. Dropped in 2018 due to a provider reporting issue. Added back in 2019. Dropped in 2020 due to shot category being removed from the NIS-Teen IHQ.
+PROVWT,FINAL PROVIDER-PHASE WEIGHT (EXCLUDING U.S. VIRGIN ISLANDS),Y,Y,Y,-,-,-,-,-,-,-,-,-,-,-,-,-,Replaced by PROVWT_LL in 2011 due to addition of dual-frame weights.
+PROVWT_C,FINAL SINGLE-FRAME CELL-PHONE PROVIDER-PHASE WEIGHT (EXCLUDES TERRITORIES),-,-,-,-,-,-,-,-,-,-,Y,Y,Y,Y,Y,Y,Replaced PROVWT_D in 2018 due to removal of the landline sample.
+PROVWT_C_TERR,FINAL SINGLE-FRAME CELL-PHONE PROVIDER-PHASE WEIGHT (INCLUDING TERRITORIES),-,-,-,-,-,-,-,-,-,-,-,Y,Y,Y,Y,Y,Added in 2019 to replace PROVWT_D_TERR due to removal of the landline sample.
+PROVWT_D,FINAL DUAL-FRAME PROVIDER-PHASE WEIGHT (EXCLUDES TERRITORIES),-,-,-,Y,Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,Added in 2011 as dual-frame weight. Replaced by PROVWT_C in 2018 due to removal of the landline sample.
+PROVWT_D_TERR,FINAL PROVIDER-PHASE WEIGHT (INCLUDING TERRITORIES),-,-,-,-,-,-,Y,Y,Y,-,-,-,-,-,-,-,Replaced PROVWTVIGU_D in 2014 due to addition of Puerto Rico sample. Dropped in 2017 as no data from U.S. territories were included on the PUF.
+PROVWT_LL,FINAL LANDLINE PROVIDER-PHASE WEIGHT (EXCLUDING U.S. VIRGIN ISLANDS),-,-,-,Y,-,-,-,-,-,-,-,-,-,-,-,-,Replaced PROVWT in 2011 to distinguish from new dual-frame weight PROVWT_D. Removed in 2012.
+PROVWTVI,FINAL PROVIDER-PHASE WEIGHT (INCLUDING U.S. VIRGIN ISLANDS),-,Y,Y,-,-,-,-,-,-,-,-,-,-,-,-,-,Added in 2009 to include U.S. Virgin Island sample. Replaced by PROVWTVI_LL in 2011 due to addition of dual-frame weights. 
+PROVWTVI_D,FINAL PROVIDER-PHASE WEIGHT (INCLUDING U.S. VIRGIN ISLANDS),-,-,-,-,Y,-,-,-,-,-,-,-,-,-,-,-,Replaced PROVWTVI_LL in 2012. Replaced with PROVWTVIGU_D in 2013 due to the addition of Guam sample.
+PROVWTVI_LL,FINAL LANDLINE PROVIDER-PHASE WEIGHT (INCLUDING U.S. VIRGIN ISLANDS),-,-,-,Y,-,-,-,-,-,-,-,-,-,-,-,-,Replaced PROVWTVI in 2011. Replaced with dual-frame weight PROVWTVI_D in 2012.
+PROVWTVIGU_D,FINAL PROVIDER-PHASE WEIGHT (INCLUDING U.S. VIRGIN ISLANDS AND GUAM),-,-,-,-,-,Y,-,-,-,-,-,-,-,-,-,-,Replaced PROVWTVI_D in 2013 due to the addition of Guam sample. Replaced with PROVWT_D_TERR in 2014 due to addition of Puerto Rico sample.
+RACE_K,RACE OF TEEN WITH MULTIRACE CATEGORY: IMPUTED (RECODE),Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+RACEETHK,RACE/ETHNICITY OF TEEN WITH MULTIRACE CATEGORY: IMPUTED (RECODE),Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+RDDWT,FINAL HOUSEHOLD-PHASE WEIGHT (EXCLUDING U.S. VIRGIN ISLANDS),Y,Y,Y,-,-,-,-,-,-,-,-,-,-,-,-,-,Replaced by RDDWT_LL in 2011 due to addition of dual-frame weights.
+RDDWT_C,FINAL SINGLE-FRAME CELL-PHONE RDD-PHASE WEIGHT (EXCLUDES TERRITORIES),-,-,-,-,-,-,-,-,-,-,Y,Y,Y,Y,Y,Y,Replaced RDDWT_D in 2018 due to removal of the landline sample.
+RDDWT_C_TERR,FINAL SINGLE-FRAME CELL-PHONE RDD-PHASE WEIGHT (INCLUDING TERRITORIES),-,-,-,-,-,-,-,-,-,-,-,Y,Y,Y,Y,Y,Added in 2019 to replace RDDWT_D_TERR due to removal of the landline sample.
+RDDWT_D,FINAL DUAL-FRAME RDD-PHASE WEIGHT (EXCLUDES TERRITORIES),-,-,-,Y,Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,Added in 2011 as dual-frame weight. Replaced by RDDWT_C in 2018 due to removal of the landline sample.
+RDDWT_D_TERR,FINAL RDD-PHASE WEIGHT (INCLUDING TERRITORIES),-,-,-,-,-,-,Y,Y,Y,-,-,-,-,-,-,-,Replaced RDDWTVIGU_D in 2014 due to addition of Puerto Rico sample. Dropped in 2017 as no data from U.S. territories were included on the PUF.
+RDDWT_LL,FINAL LANDLINE HOUSEHOLD-PHASE WEIGHT (EXCLUDING U.S. VIRGIN ISLANDS),-,-,-,Y,-,-,-,-,-,-,-,-,-,-,-,-,Replaced RDDWT in 2011 to distinguish from new dual-frame weight RDDWT_D. Removed in 2012.
+RDDWTVI,FINAL HOUSEHOLD-PHASE WEIGHT (INCLUDING U.S. VIRGIN ISLANDS),-,Y,Y,-,-,-,-,-,-,-,-,-,-,-,-,-,Added in 2009 to include U.S. Virgin Island sample. Replaced by RDDWTVI_LL in 2011 due to addition of dual-frame weights.
+RDDWTVI_D,FINAL HOUSEHOLD-PHASE WEIGHT (INCLUDING U.S. VIRGIN ISLANDS),-,-,-,-,Y,-,-,-,-,-,-,-,-,-,-,-,Replaced RDDWTVI_LL in 2012. Replaced with RDDWTVIGU_D in 2013 due to the addition of Guam sample.
+RDDWTVI_LL,FINAL LANDLINE HOUSEHOLD-PHASE WEIGHT (INCLUDING U.S. VIRGIN ISLANDS),-,-,-,Y,-,-,-,-,-,-,-,-,-,-,-,-,Replaced RDDWTVI in 2011. Replaced with dual-frame weight RDDWTVI_D in 2012.
+RDDWTVIGU_D,FINAL HOUSEHOLD-PHASE WEIGHT (INCLUDING U.S. VIRGIN ISLANDS AND GUAM),-,-,-,-,-,Y,-,-,-,-,-,-,-,-,-,-,Replaced RDDWTVI_D in 2013 due to the addition of Guam sample. Replaced with RDDWT_D_TERR in 2014 due to addition of Puerto Rico sample.
+REGISTRY,DID TEEN'S PROVIDERS REPORT TEEN'S IMMUNIZATIONS TO IMMUNIZATION REGISTRY?,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y, -
+RENT_OWN,"IS HOME OWNED/BEING BOUGHT, RENTED, OR OCCUPIED BY SOME OTHER ARRANGEMENT?",,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,"Question added to the questionnaire starting in late 2008, and introduced in the PUF in 2009."
+RISK_EVER,"HAS DOCTOR, NURSE, OR OTHER HEALTH CARE PROFESSIONAL EVER SAID THAT TEEN HAS HAD ANY OF THE FOLLOWING HEALTH CONDITIONS?",Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y, -
+RISK_HH,DO ANY OTHER MEMBERS OF TEEN'S HOUSEHOLD HAVE ANY OF THE FOLLOWING HEALTH CONDITIONS?,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+RISK_NOW,DOES TEEN STILL HAVE ANY OF THESE CONDITIONS?,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+SEQNUMT,UNIQUE TEEN IDENTIFIER,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+SEX,SEX OF TEEN: IMPUTED,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+SHOTCARD_ALL,HH-REPORT: DOES SHOT RECORD INCLUDE ALL VACCINATIONS?,Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,Dropped in 2014 due to shortened questionnaire.
+STATE,TRUE STATE OF RESIDENCE (STATE FIPS CODE),Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y, -
+STRATUM,STRATUM VARIABLE FOR VARIANCE ESTIMATION,-,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Replaced STRATUM_D in 2012. Equal to sample frame by estimation area.
+STRATUM_D,STRATUM VARIABLE FOR DUAL-FRAME VARIANCE ESTIMATION,-,-,-,Y,-,-,-,-,-,-,-,-,-,-,-,-,Added in 2011. Equal to sample frame by estimation area. Replaced by STRATUM in 2012.
+TDP_AGE1,AGE IN YEARS OF PROV-REPORTED TD/TDAP-CONTAINING SHOT #1,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+TDP_AGE2,AGE IN YEARS OF PROV-REPORTED TD/TDAP-CONTAINING SHOT #2,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+TDP_AGE3,AGE IN YEARS OF PROV-REPORTED TD/TDAP-CONTAINING SHOT #3,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+TDP_AGE4,AGE IN YEARS OF PROV-REPORTED TD/TDAP-CONTAINING SHOT #4,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+TDP_AGE5,AGE IN YEARS OF PROV-REPORTED TD/TDAP-CONTAINING SHOT #5,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+TDP_AGE6,AGE IN YEARS OF PROV-REPORTED TD/TDAP-CONTAINING SHOT #6,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+TDP_AGE7,AGE IN YEARS OF PROV-REPORTED TD/TDAP-CONTAINING SHOT #7,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+TDP_AGE8,AGE IN YEARS OF PROV-REPORTED TD/TDAP-CONTAINING SHOT #8,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+TDP_AGE9,AGE IN YEARS OF PROV-REPORTED TD/TDAP-CONTAINING SHOT #9,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+TDP_DAGE1,AGE IN DAYS OF PROV-REPORTED TD/TDAP-CONTAINING SHOT #1,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011.
+TDP_DAGE2,AGE IN DAYS OF PROV-REPORTED TD/TDAP-CONTAINING SHOT #2,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011.
+TDP_DAGE3,AGE IN DAYS OF PROV-REPORTED TD/TDAP-CONTAINING SHOT #3,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011.
+TDP_DAGE4,AGE IN DAYS OF PROV-REPORTED TD/TDAP-CONTAINING SHOT #4,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011.
+TDP_DAGE5,AGE IN DAYS OF PROV-REPORTED TD/TDAP-CONTAINING SHOT #5,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011.
+TDP_DAGE6,AGE IN DAYS OF PROV-REPORTED TD/TDAP-CONTAINING SHOT #6,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011.
+TDP_DAGE7,AGE IN DAYS OF PROV-REPORTED TD/TDAP-CONTAINING SHOT #7,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011.
+TDP_DAGE8,AGE IN DAYS OF PROV-REPORTED TD/TDAP-CONTAINING SHOT #8,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011.
+TDP_DAGE9,AGE IN DAYS OF PROV-REPORTED TD/TDAP-CONTAINING SHOT #9,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011.
+TDP_MAGE1,AGE IN MONTHS OF PROV-REPORTED TD/TDAP-CONTAINING SHOT #1,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011.
+TDP_MAGE2,AGE IN MONTHS OF PROV-REPORTED TD/TDAP-CONTAINING SHOT #2,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011.
+TDP_MAGE3,AGE IN MONTHS OF PROV-REPORTED TD/TDAP-CONTAINING SHOT #3,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011.
+TDP_MAGE4,AGE IN MONTHS OF PROV-REPORTED TD/TDAP-CONTAINING SHOT #4,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011.
+TDP_MAGE5,AGE IN MONTHS OF PROV-REPORTED TD/TDAP-CONTAINING SHOT #5,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011.
+TDP_MAGE6,AGE IN MONTHS OF PROV-REPORTED TD/TDAP-CONTAINING SHOT #6,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011.
+TDP_MAGE7,AGE IN MONTHS OF PROV-REPORTED TD/TDAP-CONTAINING SHOT #7,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011.
+TDP_MAGE8,AGE IN MONTHS OF PROV-REPORTED TD/TDAP-CONTAINING SHOT #8,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011.
+TDP_MAGE9,AGE IN MONTHS OF PROV-REPORTED TD/TDAP-CONTAINING SHOT #9,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011.
+TEL_SAMPFRAME,SAMPLE FRAME INDICATOR (LANDLINE OR CELL-PHONE),-,-,-,Y,-,-,-,-,-,-,-,-,-,-,-,-,Added in 2011. Dropped in 2012 due to use of only dual-frame weights.
+TET_AGE_SC1,AGE OF TEEN IN YEARS AT HH-REPORTED TETANUS BOOSTER SHOT #1 (SHOTCARD),Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,Dropped in 2014 due to shortened questionnaire.
+TET_AGE_SC2,AGE OF TEEN IN YEARS AT HH-REPORTED TETANUS BOOSTER SHOT #2 (SHOTCARD),Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,Dropped in 2014 due to shortened questionnaire.
+TET_AGE_SC3,AGE OF TEEN IN YEARS AT HH-REPORTED TETANUS BOOSTER SHOT #3 (SHOTCARD),Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,Dropped in 2014 due to shortened questionnaire.
+TET_AGE_SC4,AGE OF TEEN IN YEARS AT HH-REPORTED TETANUS BOOSTER SHOT #4 (SHOTCARD),Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,Dropped in 2014 due to shortened questionnaire.
+TET_AGE_SC5,AGE OF TEEN IN YEARS AT HH-REPORTED TETANUS BOOSTER SHOT #5 (SHOTCARD),Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,Dropped in 2014 due to shortened questionnaire.
+TET_AGE_SC6,AGE OF TEEN IN YEARS AT HH-REPORTED TETANUS BOOSTER SHOT #6 (SHOTCARD),Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,Dropped in 2014 due to shortened questionnaire.
+TET_AGE_SC7,AGE OF TEEN IN YEARS AT HH-REPORTED TETANUS BOOSTER SHOT #7 (SHOTCARD),Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,Dropped in 2014 due to shortened questionnaire.
+TET_AGE_SC8,AGE OF TEEN IN YEARS AT HH-REPORTED TETANUS BOOSTER SHOT #8 (SHOTCARD),Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,Dropped in 2014 due to shortened questionnaire.
+TET_ANY,HH-REPORT: HAS TEEN EVER RECEIVED ANY TETANUS BOOSTER SHOTS?,-,-,-,-,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Y,Replaced TET_ANY_REC in 2015.
+TET_ANY_REC,HH-REPORT: HAS TEEN EVER RECEIVED ANY TETANUS BOOSTER SHOTS? (RECALL),Y,Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,-,-,-,Replaced by TET_ANY in 2015. 
+TET_ANY_SC,HH-REPORT: HAS TEEN EVER RECEIVED ANY TETANUS BOOSTER SHOTS? (SHOTCARD),Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,Dropped in 2014 due to shortened questionnaire.
+TET_LAST_AGE,AGE IN YEARS AT LAST TETANUS BOOSTER SHOT (RECALL),Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,Dropped in 2014 due to shortened questionnaire.
+TET_LAST_TYPE,TYPE OF LAST TETANUS BOOSTER SHOT (RECALL),Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,Dropped in 2014 due to shortened questionnaire.
+TET_NUM_SC,NUMBER OF HH-REPORTED TETANUS BOOSTER SHOTS RECEIVED (SHOTCARD),Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,Dropped in 2014 due to shortened questionnaire.
+TET_PLACE_1,KIND OF PLACE TEEN RECEIVED TETANUS BOOSTER SHOT AFTER AGE 7 YEARS: DOCTOR'S OFFICE,Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,Dropped in 2014 due to shortened questionnaire.
+TET_PLACE_10,KIND OF PLACE TEEN RECEIVED TETANUS BOOSTER SHOT AFTER AGE 7 YEARS: HOSPITAL-BASED CLINIC,-,-,-,-,Y,Y,-,-,-,-,-,-,-,-,-,-,Dropped in 2014 due to shortened questionnaire.
+TET_PLACE_11,KIND OF PLACE TEEN RECEIVED TETANUS BOOSTER SHOT AFTER AGE 7 YEARS: WHILE HOSPITALIZED,-,-,-,-,Y,Y,-,-,-,-,-,-,-,-,-,-,Dropped in 2014 due to shortened questionnaire.
+TET_PLACE_12,KIND OF PLACE TEEN RECEIVED TETANUS BOOSTER SHOT AFTER AGE 7 YEARS: ELEMENTARY/MIDDLE/HIGH SCHOOL,-,-,-,-,Y,Y,-,-,-,-,-,-,-,-,-,-,Dropped in 2014 due to shortened questionnaire.
+TET_PLACE_2,KIND OF PLACE TEEN RECEIVED TETANUS BOOSTER SHOT AFTER AGE 7 YEARS: EMERGENCY ROOM,Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,Dropped in 2014 due to shortened questionnaire.
+TET_PLACE_3,KIND OF PLACE TEEN RECEIVED TETANUS BOOSTER SHOT AFTER AGE 7 YEARS: HEALTH DEPARTMENT,Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,Dropped in 2014 due to shortened questionnaire.
+TET_PLACE_4,KIND OF PLACE TEEN RECEIVED TETANUS BOOSTER SHOT AFTER AGE 7 YEARS: CLINIC OR HEALTH CENTER,Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,Dropped in 2014 due to shortened questionnaire.
+TET_PLACE_5,KIND OF PLACE TEEN RECEIVED TETANUS BOOSTER SHOT AFTER AGE 7 YEARS: HOSPITAL,Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,Dropped in 2014 due to shortened questionnaire.
+TET_PLACE_6,KIND OF PLACE TEEN RECEIVED TETANUS BOOSTER SHOT AFTER AGE 7 YEARS: OTHER MEDICALLY-RELATED PLACE,Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,Dropped in 2014 due to shortened questionnaire.
+TET_PLACE_7,KIND OF PLACE TEEN RECEIVED TETANUS BOOSTER SHOT AFTER AGE 7 YEARS: PHARMACY OR DRUG STORE,Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,Dropped in 2014 due to shortened questionnaire.
+TET_PLACE_8,KIND OF PLACE TEEN RECEIVED TETANUS BOOSTER SHOT AFTER AGE 7 YEARS: WORKPLACE,Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,Dropped in 2014 due to shortened questionnaire.
+TET_PLACE_9,KIND OF PLACE TEEN RECEIVED TETANUS BOOSTER SHOT AFTER AGE 7 YEARS: OTHER NON-MEDICALLY-RELATED PLACE,Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,Dropped in 2014 due to shortened questionnaire.
+TET_REAS_1,MAIN REASON TEEN DID NOT RECEIVE TETANUS BOOSTER SHOTS: NOT RECOMMENDED,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y, -
+TET_REAS_10,MAIN REASON TEEN DID NOT RECEIVE TETANUS BOOSTER SHOTS: COSTS,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+TET_REAS_11,MAIN REASON TEEN DID NOT RECEIVE TETANUS BOOSTER SHOTS: SAFETY CONCERN/SIDE EFFECTS,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+TET_REAS_12,MAIN REASON TEEN DID NOT RECEIVE TETANUS BOOSTER SHOTS: EFFECTIVENESS CONCERN,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+TET_REAS_13,MAIN REASON TEEN DID NOT RECEIVE TETANUS BOOSTER SHOTS: TEEN FEARFUL,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+TET_REAS_14,MAIN REASON TEEN DID NOT RECEIVE TETANUS BOOSTER SHOTS: TEEN SHOULD MAKE DECISION,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+TET_REAS_15,MAIN REASON TEEN DID NOT RECEIVE TETANUS BOOSTER SHOTS: COLLEGE SHOT,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+TET_REAS_16,MAIN REASON TEEN DID NOT RECEIVE TETANUS BOOSTER SHOTS: DON'T BELIEVE IN VACCINATIONS,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+TET_REAS_17,MAIN REASON TEEN DID NOT RECEIVE TETANUS BOOSTER SHOTS: FAMILY/PARENTAL DECISION,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+TET_REAS_18,MAIN REASON TEEN DID NOT RECEIVE TETANUS BOOSTER SHOTS: HANDICAPPED/SPECIAL NEEDS/ILLNESS,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+TET_REAS_19,MAIN REASON TEEN DID NOT RECEIVE TETANUS BOOSTER SHOTS: RELIGION/ORTHODOX,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+TET_REAS_2,MAIN REASON TEEN DID NOT RECEIVE TETANUS BOOSTER SHOTS: LACK OF KNOWLEDGE,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+TET_REAS_20,MAIN REASON TEEN DID NOT RECEIVE TETANUS BOOSTER SHOTS: TIME,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+TET_REAS_21,MAIN REASON TEEN DID NOT RECEIVE TETANUS BOOSTER SHOTS: MORE INFO/NEW VACCINE,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+TET_REAS_22,MAIN REASON TEEN DID NOT RECEIVE TETANUS BOOSTER SHOTS: ALREADY UP-TO-DATE,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+TET_REAS_23,MAIN REASON TEEN DID NOT RECEIVE TETANUS BOOSTER SHOTS: NOT AVAILABLE,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+TET_REAS_24,MAIN REASON TEEN DID NOT RECEIVE TETANUS BOOSTER SHOTS: NOT A SCHOOL REQUIREMENT,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+TET_REAS_25,MAIN REASON TEEN DID NOT RECEIVE TETANUS BOOSTER SHOTS: INTEND TO COMPLETE BUT HAVE NOT YET/ALREADY PLANNED,-,-,-,-,-,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Additional reason flag added in 2016.
+TET_REAS_26,MAIN REASON TEEN DID NOT RECEIVE TETANUS BOOSTER SHOTS: DIFFICULTY MAKING OR GETTING TO APPOINTMENT/TRANSPORTATION PROBLEMS,-,-,-,-,-,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Additional reason flag added in 2016.
+TET_REAS_27,MAIN REASON TEEN DID NOT RECEIVE TETANUS BOOSTER SHOTS: COVID-19 PANDEMIC,-,-,-,-,-,-,-,-,-,-,-,-,Y,Y,Y,Y,Additional reason flag added in 2020.
+TET_REAS_28,MAIN REASON TEEN DID NOT RECEIVE TETANUS BOOSTER SHOTS: DISTRUST OF GOVT/CDC,-,-,-,-,-,-,-,-,-,-,-,-,,,,Y,Additional reason flag added in 2023.
+TET_REAS_3,MAIN REASON TEEN DID NOT RECEIVE TETANUS BOOSTER SHOTS: NOT NEEDED OR NOT NECESSARY,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+TET_REAS_4,MAIN REASON TEEN DID NOT RECEIVE TETANUS BOOSTER SHOTS: NO DOCTOR OR DOCTOR'S VISIT NOT SCHEDULED,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+TET_REAS_5,MAIN REASON TEEN DID NOT RECEIVE TETANUS BOOSTER SHOTS: NOT APPROPRIATE AGE,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+TET_REAS_7,MAIN REASON TEEN DID NOT RECEIVE TETANUS BOOSTER SHOTS: OTHER REASON,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+TET_RECOM,HAD OR HAS DOCTOR OR OTHER HEALTH CARE PROFESSIONAL EVER RECOMMENDED THAT TEEN RECEIVE TETANUS BOOSTER SHOTS?,Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,Dropped in 2014 due to shortened questionnaire.
+TET_TYPE1,TYPE OF HH-REPORTED TETANUS BOOSTER SHOT #1,Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,Dropped in 2014 due to shortened questionnaire.
+TET_TYPE2,TYPE OF HH-REPORTED TETANUS BOOSTER SHOT #2,Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,Dropped in 2014 due to shortened questionnaire.
+TET_TYPE3,TYPE OF HH-REPORTED TETANUS BOOSTER SHOT #3,Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,Dropped in 2014 due to shortened questionnaire.
+TET_TYPE4,TYPE OF HH-REPORTED TETANUS BOOSTER SHOT #4,Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,Dropped in 2014 due to shortened questionnaire.
+TET_TYPE5,TYPE OF HH-REPORTED TETANUS BOOSTER SHOT #5,Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,Dropped in 2014 due to shortened questionnaire.
+TET_TYPE6,TYPE OF HH-REPORTED TETANUS BOOSTER SHOT #6,Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,Dropped in 2014 due to shortened questionnaire.
+TET_TYPE7,TYPE OF HH-REPORTED TETANUS BOOSTER SHOT #7,Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,Dropped in 2014 due to shortened questionnaire.
+TET_TYPE8,TYPE OF HH-REPORTED TETANUS BOOSTER SHOT #8,Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,Dropped in 2014 due to shortened questionnaire.
+TIS_INS_1,IS TEEN COVERED BY HEALTH INSURANCE PROVIDED THROUGH EMPLOYER OR UNION?,Y,Y,Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,-,-,Replaced with INS_STAT_I and INS_BREAK_I in 2016.
+TIS_INS_11,"SINCE AGE 11, ANY TIME WHEN TEEN WAS NOT COVERED BY ANY HEALTH INSURANCE?",Y,Y,Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,-,-,Replaced with INS_STAT_I and INS_BREAK_I in 2016.
+TIS_INS_2,IS TEEN COVERED BY ANY MEDICAID PLAN?,Y,Y,Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,-,-,Replaced with INS_STAT_I and INS_BREAK_I in 2016.
+TIS_INS_3,IS TEEN COVERED BY CHIP?,Y,Y,Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,-,-,Replaced with INS_STAT_I and INS_BREAK_I in 2016.
+TIS_INS_3A,IS TEEN COVERED BY ANY MEDICAID PLAN OR CHIP?,Y,Y,Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,-,-,Replaced with INS_STAT_I and INS_BREAK_I in 2016.
+TIS_INS_4,IS TEEN COVERED BY INDIAN HEALTH SERVICE?,Y,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Replaced by TIS_INS_4_5 starting 2009.
+TIS_INS_4_5,"IS TEEN COVERED BY INDIAN HEALTH SERVICE, MILITARY HEALTH CARE, TRICARE, CHAMPUS, OR CHAMP-VA?",-,Y,Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,-,-,Replaced TIS_INS_4 and TIS_INS_5 starting 2009. Replaced with INS_STAT_I and INS_BREAK_I in 2016.
+TIS_INS_5,"IS TEEN COVERED BY MILITARY HEALTH CARE, TRICARE, CHAMPUS, OR CHAMP-VA?",Y,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Replaced by TIS_INS_4_5 starting 2009.
+TIS_INS_6,IS TEEN COVERED BY ANY OTHER HEALTH INSURANCE OR HEALTH CARE PLAN?,Y,Y,Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,-,-,Replaced with INS_STAT_I and INS_BREAK_I in 2016.
+VFC_I,DERIVED: IS TEEN VFC ELIGIBLE?,-,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,-,-,Added in 2009 to aid analysis. Dropped starting in 2012 due to a change in the IHQ.
+VFC_ORDER,DO TEEN'S PROVIDERS ORDER VACCINES FROM STATE/LOCAL HEALTH DEPT?,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+VISITS,IN PAST 12 MONTHS NUMBER OF TIMES TEEN HAS SEEN A DOCTOR OR OTHER HEALTH CARE PROFESSIONAL,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+VRC_AGE_SC1,AGE OF TEEN IN YEARS AT HH-REPORTED VARICELLA SHOT #1 (SHOTCARD),Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,Dropped in 2014 due to shortened questionnaire.
+VRC_AGE_SC2,AGE OF TEEN IN YEARS AT HH-REPORTED VARICELLA SHOT #2 (SHOTCARD),Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,Dropped in 2014 due to shortened questionnaire.
+VRC_AGE_SC3,AGE OF TEEN IN YEARS AT HH-REPORTED VARICELLA SHOT #3 (SHOTCARD),Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,Dropped in 2014 due to shortened questionnaire.
+VRC_AGE_SC4,AGE OF TEEN IN YEARS AT HH-REPORTED VARICELLA SHOT #4 (SHOTCARD),Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,Dropped in 2014 due to shortened questionnaire.
+VRC_AGE_SC5,AGE OF TEEN IN YEARS AT HH-REPORTED VARICELLA SHOT #5 (SHOTCARD),Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,Dropped in 2014 due to shortened questionnaire.
+VRC_AGE_SC6,AGE OF TEEN IN YEARS AT HH-REPORTED VARICELLA SHOT #6 (SHOTCARD),Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,Dropped in 2014 due to shortened questionnaire.
+VRC_AGE_SC7,AGE OF TEEN IN YEARS AT HH-REPORTED VARICELLA SHOT #7 (SHOTCARD),Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,Dropped in 2014 due to shortened questionnaire.
+VRC_AGE_SC8,AGE OF TEEN IN YEARS AT HH-REPORTED VARICELLA SHOT #8 (SHOTCARD),Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,Dropped in 2014 due to shortened questionnaire.
+VRC_AGE1,AGE IN YEARS OF PROV-REPORTED VARICELLA-CONTAINING SHOT #1,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+VRC_AGE2,AGE IN YEARS OF PROV-REPORTED VARICELLA-CONTAINING SHOT #2,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+VRC_AGE3,AGE IN YEARS OF PROV-REPORTED VARICELLA-CONTAINING SHOT #3,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+VRC_AGE4,AGE IN YEARS OF PROV-REPORTED VARICELLA-CONTAINING SHOT #4,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+VRC_AGE5,AGE IN YEARS OF PROV-REPORTED VARICELLA-CONTAINING SHOT #5,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+VRC_AGE6,AGE IN YEARS OF PROV-REPORTED VARICELLA-CONTAINING SHOT #6,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+VRC_AGE7,AGE IN YEARS OF PROV-REPORTED VARICELLA-CONTAINING SHOT #7,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+VRC_AGE8,AGE IN YEARS OF PROV-REPORTED VARICELLA-CONTAINING SHOT #8,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+VRC_AGE9,AGE IN YEARS OF PROV-REPORTED VARICELLA-CONTAINING SHOT #9,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+VRC_ANY_REC,HH-REPORT: HAS TEEN EVER RECEIVED ANY VARICELLA SHOTS? (RECALL),Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,Dropped in 2014 due to shortened questionnaire.
+VRC_ANY_SC,HH-REPORT: HAS TEEN EVER RECEIVED ANY VARICELLA SHOTS? (SHOTCARD),Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,Dropped in 2014 due to shortened questionnaire.
+VRC_DAGE1,AGE IN DAYS OF PROV-REPORTED VARICELLA-CONTAINING SHOT #1,-,-,-,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011. Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+VRC_DAGE2,AGE IN DAYS OF PROV-REPORTED VARICELLA-CONTAINING SHOT #2,-,-,-,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011. Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+VRC_DAGE3,AGE IN DAYS OF PROV-REPORTED VARICELLA-CONTAINING SHOT #3,-,-,-,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011. Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+VRC_DAGE4,AGE IN DAYS OF PROV-REPORTED VARICELLA-CONTAINING SHOT #4,-,-,-,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011. Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+VRC_DAGE5,AGE IN DAYS OF PROV-REPORTED VARICELLA-CONTAINING SHOT #5,-,-,-,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011. Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+VRC_DAGE6,AGE IN DAYS OF PROV-REPORTED VARICELLA-CONTAINING SHOT #6,-,-,-,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011. Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+VRC_DAGE7,AGE IN DAYS OF PROV-REPORTED VARICELLA-CONTAINING SHOT #7,-,-,-,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011. Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+VRC_DAGE8,AGE IN DAYS OF PROV-REPORTED VARICELLA-CONTAINING SHOT #8,-,-,-,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011. Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+VRC_DAGE9,AGE IN DAYS OF PROV-REPORTED VARICELLA-CONTAINING SHOT #9,-,-,-,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011. Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+VRC_HIST,HISTORY OF CHICKEN POX REPORTED BY THE HOUSEHOLD OR BY ANY PROVIDER,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011. Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+VRC_MAGE1,AGE IN MONTHS OF PROV-REPORTED VARICELLA-CONTAINING SHOT #1,-,-,-,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011. Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+VRC_MAGE2,AGE IN MONTHS OF PROV-REPORTED VARICELLA-CONTAINING SHOT #2,-,-,-,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011. Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+VRC_MAGE3,AGE IN MONTHS OF PROV-REPORTED VARICELLA-CONTAINING SHOT #3,-,-,-,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011. Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+VRC_MAGE4,AGE IN MONTHS OF PROV-REPORTED VARICELLA-CONTAINING SHOT #4,-,-,-,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011. Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+VRC_MAGE5,AGE IN MONTHS OF PROV-REPORTED VARICELLA-CONTAINING SHOT #5,-,-,-,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011. Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+VRC_MAGE6,AGE IN MONTHS OF PROV-REPORTED VARICELLA-CONTAINING SHOT #6,-,-,-,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011. Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+VRC_MAGE7,AGE IN MONTHS OF PROV-REPORTED VARICELLA-CONTAINING SHOT #7,-,-,-,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011. Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+VRC_MAGE8,AGE IN MONTHS OF PROV-REPORTED VARICELLA-CONTAINING SHOT #8,-,-,-,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011. Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+VRC_MAGE9,AGE IN MONTHS OF PROV-REPORTED VARICELLA-CONTAINING SHOT #9,-,-,-,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Age-in-days and age-in-months variables were added to the PUF in 2011. Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+VRC_NUM_REC,NUMBER OF HH-REPORTED VARICELLA SHOTS RECEIVED (RECALL),Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,Dropped in 2014 due to shortened questionnaire.
+VRC_NUM_SC,NUMBER OF HH-REPORTED VARICELLA SHOTS RECEIVED (SHOTCARD),Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,Dropped in 2014 due to shortened questionnaire.
+VRC_NUM_TOT,NUMBER OF HH-REPORTED VARICELLA SHOTS RECEIVED (TOTAL),Y,Y,Y,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,Dropped in 2014 due to shortened questionnaire.
+WELLCHILD,DID TEEN RECEIVE AN 11-12 YEAR OLD WELL CHILD EXAM OR CHECK-UP?,-,-,-,-,-,-,-,-,-,-,Y,Y,Y,Y,Y,Y,Added in 2018.
+XFLUTY1,SEASONAL INFLUENZA VACCINATION IN PAST THREE YEARS #1 TYPE CODE,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+XFLUTY2,SEASONAL INFLUENZA VACCINATION IN PAST THREE YEARS #2 TYPE CODE,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+XFLUTY3,SEASONAL INFLUENZA VACCINATION IN PAST THREE YEARS #3 TYPE CODE,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+XFLUTY4,SEASONAL INFLUENZA VACCINATION IN PAST THREE YEARS #4 TYPE CODE,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+XFLUTY5,SEASONAL INFLUENZA VACCINATION IN PAST THREE YEARS #5 TYPE CODE,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+XFLUTY6,SEASONAL INFLUENZA VACCINATION IN PAST THREE YEARS #6 TYPE CODE,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+XFLUTY7,SEASONAL INFLUENZA VACCINATION IN PAST THREE YEARS #7 TYPE CODE,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+XFLUTY8,SEASONAL INFLUENZA VACCINATION IN PAST THREE YEARS #8 TYPE CODE,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+XFLUTY9,SEASONAL INFLUENZA VACCINATION IN PAST THREE YEARS #9 TYPE CODE,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+XH1NTY1,MONOVALENT 2009 H1N1 INFLUENZA VACCINATION #1 TYPE CODE,-,-,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,-,"H1N1 influenza added to the IHQ shotgrid starting in late 2009, and introduced in the PUF in 2010. Removed from the IHQ and the PUF in 2013."
+XH1NTY2,MONOVALENT 2009 H1N1 INFLUENZA VACCINATION #2 TYPE CODE,-,-,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,-,"H1N1 influenza added to the IHQ shotgrid starting in late 2009, and introduced in the PUF in 2010. Removed from the IHQ and the PUF in 2013."
+XH1NTY3,MONOVALENT 2009 H1N1 INFLUENZA VACCINATION #3 TYPE CODE,-,-,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,-,"H1N1 influenza added to the IHQ shotgrid starting in late 2009, and introduced in the PUF in 2010. Removed from the IHQ and the PUF in 2013."
+XH1NTY4,MONOVALENT 2009 H1N1 INFLUENZA VACCINATION #4 TYPE CODE,-,-,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,-,"H1N1 influenza added to the IHQ shotgrid starting in late 2009, and introduced in the PUF in 2010. Removed from the IHQ and the PUF in 2013."
+XH1NTY5,MONOVALENT 2009 H1N1 INFLUENZA VACCINATION #5 TYPE CODE,-,-,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,-,"H1N1 influenza added to the IHQ shotgrid starting in late 2009, and introduced in the PUF in 2010. Removed from the IHQ and the PUF in 2013."
+XH1NTY6,MONOVALENT 2009 H1N1 INFLUENZA VACCINATION #6 TYPE CODE,-,-,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,-,"H1N1 influenza added to the IHQ shotgrid starting in late 2009, and introduced in the PUF in 2010. Removed from the IHQ and the PUF in 2013."
+XH1NTY7,MONOVALENT 2009 H1N1 INFLUENZA VACCINATION #7 TYPE CODE,-,-,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,-,"H1N1 influenza added to the IHQ shotgrid starting in late 2009, and introduced in the PUF in 2010. Removed from the IHQ and the PUF in 2013."
+XH1NTY8,MONOVALENT 2009 H1N1 INFLUENZA VACCINATION #8 TYPE CODE,-,-,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,-,"H1N1 influenza added to the IHQ shotgrid starting in late 2009, and introduced in the PUF in 2010. Removed from the IHQ and the PUF in 2013."
+XH1NTY9,MONOVALENT 2009 H1N1 INFLUENZA VACCINATION #9 TYPE CODE,-,-,Y,Y,Y,-,-,-,-,-,-,-,-,-,-,-,"H1N1 influenza added to the IHQ shotgrid starting in late 2009, and introduced in the PUF in 2010. Removed from the IHQ and the PUF in 2013."
+XHEPATY1,HEPATITIS A-CONTAINING VACCINATION #1 TYPE CODE,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+XHEPATY2,HEPATITIS A-CONTAINING VACCINATION #2 TYPE CODE,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+XHEPATY3,HEPATITIS A-CONTAINING VACCINATION #3 TYPE CODE,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+XHEPATY4,HEPATITIS A-CONTAINING VACCINATION #4 TYPE CODE,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+XHEPATY5,HEPATITIS A-CONTAINING VACCINATION #5 TYPE CODE,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+XHEPATY6,HEPATITIS A-CONTAINING VACCINATION #6 TYPE CODE,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+XHEPATY7,HEPATITIS A-CONTAINING VACCINATION #7 TYPE CODE,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+XHEPATY8,HEPATITIS A-CONTAINING VACCINATION #8 TYPE CODE,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+XHEPATY9,HEPATITIS A-CONTAINING VACCINATION #9 TYPE CODE,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+XHEPBTY1,HEPATITIS B-CONTAINING VACCINATION #1 TYPE CODE,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+XHEPBTY2,HEPATITIS B-CONTAINING VACCINATION #2 TYPE CODE,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+XHEPBTY3,HEPATITIS B-CONTAINING VACCINATION #3 TYPE CODE,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+XHEPBTY4,HEPATITIS B-CONTAINING VACCINATION #4 TYPE CODE,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+XHEPBTY5,HEPATITIS B-CONTAINING VACCINATION #5 TYPE CODE,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+XHEPBTY6,HEPATITIS B-CONTAINING VACCINATION #6 TYPE CODE,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+XHEPBTY7,HEPATITIS B-CONTAINING VACCINATION #7 TYPE CODE,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+XHEPBTY8,HEPATITIS B-CONTAINING VACCINATION #8 TYPE CODE,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+XHEPBTY9,HEPATITIS B-CONTAINING VACCINATION #9 TYPE CODE,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+XHPVTY1,HUMAN PAPILLOMAVIRUS VACCINATION #1 TYPE CODE,-,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,HPV shot type variables added to the PUF in 2012.
+XHPVTY2,HUMAN PAPILLOMAVIRUS VACCINATION #2 TYPE CODE,-,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,HPV shot type variables added to the PUF in 2012.
+XHPVTY3,HUMAN PAPILLOMAVIRUS VACCINATION #3 TYPE CODE,-,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,HPV shot type variables added to the PUF in 2012.
+XHPVTY4,HUMAN PAPILLOMAVIRUS VACCINATION #4 TYPE CODE,-,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,HPV shot type variables added to the PUF in 2012.
+XHPVTY5,HUMAN PAPILLOMAVIRUS VACCINATION #5 TYPE CODE,-,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,HPV shot type variables added to the PUF in 2012.
+XHPVTY6,HUMAN PAPILLOMAVIRUS VACCINATION #6 TYPE CODE,-,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,HPV shot type variables added to the PUF in 2012.
+XHPVTY7,HUMAN PAPILLOMAVIRUS VACCINATION #7 TYPE CODE,-,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,HPV shot type variables added to the PUF in 2012.
+XHPVTY8,HUMAN PAPILLOMAVIRUS VACCINATION #8 TYPE CODE,-,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,HPV shot type variables added to the PUF in 2012.
+XHPVTY9,HUMAN PAPILLOMAVIRUS VACCINATION #9 TYPE CODE,-,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,HPV shot type variables added to the PUF in 2012.
+XMCVTY1,MEASLES-CONTAINING VACCINATION #1 TYPE CODE,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+XMCVTY2,MEASLES-CONTAINING VACCINATION #2 TYPE CODE,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+XMCVTY3,MEASLES-CONTAINING VACCINATION #3 TYPE CODE,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+XMCVTY4,MEASLES-CONTAINING VACCINATION #4 TYPE CODE,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+XMCVTY5,MEASLES-CONTAINING VACCINATION #5 TYPE CODE,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+XMCVTY6,MEASLES-CONTAINING VACCINATION #6 TYPE CODE,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+XMCVTY7,MEASLES-CONTAINING VACCINATION #7 TYPE CODE,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+XMCVTY8,MEASLES-CONTAINING VACCINATION #8 TYPE CODE,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+XMCVTY9,MEASLES-CONTAINING VACCINATION #9 TYPE CODE,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+XMENBTY1,MENINGOCOCCAL SEROGROUP B VACCINATION #1 TYPE CODE,-,-,-,-,-,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Meningococcal Serogroup B added to the IHQ shotgrid starting in 2016.
+XMENBTY2,MENINGOCOCCAL SEROGROUP B VACCINATION #2 TYPE CODE,-,-,-,-,-,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Meningococcal Serogroup B added to the IHQ shotgrid starting in 2016.
+XMENBTY3,MENINGOCOCCAL SEROGROUP B VACCINATION #3 TYPE CODE,-,-,-,-,-,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Meningococcal Serogroup B added to the IHQ shotgrid starting in 2016.
+XMENBTY4,MENINGOCOCCAL SEROGROUP B VACCINATION #4 TYPE CODE,-,-,-,-,-,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Meningococcal Serogroup B added to the IHQ shotgrid starting in 2016.
+XMENBTY5,MENINGOCOCCAL SEROGROUP B VACCINATION #5 TYPE CODE,-,-,-,-,-,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Meningococcal Serogroup B added to the IHQ shotgrid starting in 2016.
+XMENBTY6,MENINGOCOCCAL SEROGROUP B VACCINATION #6 TYPE CODE,-,-,-,-,-,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Meningococcal Serogroup B added to the IHQ shotgrid starting in 2016.
+XMENBTY7,MENINGOCOCCAL SEROGROUP B VACCINATION #7 TYPE CODE,-,-,-,-,-,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Meningococcal Serogroup B added to the IHQ shotgrid starting in 2016.
+XMENBTY8,MENINGOCOCCAL SEROGROUP B VACCINATION #8 TYPE CODE,-,-,-,-,-,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Meningococcal Serogroup B added to the IHQ shotgrid starting in 2016.
+XMENBTY9,MENINGOCOCCAL SEROGROUP B VACCINATION #9 TYPE CODE,-,-,-,-,-,-,-,-,Y,Y,Y,Y,Y,Y,Y,Y,Meningococcal Serogroup B added to the IHQ shotgrid starting in 2016.
+XMENTY1,MENINGOCOCCAL SEROGROUP ACWY VACCINATION #1 TYPE CODE,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+XMENTY2,MENINGOCOCCAL SEROGROUP ACWY VACCINATION #2 TYPE CODE,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+XMENTY3,MENINGOCOCCAL SEROGROUP ACWY VACCINATION #3 TYPE CODE,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+XMENTY4,MENINGOCOCCAL SEROGROUP ACWY VACCINATION #4 TYPE CODE,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+XMENTY5,MENINGOCOCCAL SEROGROUP ACWY VACCINATION #5 TYPE CODE,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+XMENTY6,MENINGOCOCCAL SEROGROUP ACWY VACCINATION #6 TYPE CODE,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+XMENTY7,MENINGOCOCCAL SEROGROUP ACWY VACCINATION #7 TYPE CODE,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+XMENTY8,MENINGOCOCCAL SEROGROUP ACWY VACCINATION #8 TYPE CODE,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+XMENTY9,MENINGOCOCCAL SEROGROUP ACWY VACCINATION #9 TYPE CODE,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+XTDPTY1,TD/TDAP-CONTAINING VACCINATION #1 TYPE CODE,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+XTDPTY2,TD/TDAP-CONTAINING VACCINATION #2 TYPE CODE,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+XTDPTY3,TD/TDAP-CONTAINING VACCINATION #3 TYPE CODE,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+XTDPTY4,TD/TDAP-CONTAINING VACCINATION #4 TYPE CODE,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+XTDPTY5,TD/TDAP-CONTAINING VACCINATION #5 TYPE CODE,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+XTDPTY6,TD/TDAP-CONTAINING VACCINATION #6 TYPE CODE,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+XTDPTY7,TD/TDAP-CONTAINING VACCINATION #7 TYPE CODE,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+XTDPTY8,TD/TDAP-CONTAINING VACCINATION #8 TYPE CODE,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+XTDPTY9,TD/TDAP-CONTAINING VACCINATION #9 TYPE CODE,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-
+XVRCTY1,VARICELLA-CONTAINING VACCINATION #1 TYPE CODE,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+XVRCTY2,VARICELLA-CONTAINING VACCINATION #2 TYPE CODE,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+XVRCTY3,VARICELLA-CONTAINING VACCINATION #3 TYPE CODE,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+XVRCTY4,VARICELLA-CONTAINING VACCINATION #4 TYPE CODE,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+XVRCTY5,VARICELLA-CONTAINING VACCINATION #5 TYPE CODE,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+XVRCTY6,VARICELLA-CONTAINING VACCINATION #6 TYPE CODE,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+XVRCTY7,VARICELLA-CONTAINING VACCINATION #7 TYPE CODE,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+XVRCTY8,VARICELLA-CONTAINING VACCINATION #8 TYPE CODE,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+XVRCTY9,VARICELLA-CONTAINING VACCINATION #9 TYPE CODE,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y,Dropped in 2018 due to a provider reporting issue. Added back in 2019.
+YEAR,SAMPLING YEAR,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y, -
+,,,,,,,,,,,,,,,,,,
